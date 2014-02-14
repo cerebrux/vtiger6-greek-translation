@@ -9,16 +9,16 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Assets'        => 'Κεφάλαια',
-	'SINGLE_Assets' => 'Kεφάλαιο',
-	'LBL_ADD_RECORD' => 'Προσθήκη Κεφαλαίου',
-	'LBL_RECORDS_LIST' => 'Λίστα Κεφαλαίων',
+	'Assets'        => 'Αγαθά',
+	'SINGLE_Assets' => 'Αγαθό',
+	'LBL_ADD_RECORD' => 'Προσθήκη Αγαθού',
+	'LBL_RECORDS_LIST' => 'Λίστα Αγαθών',
 
 	// Blocks
-	'LBL_ASSET_INFORMATION' => 'Λεπτομέρειες Κεφαλαίου',
+	'LBL_ASSET_INFORMATION' => 'Λεπτομέρειες Αγαθού',
 
 	//Field Labels
-    'Asset No' => 'No Κεφαλαίου',
+    'Asset No' => 'Αρ. Αγαθού',
 	'Serial Number' => 'Αύξων αριθμός',
 	'Date Sold' => 'Ημερομηνία Πώλησης',
 	'Date in Service' => 'Ημερομηνία σε Υπηρεσία',
@@ -26,7 +26,7 @@ $languageStrings = array(
 	'Invoice Name' => 'Όνομα Τιμολογίου',
 	'Shipping Method' => 'Τρόπος Αποστολής',
 	'Shipping Tracking Number' => 'Αριθμός Παρακολούθησης Αποστολής',
-	'Asset Name' => 'Όνομα Κεφαλαίου',
+	'Asset Name' => 'Όνομα Αγαθού',
 	'Customer Name' => 'Όνομα Πελάτη',
 	'Notes' => 'Σημειώσεις',
 
