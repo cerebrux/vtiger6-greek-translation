@@ -8,17 +8,17 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Add Email Template',
-	'SINGLE_EmailTemplates' => 'Email Template',
-	'LBL_EMAIL_TEMPLATES'=> 'Email Templates',
-	'LBL_EMAIL_TEMPLATE' => 'Email Template',
+	'LBL_ADD_RECORD' => 'Προσθέστε Πρότυπο Email',
+	'SINGLE_EmailTemplates' => 'Πρότυπο Email',
+	'LBL_EMAIL_TEMPLATES'=> 'Πρότυπα Email',
+	'LBL_EMAIL_TEMPLATE' => 'Πρότυπο Email',
 	
-	'LBL_TEMPLATE_NAME' => 'Template name',
-	'LBL_DESCRIPTION' => 'Description',
-	'LBL_SUBJECT' => 'Subject',
-	'LBL_GENERAL_FIELDS' => 'General Fields',
-	'LBL_SELECT_FIELD_TYPE' => 'Select Field Type',
+	'LBL_TEMPLATE_NAME' => 'Όνομα Προύπου',
+	'LBL_DESCRIPTION' => 'Περιγραφή',
+	'LBL_SUBJECT' => 'Θέμα',
+	'LBL_GENERAL_FIELDS' => 'Γενικά Πεδία',
+	'LBL_SELECT_FIELD_TYPE' => 'Επιλογή Τύπου Πεδίου',
 	
-	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Manage templates for E-Mail module',
+	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Διαχείρηση Προτύπων για το Άρθρωμα του Email',
 	
 );
