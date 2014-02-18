@@ -10,25 +10,25 @@
 $languageStrings = array(
 	'Faq' => 'FAQ',
 	'SINGLE_Faq' => 'FAQ',
-	'LBL_RECORDS_LIST' => 'FAQs List',
-	'LBL_ADD_RECORD' => 'Add FAQ',
+	'LBL_RECORDS_LIST' => 'Λίστα FAQ ',
+	'LBL_ADD_RECORD' => 'Προσθήκη FAQ',
 	
 	//Blocks
-	'LBL_FAQ_INFORMATION' => 'FAQ Information',
-	'LBL_COMMENT_INFORMATION' =>  'Comments',
+	'LBL_FAQ_INFORMATION' => 'Πληροφορίες FAQ',
+	'LBL_COMMENT_INFORMATION' => 'Σχόλια',
 	
 	//Fields
-	'Question'=>'Question',
-	'Answer'=>'Answer',
-	'Comments'=>'Comments',
-	'Faq No' => 'Faq Number',
+	'Question'=>'Ερώτηση',
+	'Answer'=>'Απάντηση',
+	'Comments'=>'Σχόλια',
+	'Faq No' => 'Αριθμός Faq',
 	
 	//Added for existing Picklist Entries
-	'General'=>'General',
-	'Draft'=>'Draft',
-	'Published'=>'Published',
-	'Obsolete'=>'Obsolete',
+	'General'=>'Γενικά',
+	'Draft'=>'Πρόχειρο',
+	'Published'=>'Δημοσιεύθηκε',
+	'Obsolete'=>'Παρωχημένο',
 
 	//EditView
-	'LBL_SOLUTION' => 'Solution',
+	'LBL_SOLUTION' => 'Λύση',
 );
