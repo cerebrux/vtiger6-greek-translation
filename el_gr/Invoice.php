@@ -10,7 +10,7 @@
 $languageStrings = array(
 	//DetailView Actions
 	'SINGLE_Invoice' => 'Τιμολόγιο',
-	'LBL_EXPORT_TO_PDF' => 'Εξαγωγ σε PDF',
+	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε PDF',
     'LBL_SEND_MAIL_PDF' => 'Αποστολή Email με PDF',
 
 	//Basic strings
