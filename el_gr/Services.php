@@ -9,36 +9,36 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Services' => 'Services',
-	'SINGLE_Services' => 'Service',
-	'LBL_ADD_RECORD' => 'Add Service',
-	'LBL_RECORDS_LIST' => 'Services List',
+	'Services' => 'Yπηρεσίες',
+	'SINGLE_Services' => 'Yπηρεσία',
+	'LBL_ADD_RECORD' => 'Προσθήκη Yπηρεσίας',
+	'LBL_RECORDS_LIST' => 'Λίστα Υπηρεσιών',
 
 	// Blocks
-	'LBL_SERVICE_INFORMATION' => 'Service Details',
+	'LBL_SERVICE_INFORMATION' => 'Λεπτομέρειες Υπηρεσίας',
 	
-	'LBL_MORE_CURRENCIES' => 'more currencies', 
-	'LBL_PRICES' => 'Service Prices',
-	'LBL_PRICE' => 'Price',
-	'LBL_RESET_PRICE' => 'Reset Price',
-	'LBL_RESET' => 'Reset',
+	'LBL_MORE_CURRENCIES' => 'περισσότερα συναλλάγματα', 
+	'LBL_PRICES' => 'Τιμές Υπηρεσιών',
+	'LBL_PRICE' => 'Τιμή',
+	'LBL_RESET_PRICE' => 'Επαναφορά Τιμής',
+	'LBL_RESET' => 'Επαναφορά',
 	
 	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Add to PriceBooks',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στον Τιμοκατάλογο',
 
 	//Field Labels
-	'Service Name'=>'Service Name',
-	'Service Active'=>'Active',
-	'Service Category'=>'Category',
-	'Service No'=>'Service Number',
-	'Owner'=>'Owner',
-	'No of Units'=>'Number of Units',
-	'Commission Rate'=>'Commission Rate',
-	'Price'=>'Price',
-	'Usage Unit'=>'Usage Unit',
-	'Tax Class'=>'Tax Class',
-	'Website'=>'Website',
+	'Service Name'=>'Όνομα Yπηρεσίας',
+	'Service Active'=>'Ενεργό',
+	'Service Category'=>'Κατηγορία',
+	'Service No'=>'Αρ Yπηρεσίας',
+	'Owner'=>'Ιδιοκτήτης',
+	'No of Units'=>'Αριθμός των Μεριδίων',
+	'Commission Rate'=>'Ποσοστό Προμήθειας',
+	'Price'=>'Τιμή',
+	'Usage Unit'=>'Μονάδα Χρήσης',
+	'Tax Class'=>'Κλάση Φόρου',
+	'Website'=>'Ιστοσελίδα',
 	
 	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Add to PriceBooks',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στον Τιμοκατάλογο',
 );
