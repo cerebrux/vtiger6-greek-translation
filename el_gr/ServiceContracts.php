@@ -10,22 +10,22 @@
  * *********************************************************************************** */
 $languageStrings = array(
 	// Basic Strings
-	'ServiceContracts' => 'Service Contracts',
-	'Service Contracts' => 'Service Contracts',
-	'SINGLE_ServiceContracts' => 'Service Contract',
-	'LBL_ADD_RECORD' => 'Add Service Contract',
-	'LBL_RECORDS_LIST' => 'Service Contracts List',
+	'ServiceContracts' => 'Συμβάσεις Παροχής Υπηρεσιών',
+	'Service Contracts' => 'Συμβάσεις Παροχής Υπηρεσιών',
+	'SINGLE_ServiceContracts' => 'Σύμβάση Παροχής Υπηρεσιών',
+	'LBL_ADD_RECORD' => 'Προσθήκη Σύμβάση Παροχής Υπηρεσιών',
+	'LBL_RECORDS_LIST' => 'Κατάλογος Σύμβάσης Παροχής Υπηρεσιών',
 	// Blocks
-	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Service Contract Details',
+	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Πληροφορίες Σύμβάσης Παροχής Υπηρεσιών',
 	
 	//Field Labels
-	'Contract No' => 'Contract Number',
-	'Start Date' => 'Start Date',
-	'End Date' => 'End Date',
-	'Tracking Unit' => 'Tracking Unit',
-	'Total Units' => 'Total Units',
-	'Used Units' => 'Used Units',
-	'Progress'=> 'Progress',
-	'Planned Duration' => 'Planned Duration (in Days)',
-	'Actual Duration' => 'Actual Duration (in Days)',
+	'Contract No' => 'Αρ Σύμβασης',
+	'Start Date' => 'Ημερομηνία Έναρξης',
+	'End Date' => 'Ημερομηνία Λήξης',
+	'Tracking Unit' => 'Μονάδα Παρακολούθησης',
+	'Total Units' => 'Συνολικές Μονάδες',
+	'Used Units' => 'ΚαταναλωμένεςΜονάδες',
+	'Progress'=> 'Πρόοδος',
+	'Planned Duration' => 'Διάρκεια Προγραμματισμού (σε ημέρες)',
+	'Actual Duration' => 'Πραγματική Διάρκεια (σε ημέρες)',
 );
