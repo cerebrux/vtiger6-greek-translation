@@ -75,16 +75,16 @@ $languageStrings = array(
 	'LBL_AVG' => 'AVG',
 	'LBL_MAX' => 'MAX',
 	'LBL_MIN' => 'MIN',
-	'LBL_FIELD_NAMES' => 'Field Names',
-	'LBL_REPORT_CSV' => 'Export CSV',
-	'LBL_VIEW_DETAILS' => 'View Details',
-	'LBL_GENERATE_NOW' => 'Generate now',
+	'LBL_FIELD_NAMES' => 'Ονόματα Πεδίων',
+	'LBL_REPORT_CSV' => 'Εξαγωγή CSV',
+	'LBL_VIEW_DETAILS' => 'Εμφάνιση Λεπτομερειών',
+	'LBL_GENERATE_NOW' => 'Δημιουργία τώρα',
 
 	//List View Headers
-	'Report Name' => 'Report Name',
+	'Report Name' => 'Όνομα Αναφοράς',
 
 	//Default Folders Names, Report Names and Description
-	'Account and Contact Reports'=>'Organization and Contact Reports',
+	'Account and Contact Reports'=>'Αναφορές Οργανισμών και Επαφών',
 	'Lead Reports'=>'Lead Reports',
 	'Potential Reports'=>'Opportunity Reports',
 	'Activity Reports'=>'Activity Reports',
