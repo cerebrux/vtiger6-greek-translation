@@ -7,22 +7,17 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  ************************************************************************************/
-
-$languageStrings = Array(
-	'RecycleBin' => 'Recycle Bin',
-	'LBL_SELECT_MODULE' => 'Select Module',
-	'LBL_EMPTY_RECYCLEBIN' => 'Empty Recycle Bin',
-	'LBL_RESTORE' => 'Restore',
-	'LBL_NO_PERMITTED_MODULES' => 'No permitted modules available',
-	'LBL_RECORDS_LIST' => 'Recycle Bin List',
-	'LBL_NO_RECORDS_FOUND' => 'No records found to Restore in module',
+$languageStrings = array(
+	'RecycleBin'                   => 'Κάδος Ανακύκλωσης'                 , // TODO: Review
+	'LBL_SELECT_MODULE'            => 'Επιλογή Αρθρώματος'               , // TODO: Review
+	'LBL_EMPTY_RECYCLEBIN'         => 'Άδειος Κάδος Ανακύκλωσης'           , // TODO: Review
+	'LBL_RESTORE'                  => 'Επαναφορά'                     , // TODO: Review
+	'LBL_NO_PERMITTED_MODULES'     => 'Δεν επιτρέπονται διαθέσιμα Αρθρώματα', // TODO: Review
+	'LBL_RECORDS_LIST'             => 'Λίστα Κάδου Ανακύκλωσης'            , // TODO: Review
+	'LBL_NO_RECORDS_FOUND'         => 'Δεν βρέθηκαν εγγραφές επαναφοράς στα Αρθρώματα', // TODO: Review
+	'Recycle Bin' => 'Κάδος Ανακύκλωσης',
 );
-
 $jsLanguageStrings = array(
-	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Are you sure you want to permanently remove all the deleted records from your database?',
-	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Are you sure you want to restore the records?',
-	'JS_RESTORING_RECORDS' => 'Restoring records',
+	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε οριστικά όλα τα διαγραμμένα αρχεία από τη βάση δεδομένων σας?', // TODO: Review
+	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να επαναφέρετε τα αρχεία?', // TODO: Review
 );
-
-
-?>
