@@ -12,7 +12,7 @@
 
 $languageStrings = array(
 	// Basic Strings
-	'Events' => 'Events',
+	'Events' => 'Συμβάντα',
 	'SINGLE_Events' => 'Event',
 	'LBL_ADD_RECORD' => 'Add Event',
 	'LBL_RECORDS_LIST' => 'Events List',
