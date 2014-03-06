@@ -27,5 +27,5 @@ $languageStrings = array(
 	//Blocks
 	'LBL_SMSNOTIFIER_INFORMATION'  => 'Πληροφορίες Μηνύματος',
 	'SINGLE_SMSNotifier'           => 'Ειδοποίηση Μηνύματος', // TODO: Review
-	'SMSNotifier' => 'Ειδοποίηση Μηνύματος', //added by mstavrou for menu SMSNotifier
+	'SMSNotifier' => 'Ειδοποίηση Μηνύματος', // added for translate menu SMSNotifier
 );
