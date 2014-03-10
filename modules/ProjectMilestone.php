@@ -9,16 +9,16 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_ProjectMilestone' => 'Project Milestone',
-	'LBL_ADD_RECORD' => 'Add Project Milestone',
-	'LBL_RECORDS_LIST' => 'Project Milestones List',
+	'SINGLE_ProjectMilestone' => 'Επιμέρους Σχεδιασμός',
+	'LBL_ADD_RECORD' => 'Προσθήκη Επιμέρους Σχεδιασμού',
+	'LBL_RECORDS_LIST' => 'Λίστα Επιμέρους Σχεδιασμών',
 
 	// Blocks
-	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Project Milestone Details',
+	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Πληροφορίες Επιμερών Σχεδιασμών',
 	
 	//Field Labels
-	'Project Milestone Name' => 'Project Milestone Name',
-	'Milestone Date' => 'Milestone Date',
-	'Project Milestone No' => 'Project Milestone Number',
+	'Project Milestone Name' => 'Ονομασία Επιμέρους Σχεδιασμόυ',
+	'Milestone Date' => 'Ημερομηνία Ορόσημο',
+	'Project Milestone No' => 'Αρ.Επιμέρους Σχεδίου',
 	
 );
