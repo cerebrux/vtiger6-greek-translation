@@ -10,7 +10,7 @@ Download
 
 Version
 --------
-6.0.0-1000-pre-release
+6.0.0-1002-pre-release
 
 
 Installation
