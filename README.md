@@ -3,9 +3,15 @@ Vtiger6 Greek-Translation
 
 This is the Greek translation of Vtiger 6
 
-Version:
+Download
+---------
+
+-- To do --
+
+Version
 --------
-0.1.0-pre-release
+6.0.0-1000-pre-release
+
 
 Installation
 ------------
