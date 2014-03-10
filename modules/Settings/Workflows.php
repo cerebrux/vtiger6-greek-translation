@@ -14,7 +14,6 @@ $languageStrings = array(
 	'LBL_CREATING_WORKFLOW'        => 'Δημιουργία Ροών Ενεργειών', // TODO: Review
 	'LBL_NEXT'                     => 'Επομενο', // TODO: Review
 	
-
 	//Edit view
 	'LBL_STEP_1' => 'Βήμα 1', // TODO: Review
 	'LBL_ENTER_BASIC_DETAILS_OF_THE_WORKFLOW' => 'Εισάγετε βασικά στοιχεία της ροής εργασίας', // TODO: Review
