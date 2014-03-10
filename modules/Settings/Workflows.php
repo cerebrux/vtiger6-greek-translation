@@ -9,88 +9,83 @@
  *************************************************************************************/
 $languageStrings = array(
 	//Basic Field Names
-	'LBL_NEW' => 'New',
-	'LBL_WORKFLOW' => 'Workflow',
-	'LBL_CREATING_WORKFLOW' => 'Creating WorkFlow',
-	'LBL_EDITING_WORKFLOW' => 'Editing Workflow',
-	'LBL_NEXT' => 'Next',
+        'LBL_NEW'                      => 'Νέα', // TODO: Review
+	'LBL_WORKFLOW'                 => 'Ροές Ενεργειών', // TODO: Review
+	'LBL_CREATING_WORKFLOW'        => 'Δημιουργία Ροών Ενεργειών', // TODO: Review
+	'LBL_NEXT'                     => 'Επομενο', // TODO: Review
+	
 
 	//Edit view
-	'LBL_STEP_1' => 'Step 1',
-	'LBL_ENTER_BASIC_DETAILS_OF_THE_WORKFLOW' => 'Enter basic details of the Workflow',
-	'LBL_SPECIFY_WHEN_TO_EXECUTE' => 'Specify when to execute this Workflow',
-	'ON_FIRST_SAVE' => 'Only on the first save',
-	'ONCE' => 'Until the first time the condition is true',
-	'ON_EVERY_SAVE' => 'Every time the record is saved',
-	'ON_MODIFY' => 'Every time a record is modified',
-	'MANUAL' => 'System',
-	'SCHEDULE_WORKFLOW' => 'Schedule Workflow',
-	'ADD_CONDITIONS' => 'Add Conditions',
-	'ADD_TASKS' => 'Add Tasks',
+	'LBL_STEP_1' => 'Βήμα 1', // TODO: Review
+	'LBL_ENTER_BASIC_DETAILS_OF_THE_WORKFLOW' => 'Εισάγετε βασικά στοιχεία της ροής εργασίας', // TODO: Review
+	'LBL_SPECIFY_WHEN_TO_EXECUTE'  => 'Καθορίστε πότε να εκτελέστει αυτή η ροή ενεργειών', // TODO: Review
+	'ON_FIRST_SAVE'                => 'Μόνο Κατά την Πρώτη Αποθήκευση', // TODO: Review
+	'ONCE'                         => 'Μέχρι την πρώτη φορά που η συνθήκη θα είναι αληθής', // TODO: Review
+	'ON_EVERY_SAVE'                => 'Κάθε φορά που η εγγραφή αποθηκεύεται', // TODO: Review
+	'ON_MODIFY'                    => 'Κάθε φορά που η εγγραφή τροποποιήται', // TODO: Review
+	'MANUAL'                       => 'Σύστημα', // TODO: Review
+	'SCHEDULE_WORKFLOW'            => 'Πρόγραμματισμένη Ροή Ενεργειών', // TODO: Review
+	'ADD_CONDITIONS'               => 'Προσθήκη Προϋποθέσεις', // TODO: Review
+	'ADD_TASKS'                    => 'Προσθήκη Εργασίες', // TODO: Review
 
 	//Step2 edit view
-	'LBL_EXPRESSION' => 'Expression',
-	'LBL_FIELD_NAME' => 'Field',
-	'LBL_SET_VALUE' => 'Set Value',
-	'LBL_USE_FIELD' => 'Use Field',
-	'LBL_USE_FUNCTION' => 'Use Function',
-	'LBL_RAW_TEXT' => 'Raw text',
-	'LBL_ENABLE_TO_CREATE_FILTERS' => 'Enable to create Filters',
-	'LBL_CREATED_IN_OLD_LOOK_CANNOT_BE_EDITED' => 'This workflow was created in older look. Conditions created in older look cannot be edited. You can choose to recreate the conditions, or use the existing conditions without changing them.',
-	'LBL_USE_EXISTING_CONDITIONS' => 'Use existing conditions',
-	'LBL_RECREATE_CONDITIONS' => 'Recreate Conditions',
-	'LBL_SAVE_AND_CONTINUE' => 'Save & Continue',
-
+        'LBL_EXPRESSION'               => 'Έκφραση', // TODO: Review
+	'LBL_FIELD_NAME'               => 'Πεδίο', // TODO: Review
+	'LBL_SET_VALUE'                => 'Ορισμός Τιμής', // TODO: Review
+	'LBL_USE_FIELD'                => 'Πεδίο σε Χρήση', // TODO: Review
+	'LBL_USE_FUNCTION'             => 'Χρησιμοποιήστε Λειτουργία', // TODO: Review
+	'LBL_RAW_TEXT'                 => 'Πρώτο κείμενο' , // TODO: Review
+	'LBL_ENABLE_TO_CREATE_FILTERS' => 'Επιτρέπουν να δημιουργήσετε φίλτρα'    , // TODO: Review
+	'LBL_CREATED_IN_OLD_LOOK_CANNOT_BE_EDITED' => 'Αυτή η ροή εργασίας δημιουργήθηκε σε παλαιότερη εμφάνιση. Όροι δημιουργήθηκαν σε παλαιότερες ματιά δεν μπορεί να επεξεργαστεί. Μπορείτε να επιλέξετε να αναδημιουργήσει τις προϋποθέσεις, ή χρησιμοποιήστε τις υπάρχουσες συνθήκες, χωρίς να αλλάζει τους.', // TODO: Review
+	'LBL_USE_EXISTING_CONDITIONS'  => 'Χρησιμοποιήστε τις υπάρχουσες συνθήκες', // TODO: Review
+	'LBL_RECREATE_CONDITIONS'      => 'Ανασύνθεση Προϋποθέσεις', // TODO: Review
+	'LBL_SAVE_AND_CONTINUE'        => 'Αποθήκευση & Συνέχεια', // TODO: Review
 	//Step3 edit view
-	'LBL_ACTIVE' => 'Active',
-	'LBL_TASK_TYPE' => 'Task Type',
-	'LBL_TASK_TITLE' => 'Task Title',
-	'LBL_ADD_TASKS_FOR_WORKFLOW' => 'Add Task for Workflow',
-	'LBL_TASK_TYPE' => 'Task type',
-	'LBL_EXECUTE_TASK' => 'Execute Task',
-	'LBL_SELECT_OPTIONS' => 'Select Options',
-	'LBL_ADD_FIELD' => 'Add field',
-	'LBL_ADD_TIME' => 'Add time',
-	'LBL_TITLE' => 'Title',
-	'LBL_PRIORITY' => 'Priority',
-	'LBL_ASSIGNED_TO' => 'Assigned to',
-	'LBL_TIME' => 'Time',
-	'LBL_DUE_DATE' => 'Due Date',
-	'LBL_THE_SAME_VALUE_IS_USED_FOR_START_DATE' => 'The same value is used for the start date',
-	'LBL_EVENT_NAME' => 'Event Name',
-	'LBL_TYPE' => 'Type',
-	'LBL_METHOD_NAME' => 'Method Name',
-	'LBL_RECEPIENTS' => 'Recepients',
-	'LBL_ADD_FIELDS' => 'Add Fields',
-	'LBL_SMS_TEXT' => 'Sms Text',
-	'LBL_SET_FIELD_VALUES' => 'Set Field Values',
-	'LBL_ADD_FIELD' => 'Add Field',
-	'LBL_IN_ACTIVE' => 'In Active',
-	'LBL_SEND_NOTIFICATION' => 'Send Notification',
-	'LBL_START_TIME' => 'Start Time',
-	'LBL_START_DATE' => 'Start Date',
-	'LBL_END_TIME' => 'End Time',
-	'LBL_END_DATE' => 'End Date',
-	'LBL_ENABLE_REPEAT' => 'Enable Repeat',
-	'LBL_NO_METHOD_IS_AVAILABLE_FOR_THIS_MODULE' => 'No method is available for this module',
-	'LBL_FINISH' => 'Finish',
-	'LBL_NO_TASKS_ADDED' => 'No Task',
-	'LBL_CANNOT_DELETE_DEFAULT_WORKFLOW' => 'You Cannot delete default Workflow',
-	'LBL_MODULES_TO_CREATE_RECORD' => 'Modules to create record',
-	'LBL_EXAMPLE_EXPRESSION' => 'Expression',
-	'LBL_EXAMPLE_RAWTEXT' => 'Rawtext',
-	'LBL_VTIGER' => 'Vtiger',
-	'LBL_EXAMPLE_FIELD_NAME' => 'Field',
-	'LBL_NOTIFY_OWNER' => 'notify_owner',
-	'LBL_ANNUAL_REVENUE' => 'annual_revenue',
-	'LBL_EXPRESSION_EXAMPLE2' => "if mailingcountry == 'India' then concat(firstname,' ',lastname) else concat(lastname,' ',firstname) end"
-
-	
+	'LBL_ACTIVE'                   => 'Ενεργό', // TODO: Review
+	'LBL_TASK_TYPE'                => 'Τύπος Εργασίας', // TODO: Review
+	'LBL_TASK_TITLE'               => 'Τίτλος Εργασίας', // TODO: Review
+	'LBL_ADD_TASKS_FOR_WORKFLOW'   => 'Προσθήκη εργασίας για ροές εργασίας', // TODO: Review
+	'LBL_EXECUTE_TASK'             => 'Εκτέλεση εργασιών', // TODO: Review
+	'LBL_SELECT_OPTIONS'           => 'Επιλέξτε Επιλογές', // TODO: Review
+	'LBL_ADD_FIELD'                => 'Προσθήκη πεδίου', // TODO: Review
+	'LBL_ADD_TIME'                 => 'Προσθήκη Ώρας', // TODO: Review
+	'LBL_TITLE'                    => 'Τίτλος', // TODO: Review
+	'LBL_PRIORITY'                 => 'Προτεραιότητα', // TODO: Review
+	'LBL_ASSIGNED_TO'              => 'Σχετικό με', // TODO: Review
+	'LBL_TIME'                     => 'Χρόνος', // TODO: Review
+	'LBL_DUE_DATE'                 => 'Ημερομηνία Λήξης', // TODO: Review
+	'LBL_THE_SAME_VALUE_IS_USED_FOR_START_DATE' => 'Η ίδια τιμή χρησιμοποιείται για την Ημερομηνία Έναρξης', // TODO: Review
+	'LBL_EVENT_NAME'               => 'Όνομα συμβάντος', // TODO: Review
+	'LBL_TYPE'                     => 'Τύπος', // TODO: Review
+	'LBL_METHOD_NAME'              => 'Όνομα Μεθόδου', // TODO: Review
+	'LBL_RECEPIENTS'               => 'Παραλήπτες', // TODO: Review
+	'LBL_ADD_FIELDS'               => 'Προσθήκη πεδίων', // TODO: Review
+	'LBL_SMS_TEXT'                 => 'Γραπτό Μήνυμα', // TODO: Review
+	'LBL_SET_FIELD_VALUES'         => 'Ορισμός Πεδίο τιμών', // TODO: Review
+	'LBL_IN_ACTIVE'                => 'Αδρανής', // TODO: Review
+	'LBL_SEND_NOTIFICATION'        => 'Αποστολή Ειδοποίησης', // TODO: Review
+	'LBL_START_TIME'               => 'Ώρα Έναρξης', // TODO: Review
+	'LBL_START_DATE'               => 'Ημερομηνία έναρξης', // TODO: Review
+	'LBL_END_TIME'                 => 'Ώρα λήξης', // TODO: Review
+	'LBL_END_DATE'                 => 'Ημερομηνία Λήξης', // TODO: Review
+	'LBL_ENABLE_REPEAT'            => 'Ενεργοποίηση Επανάληψης', // TODO: Review
+	'LBL_NO_METHOD_IS_AVAILABLE_FOR_THIS_MODULE' => 'Καμία μέθοδος δεν είναι διαθέσιμη για αυτό το Άρθρωμα', // TODO: Review
+	'LBL_FINISH'                   => 'Τελείωσε', // TODO: Review
+	'LBL_NO_TASKS_ADDED'           => 'Όχι Εργασία', // TODO: Review
+	'LBL_CANNOT_DELETE_DEFAULT_WORKFLOW' => 'Δεν μπορείτε να διαγράψετε προεπιλεγμένη ροή εργασίας', // TODO: Review
+	'LBL_MODULES_TO_CREATE_RECORD' => 'Άρθρωμα που δημιουργεί εγγραφή', // TODO: Review
+	'LBL_EXAMPLE_EXPRESSION'       => 'Έκφραση', // TODO: Review
+	'LBL_EXAMPLE_RAWTEXT'          => 'Πρώτο Κείμενο', // TODO: Review
+	'LBL_VTIGER'                   => 'Vtiger', // TODO: Review
+	'LBL_EXAMPLE_FIELD_NAME'       => 'Πεδίο', // TODO: Review
+	'LBL_NOTIFY_OWNER'             => 'ειδοποίηση ιδιοκτήτη', // TODO: Review
+	'LBL_ANNUAL_REVENUE'           => 'Ετήσια Έσοδα', // TODO: Review
+	'LBL_EXPRESSION_EXAMPLE2'      => 'αν mailingcountry == \ 'Ινδία \' τότε concat (Όνομα, \ '\', επώνυμο) άλλο concat (επώνυμο, \ '\', Όνομα) τέλος', // TODO: Review
 );
 
 $jsLanguageStrings = array(
-	'JS_STATUS_CHANGED_SUCCESSFULLY' => 'Status changed Successfully',
-	'JS_TASK_DELETED_SUCCESSFULLY' => 'Task deleted Successfully',
-	'JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE' => 'Same fields selected more than once',
-	'JS_WORKFLOW_SAVED_SUCCESSFULLY' => 'Workflow saved successfully'
+	'JS_STATUS_CHANGED_SUCCESSFULLY' => 'Η Κατάσταση άλλαξε με επιτυχία', // TODO: Review
+	'JS_TASK_DELETED_SUCCESSFULLY' => 'Η εργασία διαγράφεται με επιτυχία', // TODO: Review
+	'JS_SAME_FIELDS_SELECTED_MORE_THAN_ONCE' => 'Τα Ίδια πεδία επιλέγονται περισσότερες από μία φορά', // TODO: Review
+	'JS_WORKFLOW_SAVED_SUCCESSFULLY' => 'Η Ροή Εργασίας Αποθηκεύτηκε Επιτυχώς', // TODO: Review
 );
