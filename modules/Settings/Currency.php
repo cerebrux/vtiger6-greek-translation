@@ -8,17 +8,18 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Add Currency',
-	'LBL_EDIT_CURRENCY' => 'Edit Currency',
-	'LBL_ADD_NEW_CURRENCY' => 'Add New Currency',
-	'LBL_CURRENCY_NAME' => 'Currency Name',
-	'LBL_CURRENCY_CODE' => 'Currency Code',
-	'LBL_CURRENCY_SYMBOL' => 'Symbol',
-	'LBL_CONVERSION_RATE' => 'Conversion Rate',
-	'LBL_ENTER_CONVERSION_RATE' => 'Enter Conversion Rate',
-	'LBL_CURRENCY_STATUS_DESC' => 'Enable checkbox to make currency Active',
-	'LBL_TRANSFER_CURRENCY' => 'Transfer Currency',
-	'LBL_CURRENT_CURRENCY' => 'Current Currency',
+	'LBL_ADD_RECORD' => 'Προσθήκη ισοτιμίας',
+	'LBL_EDIT_CURRENCY' => 'Τροποποίηση ισοτιμίας',
+	'LBL_ADD_NEW_CURRENCY' => 'Προσθήκη νέας ισοτιμίας',
+	'LBL_CURRENCY_NAME' => 'Τίτλος ισοτιμίας',
+	'LBL_CURRENCY_CODE' => 'Κωδικός ισοτιμίας',
+	'LBL_CURRENCY_SYMBOL' => 'Σύμβολο',
+	'LBL_CONVERSION_RATE' => 'Ρυθμός μετατροπής',
+	'LBL_ENTER_CONVERSION_RATE' => 'Εισαγωγή ρυθμού μετατροπής',
+	'LBL_CURRENCY_STATUS_DESC' => 'Ενεργοποίηση ισοτιμίας',
+	'LBL_TRANSFER_CURRENCY' => 'Μεταφορά ισοτιμίας',
+	'LBL_CURRENT_CURRENCY' => 'Ισοτιμία',
+        'LBL_BASE_CURRENCY' => 'Ισοτιμία βάσης',
 	
 	//currency names
 	'Albania, Leke' 		=> 'Albania, Leke',
@@ -155,6 +156,6 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_CURRENCY_DETAILS_SAVED' => 'Currency Details Saved',
-	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Currency Deleted Successfully',
+	'JS_CURRENCY_DETAILS_SAVED' => 'Τα στοιχεία τις ισοτιμίας αποθηκεύτηκαν',
+	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Η ισοτιμία διεγράφη με επιτυχία',
 );
