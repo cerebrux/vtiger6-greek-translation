@@ -8,19 +8,20 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_TRANSFORM_OWNERSHIP' => 'Transfer ownership',
-	'SINGLE_Groups' => 'Group',
-	'LBL_TO_OTHER_GROUP' => 'To Other Group ',
-	'LBL_ADD_RECORD' => 'Add Group',
-	'LBL_GROUP_NAME' => 'Group Name',
-	'LBL_GROUP_MEMBERS' => 'Group Members',
-	'LBL_ADD_USERS_ROLES' => 'Add Users, Roles...',
-	'LBL_ROLEANDSUBORDINATE' => 'Role and Subordinates',
-	'RoleAndSubordinates' => 'Role and Subordinates',
-	'LBL_DUPLICATES_EXIST' => 'Group Name already Exists',
+	'LBL_TRANSFORM_OWNERSHIP' => 'Μεταφορά ιδιοκτησίας',
+	'SINGLE_Groups' => 'Ομάδας',
+	'LBL_TO_OTHER_GROUP' => 'Σε άλλη ομάδα ',
+	'LBL_ADD_RECORD' => 'Προσθήκη ομάδας',
+	'LBL_GROUP_NAME' => 'Όνομα ομάδας',
+	'LBL_GROUP_MEMBERS' => 'Μέλη ομάδας',
+	'LBL_ADD_USERS_ROLES' => 'Προσθήκη χρηστών, ρόλων, ...',
+	'LBL_ROLEANDSUBORDINATE' => 'Ρόλοι και υφιστάμενοι',
+	'RoleAndSubordinates' => 'Ρόλοι και υφιστάμενοι',
+	'LBL_DUPLICATES_EXIST' => 'Υπάρχει ήδη ομάδα με αυτό το όνομα',
+        'Creating new Group' => "Δημιουργία νέας ομάδας"
 );
 $jsLanguageStrings = array(
-	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Please select atleast one member for a group',
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Group deleted successfully',
+	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Παρακαλώ επιλέξτε τουλάχιστον ένα μέλος για την ομάδα',
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Η ομάδα διεγράφη με επιτυχία',
 );
 

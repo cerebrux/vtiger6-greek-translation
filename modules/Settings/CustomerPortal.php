@@ -8,25 +8,25 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'CustomerPortal' => 'Customer Portal',
-	'LBL_PORTAL_DESCRIPTION' => 'Setup Privileges of Portal User',
+	'CustomerPortal' => 'Πύλη πελατών',
+	'LBL_PORTAL_DESCRIPTION' => 'Εγκατάσταση δικαιωμάτων χρήστη πύλης',
 
-	'LBL_PRIVILEGES' => 'Privileges',
-	'LBL_DEFAULT_ASSIGNEE' => 'Default Assignee',
-	'LBL_PORTAL_URL' => 'Portal Url',
+	'LBL_PRIVILEGES' => 'Προνόμια',
+	'LBL_DEFAULT_ASSIGNEE' => 'Προεπιλεγμένη ανάθεση',
+	'LBL_PORTAL_URL' => 'Διεύθυνση πύλης',
 
 	//Fields
-	'LBL_MODULE_NAME' => 'Module Name',
-	'LBL_ENABLE_MODULE' => 'Enable Module',
-	'LBL_VIEW_ALL_RECORDS' => 'See Records across Organization',
+	'LBL_MODULE_NAME' => 'Ενότητα',
+	'LBL_ENABLE_MODULE' => 'Ενεργοποίηση ενότητας',
+	'LBL_VIEW_ALL_RECORDS' => 'Προβολή εγγραφών όλου του Οργανισμού',
 
 	//Messages
-	'LBL_PREVILEGES_MESSAGE' => "This Role's privileges will be applied to the Portal User.",
-	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Tickets will be Assigned to the selected Assignee by the default Group/User from the Customer Portal.',
-	'LBL_PORTAL_URL_MESSAGE' => 'This is URL for the Portal where your contacts can login to submit/track tickets, access knowledge base and do more. Contacts will be sent the login details when Portal access is enabled from Contact details page.',
-	'LBL_DRAG_AND_DROP_MESSAGE' => 'Drag and Drop modules to reorder in the Customer Portal',
+	'LBL_PREVILEGES_MESSAGE' => "Τα προνόμια αυτού του χρήστη θα εφαρμοστούν στο χρήστη της πύλης.",
+	'LBL_DEFAULT_ASSIGNEE_MESSAGE' => 'Οι αιτήσεις υποστήριξης θα ανατίθενται στον επιλεγμένο χρήστη / ομάδα από την πύλη πελάτων',
+	'LBL_PORTAL_URL_MESSAGE' => 'Αυτή είναι η διεύθυνση όπου οι επαφές σας μπορούν να εισέλθουν για να καταθέσουν/παρακολουθήσουν αιτήσεις υποστήριξεις, να αποκτήσουν πρόσβαση στη γνωσιακή βάση και άλλα. Οι επαφές θα λάβουν τις πληροφορίες για είσοδο στην πύλη όταν ενεργοποιηθεί για αυτούς η πρόσβαση στην πύλη από τη σελίδα επαφών.',
+	'LBL_DRAG_AND_DROP_MESSAGE' => 'Σύρετε και εναποθέστε ενότητες για να αλλάξετε τη σειρά εμφάνισης στην πύλη',
 );
 
 $jsLanguageStrings = array(
-	'JS_PORTAL_INFO_SAVED' => 'Customer Portal settings saved',
+	'JS_PORTAL_INFO_SAVED' => 'Οι ρυθμίσεις της πύλης πελατών αποθηκεύτηκαν',
 );
