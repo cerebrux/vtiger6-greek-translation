@@ -79,7 +79,7 @@ $languageStrings = array(
 	'LBL_EXAMPLE_FIELD_NAME'       => 'Πεδίο', // TODO: Review
 	'LBL_NOTIFY_OWNER'             => 'ειδοποίηση ιδιοκτήτη', // TODO: Review
 	'LBL_ANNUAL_REVENUE'           => 'Ετήσια Έσοδα', // TODO: Review
-	'LBL_EXPRESSION_EXAMPLE2'      => 'αν mailingcountry == \ 'Ινδία \' τότε concat (Όνομα, \ '\', επώνυμο) άλλο concat (επώνυμο, \ '\', Όνομα) τέλος', // TODO: Review
+	'LBL_EXPRESSION_EXAMPLE2'      => "if mailingcountry == 'India' then concat(firstname,' ',lastname) else concat(lastname,' ',firstname) end", // TODO: Review
 );
 
 $jsLanguageStrings = array(
