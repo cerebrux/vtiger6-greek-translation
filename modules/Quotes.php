@@ -9,34 +9,34 @@
  *************************************************************************************/
 $languageStrings = array(
 	//DetailView Actions
-	'SINGLE_Quotes' => 'Quote',
-	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
-    'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
+	'SINGLE_Quotes'=> 'Προσφορά', 
+	'LBL_EXPORT_TO_PDF'=> 'Εξαγωγή σε PDF', 
+	'LBL_SEND_MAIL_PDF'=> 'Αποστολή PDF με Email', // TODO: Review
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Add Quote',
-	'LBL_RECORDS_LIST' => 'Quotes List',
+	'LBL_ADD_RECORD'=> 'Προσθήκη Προσφοράς', 
+	'LBL_RECORDS_LIST'=> 'Λίστα Προσφορών', 
 
 	// Blocks
-	'LBL_QUOTE_INFORMATION' => 'Quote Details',
+	'LBL_QUOTE_INFORMATION'=> 'Πληροφορίες Προσφοράς',
 	
 	//Field Labels
-	'Quote No'=>'Quote Number',
-	'Quote Stage'=>'Quote Stage',
-	'Valid Till'=>'Valid Until',
-	'Inventory Manager'=>'Inventory Manager',
+	'Quote No'=> 'Αριθμός Προσφοράς', 
+	'Quote Stage'=> 'Στάδιο Προσφοράς', 
+	'Valid Till'=> 'Ισχύει Μέχρι', 
+	'Inventory Manager'=> 'Διαχείριση Αποθεμάτων', 
 	//Added for existing Picklist Entries
 
-	'Accepted'=>'Accepted',
-	'Rejected'=>'Rejected',
+	'Accepted'=> 'Αποδεκτό', 
+	'Rejected'=> 'Απορρίφθηκε', 
 	
 	//Translation for product not found
 	'LBL_THIS' => 'This',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'is deleted from the system.please remove or replace this item',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'This line item is deleted from the system,please remove this line items',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'διαγράφηκε από το σύστημα, παρακαλώ αφαιρέστε ή αντικαταστήστε αυτό το στοιχείο',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο έχει διαγραφεί από το σύστημα, παρακαλούμε να αφαιρέσετε αυτό το στοιχείο',
 
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Please remove line item that is deleted',
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Παρακαλώ αφαιρέστε το στοιχείο γραμμής που έχει διαγραφεί',
 );
