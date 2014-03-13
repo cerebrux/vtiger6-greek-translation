@@ -9,70 +9,70 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_Documents' => 'Document',
-	'Documents' => 'Documents',
-	'LBL_ADD_RECORD' => 'Add Document',
-	'LBL_RECORDS_LIST' => 'Documents List',
+	'SINGLE_Documents' => 'Εγγραφο',
+	'Documents' => 'Έγγραφα',
+	'LBL_ADD_RECORD' => 'Προσθήκη εγγράφου',
+	'LBL_RECORDS_LIST' => 'Λίστα εγγράφων',
 
 	// Blocks
-	'LBL_NOTE_INFORMATION' => 'Basic Information',
-	'LBL_FILE_INFORMATION' => 'File Details',
-	'LBL_DESCRIPTION' => 'Description',
+	'LBL_NOTE_INFORMATION' => 'Βασικές πληροφορίες',
+	'LBL_FILE_INFORMATION' => 'Πληροφορίες αρχείου',
+	'LBL_DESCRIPTION' => 'Περιγραφή',
 
 	//Field Labels
-	'Title' => 'Title',
-	'File Name' => 'File Name',
-	'Note' => 'Note',
-	'File Type' => 'File Type',
-	'File Size' => 'File Size',
-	'Download Type' => 'Download Type',
-	'Version' => 'Version',
-	'Active' => 'Active',
-	'Download Count' => 'Download Count',
-	'Folder Name' => 'Folder Name',
-	'Document No' => 'Document No',
-	'Last Modified By' => 'Last Modified By',
+	'Title' => 'Τίτλος',
+	'File Name' => 'Όνομα αρχείου',
+	'Note' => 'Σημείωση',
+	'File Type' => 'Τύπος αρχείου',
+	'File Size' => 'Μέγεθος αρχείου',
+	'Download Type' => 'Τύπος λήψης',
+	'Version' => 'Έκδοση',
+	'Active' => 'Ενεργό',
+	'Download Count' => 'Αριθμός λήψεων',
+	'Folder Name' => 'Όνομα φακέλου',
+	'Document No' => 'Αριθμός εγγράφου',
+	'Last Modified By' => 'Τελευταία τροποποίηση',
 
 	//Folder
-	'LBL_FOLDER_HAS_DOCUMENTS' => 'Please move documents from folder before deleting',
+	'LBL_FOLDER_HAS_DOCUMENTS' => 'Παρακαλώ μετακινήστε τα έγγραφα από το φάκελο πριν τη διαγραφή',
 
 	//DetailView Actions
-	'LBL_DOWNLOAD_FILE' => 'Download File',
-	'LBL_CHECK_FILE_INTEGRITY' => 'Check file integrity',
-	'LBL_EMAIL_FILE_AS_ATTACHMENT' => 'Email file as attachment',
+	'LBL_DOWNLOAD_FILE' => 'Λήψη αρχείου',
+	'LBL_CHECK_FILE_INTEGRITY' => 'Έλεγχος ακεραιότητας αρχείου',
+	'LBL_EMAIL_FILE_AS_ATTACHMENT' => 'Αποστολή αρχείου με email ως συνημμένο',
 
 	//EditView
-	'LBL_INTERNAL' => 'Internal',
-	'LBL_EXTERNAL' => 'External',
-	'LBL_MAX_UPLOAD_SIZE' => 'Maximum upload size',
+	'LBL_INTERNAL' => 'Εσωτερικό',
+	'LBL_EXTERNAL' => 'Εξωτερικό',
+	'LBL_MAX_UPLOAD_SIZE' => 'Μέγεθος μέγεθος αρχείου',
 
 	//ListView Actions
-	'LBL_MOVE' => 'Move',
-	'LBL_ADD_FOLDER' => 'Add Folder',
-	'LBL_FOLDERS_LIST' => 'Folders List',
-	'LBL_FOLDERS' => 'Folders',
-	'LBL_DOCUMENTS_MOVED_SUCCESSFULLY' => 'Documents Moved Successfully',
-	'LBL_DENIED_DOCUMENTS' => 'Denied Documents',
+	'LBL_MOVE' => 'Μετακίνηση',
+	'LBL_ADD_FOLDER' => 'Προσθήκη φακέλου',
+	'LBL_FOLDERS_LIST' => 'Λίστα φακέλων',
+	'LBL_FOLDERS' => 'Φάκελοι',
+	'LBL_DOCUMENTS_MOVED_SUCCESSFULLY' => 'Τα έγγραφα μετακινήθηκαν με επιτυχία',
+	'LBL_DENIED_DOCUMENTS' => 'Η μετακίνηση απέτυχε',
 	'MB' => 'MB',
 
-	'LBL_ADD_NEW_FOLDER' => 'Add New Folder',
-	'LBL_FOLDER_NAME' => 'Folder Name',
-	'LBL_FOLDER_DESCRIPTION' => 'Folder Description',
+	'LBL_ADD_NEW_FOLDER' => 'Προσθήκη φακέλου',
+	'LBL_FOLDER_NAME' => 'Όνομα φακέλου',
+	'LBL_FOLDER_DESCRIPTION' => 'Περιγραφή φακέλου',
 
 	//Check file integrity messages
-	'LBL_FILE_AVAILABLE' => 'File is available for download',
-	'LBL_FILE_NOT_AVAILABLE' => 'This Document is not available for Download',
+	'LBL_FILE_AVAILABLE' => 'Το αρχείο είναι διαθέσιμο για λήψη',
+	'LBL_FILE_NOT_AVAILABLE' => 'Το έγγραφο δεν είναι διαθέσιμο για λήψη',
 );
 
 $jsLanguageStrings = array(
-	'JS_EXCEEDS_MAX_UPLOAD_SIZE' => 'Exceeded maximum upload size',
-	'JS_NEW_FOLDER' => 'New Folder',
-	'JS_MOVE_DOCUMENTS' => 'Move Documents',
+	'JS_EXCEEDS_MAX_UPLOAD_SIZE' => 'Το μέγεθος του αρχείου ξεπερνά το μέγιστο επιτρεπτό',
+	'JS_NEW_FOLDER' => 'Νέος φάκελος',
+	'JS_MOVE_DOCUMENTS' => 'Μετακίνησε έγγραφα',
 	//Move documents confirmation message
-	'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Are you sure you want to move the file(s) to',
-	'JS_FOLDER' => 'folder',
-	'JS_OPERATION_DENIED' => 'Operation Denied',
-	'JS_FOLDER_IS_NOT_EMPTY' => 'Folder is not empty',
-	'JS_SPECIAL_CHARACTERS' => 'Special Characters like',
-	'JS_NOT_ALLOWED' => 'are not allowed',
+	'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Είστε σίγουροι ότι θέλετε να μετακινήσετε τα έγγραφα στο',
+	'JS_FOLDER' => 'φάκελο',
+	'JS_OPERATION_DENIED' => 'Μη επιτρεπτή λειτουργία',
+	'JS_FOLDER_IS_NOT_EMPTY' => 'Ο φάκελος δεν είναι κενός',
+	'JS_SPECIAL_CHARACTERS' => 'Ειδικοί χαρακτήρες όπως',
+	'JS_NOT_ALLOWED' => 'δεν επιτρέπονται',
 );
