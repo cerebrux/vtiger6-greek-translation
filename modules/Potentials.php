@@ -9,31 +9,31 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Potentials' => 'Opportunities',
-	'SINGLE_Potentials' => 'Opportunity',
-	'LBL_ADD_RECORD' => 'Add Opportunity',
-	'LBL_RECORDS_LIST' => 'Opportunities List',
+	'Potentials' => 'Ευκαιρίες',
+	'SINGLE_Potentials' => 'Ευκαιρία',
+	'LBL_ADD_RECORD' => 'Προσθήκη Ευκαιρίας',
+	'LBL_RECORDS_LIST' => 'Λίστα Ευκαιριών',
 
 	// Blocks
-	'LBL_OPPORTUNITY_INFORMATION' => 'Opportunity Details',
+	'LBL_OPPORTUNITY_INFORMATION' => 'Πληροφορίες Ευκαιρίας',
 
 	//Field Labels
-	'Potential No' => 'Opportunity Number',
-	'Amount' => 'Amount',
-	'Next Step' => 'Next Step',
-	'Sales Stage' => 'Sales Stage',
-	'Probability' => 'Probability',
-	'Campaign Source' => 'Campaign Source',
-	'Forecast Amount' => 'Forecast Amount',
-	'Related To' => 'Organization Name',
-	'Contact Name' => 'Contact Name',
+	'Potential No' => 'Νούμερο Ευκαρίας',
+	'Amount' => 'Πιθανότητα',
+	'Next Step' => 'Επόμενο Στάδιο',
+	'Sales Stage' => 'Στάδιο Πώλησης',
+	'Probability' => 'Πιθανότητα',
+	'Campaign Source' => 'Πηγή Εκστρατείας',
+	'Forecast Amount' => 'Πρόβλεψη Πιθανοτήτων',
+	'Related To' => 'Όνομα Οργανισμού',
+	'Contact Name' => 'Όνομα Επαφής',
 	
 	//Dashboard widgets
-	'Funnel' => 'Sales Funnel',
-	'Potentials by Stage' => 'Opportunities by Stage',
-	'Total Revenue' => 'Revenue by Salesperson',
-	'Top Potentials' => 'Top Opportunities',
-	'Forecast' => 'Sales Forecast',
+	'Funnel' => 'Πωλήσεις Τύπου ΄΄Χωνί΄΄',
+	'Potentials by Stage' => 'Ευκαρίες ανά Στάδιο',
+	'Total Revenue' => 'Έσοδα ανά Πωλητή',
+	'Top Potentials' => 'Κορυφαίες Ευκαρίες',
+	'Forecast' => 'Πρόγνωση Πωλήσεων',
 
 	//Added for Existing Picklist Strings
 
