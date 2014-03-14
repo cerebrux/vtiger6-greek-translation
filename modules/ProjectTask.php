@@ -9,12 +9,12 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_ProjectTask' => 'Εργασία Σχεδίου',
-	'LBL_ADD_RECORD' => 'Προσθήκη Εργασίας Σχεδίου',
-	'LBL_RECORDS_LIST' => 'Λίστα Εργασιών Σχεδίων',
+	'SINGLE_ProjectTask' => 'Εργασία Έργου',
+	'LBL_ADD_RECORD' => 'Προσθήκη Εργασίας Έργου',
+	'LBL_RECORDS_LIST' => 'Λίστα Εργασιών Έργου',
 
 	// Blocks
-	'LBL_PROJECT_TASK_INFORMATION' => 'Πληροφορίες Εργασίας Σχεδίου',
-	'LBL_PROJECTS_LIST' => 'Λίστα Σχεδίων',
+	'LBL_PROJECT_TASK_INFORMATION' => 'Πληροφορίες Εργασίας Έργου',
+	'LBL_PROJECTS_LIST' => 'Λίστα Έργων',
 	'LBL_TASKS_LIST' => 'Λίστα Εργασιών',
 );
