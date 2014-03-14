@@ -12,4 +12,3 @@ $mod_strings = Array (
 
 );
 
-?>
