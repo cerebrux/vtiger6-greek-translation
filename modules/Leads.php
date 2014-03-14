@@ -9,18 +9,18 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Leads' => 'Συστάσεις',
-	'SINGLE_Leads' => 'Σύσταση',
-	'LBL_RECORDS_LIST' => 'Λίστα συστάσεων',
-	'LBL_ADD_RECORD' => 'Προσθήκη σύστασης',
+	'Leads' => 'Προοπτικές',
+	'SINGLE_Leads' => 'Προοπτική',
+	'LBL_RECORDS_LIST' => 'Λίστα προοπτικών',
+	'LBL_ADD_RECORD' => 'Προσθήκη προοπτικής',
 
 	// Blocks
-	'LBL_LEAD_INFORMATION' => 'Πληροφορίες σύστασης',
+	'LBL_LEAD_INFORMATION' => 'Πληροφορίες προοπτικής',
 
 	//Field Labels
-	'Lead No' => 'Αριθμός σύστασης',
+	'Lead No' => 'Αριθμός προοπτικής',
 	'Company' => 'Εταιρία',
-	'Designation' => 'Designation',
+	'Designation' => 'Ονομασία προέλευσης ',
 	'Website' => 'Ιστότοπος',
 	'Industry' => 'Βιομηχανιας',
 	'Lead Status' => 'Κατάσταση σύστασης',
@@ -52,17 +52,17 @@ $languageStrings = array(
 	'Warm'=>'Ζεστή',
 
 	// Mass Action
-	'LBL_CONVERT_LEAD' => 'Μετατροπή σύστασης',
+	'LBL_CONVERT_LEAD' => 'Μετατροπή προοπτικής',
 
 	//Convert Lead
 	'LBL_TRANSFER_RELATED_RECORD' => 'Μεταφορά σχετικών εγγραφών σε',
-	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε τους Οργανισμούς ή τις Επαφές για να μετατρέψετε τη σύσταση',
+	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε τους Οργανισμούς ή τις Επαφές για να μετατρέψετε την προοπτικής',
 	'LBL_CONVERT_LEAD_ERROR_TITLE' => 'Οι ενότητες δεν είναι ενεργές',
 	'CANNOT_CONVERT' => 'Δεν μπορεί να γίνει η μετατροπή',
 	'LBL_FOLLOWING_ARE_POSSIBLE_REASONS' => 'Πιθανοί λόγοι:',
-	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Η αντιστοίχιση των πεδίων είναι ημιτελής (Ρυθμίσεις > Διαχειριστής ενοτήτων > Συστάσεις > Αντιστοίχιση πεδίων συστάσεων)',
+	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Η αντιστοίχιση των πεδίων είναι ημιτελής (Ρυθμίσεις > Διαχειριστής ενοτήτων > Προοπτικές > Αντιστοίχιση πεδίων προοπτικών)',
 	'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Υποχρεωτικά πεδία είναι κενά',
-	'LBL_LEADS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων συστάσεων',
+	'LBL_LEADS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων προοπτικών',
 
 	//Leads Custom Field Mapping
 	'LBL_CUSTOM_FIELD_MAPPING'=> 'Τροποποίηση αντιστοίχισης πεδίων',
