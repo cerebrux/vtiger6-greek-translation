@@ -9,26 +9,26 @@
  *************************************************************************************/
 $languageStrings = array(
 	//DetailView Actions
-	'SINGLE_PurchaseOrder' => 'Purchase Order',
-	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
-    'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
+	'SINGLE_PurchaseOrder' => 'Εντολή Αγοράς',
+	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε Pdf',
+    'LBL_SEND_MAIL_PDF' => 'Αποστολή Ηλ.Μηνύματος με Μορφή Pdf',
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Add Purchase Order',
-	'LBL_RECORDS_LIST' => 'Purchase Order List',
-	'LBL_COPY_SHIPPING_ADDRESS' => 'Copy Shipping Address',
-	'LBL_COPY_BILLING_ADDRESS' => 'Copy Billing Address',
+	'LBL_ADD_RECORD' => 'Προσθήκη Εντολής Αγοράς',
+	'LBL_RECORDS_LIST' => 'Λίστα Εντολών Αγοράς',
+	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης Αποστολής',
+	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφη Διεύθυνσης Πληρωμής',
 
 	// Blocks
-	'LBL_PO_INFORMATION' => 'Purchase Order Details',
+	'LBL_PO_INFORMATION' => 'Πληροφορίες Εντολής Αγοράς',
 
 	//Field Labels
-	'PurchaseOrder No' => 'Purchase Order Number',
-	'Requisition No' => 'Requisition Number',
-	'Tracking Number' => 'Tracking Number',
-	'Sales Commission' => 'Sales Commission',
-    'LBL_PAID' => 'Paid',
-    'LBL_BALANCE' => 'Balance',
+	'PurchaseOrder No' => 'Αριθμός Εντολής Αγοράς',
+	'Requisition No' => 'Αριθμός Επιταγής',
+	'Tracking Number' => 'Αριθμός Ανίχνευσης',
+	'Sales Commission' => 'Προμήθεια',
+    'LBL_PAID' => 'Πληρώθηκε',
+    'LBL_BALANCE' => 'Υπόλοιπο',
 
 	//Added for existing Picklist Entries
 
