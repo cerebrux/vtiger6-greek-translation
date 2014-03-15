@@ -1,7 +1,7 @@
 Vtiger6 Greek-Translation
 =========================
 
-This is the Greek translation of Vtiger 6
+Καλώς ήρθατε στην μετάφραση του Vtiger 6
 
 Download
 ---------
@@ -10,20 +10,20 @@ Download
 
 Version
 --------
-6.0.0-1002-pre-release
+6.0.0-1600-pre-release
 
 
 Installation
 ------------
 
 Step 1.
-Create a zip file with manifest.xml and modules/cron folder
+Αφού κατεβάσετε το αρχείο zip κάντε εξαγωγή και έπειτα δημιουργήστε ένα νέο zip επιλέγοντας τα αρχεία και φακέλους manifest.xml modules και cron
 
 Step 2.
-Use the module manager functionality and import the the created zip file.
-After installation the Greek language will be available as an option from the user preferences menu.
+Χρησιμοποιήστε τη λειτουργία διαχείρισης αρθρωμάτων και κάντε εισαγωγή το δημιουργημένο αρχείο zip.
+Μετά την εγκατάσταση, η ελληνική γλώσσα θα είναι διαθέσιμη ως επιλογή από το μενού προτιμήσεων του χρήστη.
 
-License:
+Άδεια χρήσης:
 --------
 The contents of this repository are subject to the vtiger CRM Public License Version 1.0 ("License"); 
 You may not use this file except in compliance with the License
