@@ -1,33 +1,41 @@
-Vtiger6 Greek-Translation
+Vtiger6 Ελληνική Μετάφραση
 =========================
 
 Καλώς ήρθατε στην μετάφραση του Vtiger 6
 
-Download
+Λήψη
 ---------
 
 -- To do --
 
-Version
+Τρέχουσα Έκδοση
 --------
 6.0.0-1600-pre-release
 
 
-Installation
+Εγκατάσταση
 ------------
 
-Step 1.
+* Βήμα 1.
 Αφού κατεβάσετε το αρχείο zip κάντε εξαγωγή και έπειτα δημιουργήστε ένα νέο zip επιλέγοντας τα αρχεία και φακέλους manifest.xml modules και cron
 
-Step 2.
+* Βήμα 2.
 Χρησιμοποιήστε τη λειτουργία διαχείρισης αρθρωμάτων και κάντε εισαγωγή το δημιουργημένο αρχείο zip.
 Μετά την εγκατάσταση, η ελληνική γλώσσα θα είναι διαθέσιμη ως επιλογή από το μενού προτιμήσεων του χρήστη.
 
 Άδεια χρήσης:
 --------
-The contents of this repository are subject to the vtiger CRM Public License Version 1.0 ("License"); 
-You may not use this file except in compliance with the License
-The Original Code is:  vtiger CRM Open Source
-The Initial Developer of the Original Code is vtiger.
-Portions created by vtiger are Copyright (C) vtiger.
-All Rights Reserved.
+Τα περιεχόμενα αυτού του αποθετηρίου υπόκεινται στην έκδοση του [VTiger Public License 1.0] [1] ("Άδεια")
+
+Δεν μπορείτε να χρησιμοποιήσετε αυτό το αποθετήριο και τα περιεχόμενά του, χωρίς τη συμμόρφωση με την άδεια
+
+Ο Αρχικός Κώδικας είναι: vtiger CRM Ανοικτού Κώδικα
+
+Ο Αρχικός δημιουργός της πρωτοτύπου κώδικα είναι το vtiger.
+
+Τμήματα που δημιουργούνται από το vtiger είναι Πνευματική ιδιοκτησία (C) [vtiger] [2].
+
+Με επιφύλαξη παντός δικαιώματος.
+
+[1]: https://www.vtiger.com/vtiger-public-license-1-1/
+[2]: https://www.vtiger.com/
