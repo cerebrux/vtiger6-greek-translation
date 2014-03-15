@@ -23,6 +23,13 @@ Vtiger6 Ελληνική Μετάφραση
 Χρησιμοποιήστε τη λειτουργία διαχείρισης αρθρωμάτων και κάντε εισαγωγή το δημιουργημένο αρχείο zip.
 Μετά την εγκατάσταση, η ελληνική γλώσσα θα είναι διαθέσιμη ως επιλογή από το μενού προτιμήσεων του χρήστη.
 
+Τεκμηρίωση Μετάφρασης
+--------------------
+* [Αρχική Σελίδα](https://github.com/cerebrux/vtiger6-greek-translation/wiki)
+* [Μεταφραζόμενα αρχεία](https://github.com/cerebrux/vtiger6-greek-translation/wiki/%CE%9C%CE%B5%CF%84%CE%B1%CF%86%CF%81%CE%B1%CE%B6%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CE%B1)
+* [Λεξιλόγιο](https://github.com/cerebrux/vtiger6-greek-translation/wiki/%CE%9B%CE%B5%CE%BE%CE%B9%CE%BB%CF%8C%CE%B3%CE%B9%CE%BF)
+
+
 Άδεια χρήσης:
 --------
 Τα περιεχόμενα αυτού του αποθετηρίου υπόκεινται στην έκδοση του [VTiger Public License 1.0] [1] ("Άδεια")
