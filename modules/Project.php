@@ -35,7 +35,7 @@ $languageStrings = array(
 	//Related List
 	'LBL_CHARTS' => 'Γραφικές Παραστάσεις',
 	'LBL_TASKS_LIST' => 'Λίστα Εργασιών',
-	'LBL_MILESTONES' => 'Milestones',
+	'LBL_MILESTONES' => 'Ορόσιμα',
 	'LBL_TASKS' => 'Εργασίες',
 	'LBL_STATUS_IS' => 'Η Κατάσταση είναι',
 	'LBL_STATUS' => 'Κατάσταση',
