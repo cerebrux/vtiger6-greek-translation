@@ -9,39 +9,39 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_Project' => 'Project',
-	'LBL_ADD_RECORD' => 'Add Project',
-	'LBL_RECORDS_LIST' => 'Projects List',
+	'SINGLE_Project' => 'Έργο',
+	'LBL_ADD_RECORD' => 'Προσθήκη Έργου',
+	'LBL_RECORDS_LIST' => 'Λίστα Έργων',
 
 	// Blocks
-	'LBL_PROJECT_INFORMATION' => 'Project Details',
+	'LBL_PROJECT_INFORMATION' => 'Πληροφορίες Έργου',
 
 	//Field Labels
-	'Project Name' => 'Project Name',
-	'Start Date' => 'Start Date',
-	'Target End Date' => 'Target End Date',
-	'Actual End Date' => 'Actual End Date',
-	'Project No' => 'Project Number',
-	'Target Budget' => 'Target Budget',
-	'Project Url' => 'Project Url',
-	'Progress' => 'Progress',
+	'Project Name' => 'Όνομα Έργου',
+	'Start Date' => 'Ημερομηνία Έναρξης',
+	'Target End Date' => 'Καταλυτική Ημερομηνία Αποπεράτωσης',
+	'Actual End Date' => 'Πραγματική Ημερομηνία Αποπεράτωσης',
+	'Project No' => 'Αριθμός Έργου',
+	'Target Budget' => 'Προϋπολογισμός',
+	'Project Url' => 'Ηλ.Διεύθυνση Έργου',
+	'Progress' => 'Πρόοδος',
 
 	//Summary Information
-	'LBL_TASKS_OPEN' => 'Tasks Open',
-	'LBL_TASKS_DUE' => 'Tasks Due',
-	'LBL_TASKS_COMPLETED' => 'Tasks Completed',
-	'LBL_PEOPLE' => 'People',
+	'LBL_TASKS_OPEN' => 'Ανοιχτές Εργασίες',
+	'LBL_TASKS_DUE' => 'Εργασίες Μέχρι',
+	'LBL_TASKS_COMPLETED' => 'Ολοκληρωμένες Εργασίες',
+	'LBL_PEOPLE' => 'Άνθρωποι',
 
 	//Related List
-	'LBL_CHARTS' => 'Charts',
-	'LBL_TASKS_LIST' => 'Tasks List',
+	'LBL_CHARTS' => 'Γραφικές Παραστάσεις',
+	'LBL_TASKS_LIST' => 'Λίστα Εργασιών',
 	'LBL_MILESTONES' => 'Milestones',
-	'LBL_TASKS' => 'Tasks',
-	'LBL_STATUS_IS' => 'Status is',
-	'LBL_STATUS' => 'Status',
-	'LBL_TICKET_PRIORITY' => 'Priority',
-	'LBL_MORE' => 'more',
+	'LBL_TASKS' => 'Εργασίες',
+	'LBL_STATUS_IS' => 'Η Κατάσταση είναι',
+	'LBL_STATUS' => 'Κατάσταση',
+	'LBL_TICKET_PRIORITY' => 'Προτεραιότητα',
+	'LBL_MORE' => 'Περισσότερα',
 	
 	//Summary View Widgets
-	'LBL_DOWNLOAD_FILE' => 'Download File',
+	'LBL_DOWNLOAD_FILE' => 'Λήψη Αρχείου',
 );
