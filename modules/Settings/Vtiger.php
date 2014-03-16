@@ -10,7 +10,7 @@
 $languageStrings = array(
 	// Basic Strings
 	'Settings' => 'Ρυθμίσεις',
-	'LBL_SEARCH_SETTINGS_PLACEHOLDER' => 'Αναζήτηση στίς Ρυθμίσεις',
+	'LBL_SEARCH_SETTINGS_PLACEHOLDER' => 'Αναζήτηση στις Ρυθμίσεις',
 	'LBL_SUMMARY' => 'Σύνοψη',
 	'LBL_ACTIVE_USERS' => 'Χρήστες',
 	'LBL_WORKFLOWS_ACTIVE' => 'Ροές Εργασιών',
@@ -21,10 +21,10 @@ $languageStrings = array(
 
 	// Blocks
 	'LBL_STUDIO' => 'Κέντρο Σχεδιασμού',
-	'LBL_COMMUNICATION_TEMPLATES' => 'Εταιρική Ταυτότητα',
-	'LBL_USER_MANAGEMENT' => 'Διαχείρηση Χρηστών',
+	'LBL_COMMUNICATION_TEMPLATES' => 'Πρότυπα',
+	'LBL_USER_MANAGEMENT' => 'Διαχείρηση Χρηστών & Πρόσβασης',
 	'LBL_ACCESS_MANAGEMENT' => 'Διαχείρηση Πρόσβασης',
-	'LBL_MODULE_MANAGER' => 'Διαχείρηση Module',
+	'LBL_MODULE_MANAGER' => 'Διαχείρηση Αρθρωμάτων',
 	'LBL_NOTIFICATIONS' => 'Ειδοποιήσεις',
 	'LBL_EXTERNAL_SERVER_SETTINGS' => 'Ρυθμίσεις Απομακρυσμένου Server',
 	'LBL_OTHER_SETTINGS' => 'Λοιπές Ρυθμίσεις',
@@ -35,96 +35,96 @@ $languageStrings = array(
 	'LBL_DESCRIPTION' => 'Περιγραφή',
 
 	// Other Strings
-	'LBL_USER_DESCRIPTION' => 'Διαχείρηση Χρηστών πού έχουν Πρόσβαση Στο Λογισμικό',
+	'LBL_USER_DESCRIPTION' => 'Διαχείρηση Χρηστών πού έχουν Πρόσβαση στο vtiger CRM',
 	'LBL_ROLES' => 'Ρόλοι',
 	'LBL_ROLE_DESCRIPTION' => 'Δημιουργία Ιεραρχίας τών Ρόλων και Ανάθεσης στούς Χρήστες', 
 
 	'LBL_PROFILES' => 'Προφίλ Χρηστών',
-	'LBL_PROFILE_DESCRIPTION' => 'Manage user-specific modules access to different Roles',
+	'LBL_PROFILE_DESCRIPTION' => 'Διαχείρηση πρόσβασης αρθρώματων ανα χρήστη προς διαφορετικούς ρόλους',
 
 	'USERGROUPLIST' => 'Ομάδες',
-	'LBL_GROUP_DESCRIPTION' => 'Manage different types of teams based on roles, users, and profiles',
+	'LBL_GROUP_DESCRIPTION' => 'Διαχείρηση τύπων ομάδων βασισμένων ανα ρόλο, χρήστες και προφίλ',
 
 	'LBL_SHARING_ACCESS' => 'Διαμερισμός Προσβάσεων',
-	'LBL_SHARING_ACCESS_DESCRIPTION' => 'Manage module sharing rules & custom sharing rules',
+	'LBL_SHARING_ACCESS_DESCRIPTION' => 'Διαχείρηση κανόνων προσαρμοσμένου διαμοιρασμού και κανόνων διαμοιρασμού αρθρωμάτων',
 
 	'LBL_WORKFLOW_LIST' => 'Λίστα Ροής Εργασιών',
 	'LBL_AVAILABLE_WORKLIST_LIST' => 'Διαθέσιμες Ροές Εργασιών',
-	'LBL_FIELDFORMULAS' => 'Field Formulas',
-	'LBL_FIELDFORMULAS_DESCRIPTION' => 'Add custom equations to custom fields',
+	'LBL_FIELDFORMULAS' => 'Φόρμουλες Πεδίων',
+	'LBL_FIELDFORMULAS_DESCRIPTION' => 'Προσθήκη προσαρμοσμένων εξισώσεων στα προσαρμοσμένα πεδία',
     
-	'VTLIB_LBL_MODULE_MANAGER' => 'Διαχείρηση Ενοτήτων',
-	'VTLIB_LBL_MODULE_MANAGER_DESCRIPTION' => 'Manage module behavior inside vtiger CRM',
+	'VTLIB_LBL_MODULE_MANAGER' => 'Διαχείρηση Αρθρωμάτων',
+	'VTLIB_LBL_MODULE_MANAGER_DESCRIPTION' => 'Διαχείριση συμπεριφοράς αρθρωμάτων εντώς του vtiger CRM',
 	'LBL_PICKLIST_EDITOR' => 'Επεξεργαστής Λίστας Επιλογών',
-	'LBL_PICKLIST_DESCRIPTION' => 'Εξατομίκευση Τιμών Λίστας Επιλογών σε Κάθε Module',
-	'LBL_PICKLIST_DEPENDENCY_SETUP' => 'Τακτοποίηση Εξάρτησης Λιστάς Επιλογών',
-	'LBL_PICKLIST_DEPENDENCY_DESCRIPTION' => 'Setup Dependency between Picklist values in each module',
+	'LBL_PICKLIST_DESCRIPTION' => 'Εξατομίκευση Τιμών Λίστας Επιλογών σε Κάθε Άρθρωμα',
+	'LBL_PICKLIST_DEPENDENCY_SETUP' => 'Εγκατάσταση Εξαρτήσεων της Λιστάς Επιλογών',
+	'LBL_PICKLIST_DEPENDENCY_DESCRIPTION' => 'Εγκατάσταση Εξαρτήσεων μεταξύ των τιμών της Λίστας Επιλογών μέσα σε κάθε άρθρωμα',
 
-	'LBL_FIELDFORMULAS' => 'Τύπος Πεδίων',
-	'LBL_FIELDFORMULAS_DESCRIPTION' => 'Add custom equations to custom fields',
+	'LBL_FIELDFORMULAS' => 'Φόρμουλες Πεδίων',
+	'LBL_FIELDFORMULAS_DESCRIPTION' => 'Προσθήκη προσαρμοσμένων εξισώσεων στα προσαρμοσμένα πεδία',
 
 	'LBL_MENU_EDITOR' => 'Επεξεργασία Μενού',
-	'LBL_MENU_DESC' => 'Εξατομίκευση Σειράς Μενού',
+	'LBL_MENU_DESC' => 'Προσαρμογή Σειράς Μενού',
 
-	'EMAILTEMPLATES' => 'E-mail Templates',
-	'LBL_EMAIL_TEMPLATE_DESCRIPTION' => 'Manage templates for E-Mail module',
+	'EMAILTEMPLATES' => 'Πρότυπα E-mail',
+	'LBL_EMAIL_TEMPLATE_DESCRIPTION' => 'Διαχείριση Προτύπων για το άρθρωμα του E-Mail',
 
 	'LBL_COMPANY_DETAILS' => 'Πληροφορίες Εταιρείας',
-	'LBL_COMPANY_DESCRIPTION' => 'Προσδιορισμός Διεύθυνσης τής Επιχείρησης',
+	'LBL_COMPANY_DESCRIPTION' => 'Προσδιορισμός Διεύθυνσης τής Εταιρείας',
 
 	'LBL_MAIL_MERGE' => 'Συγχώνευση Email',
-	'LBL_MAIL_MERGE_DESCRIPTION' => 'Manage templates for Mail Merging',
+	'LBL_MAIL_MERGE_DESCRIPTION' => 'Διαχείριση Προτύπων για τη Συγχώνευση Email',
 
 	'LBL_TAX_SETTINGS' => 'Υπολογισμός Φόρων',
-	'LBL_TAX_DESCRIPTION' => 'Manage taxes and the corresponding tax rates',
+	'LBL_TAX_DESCRIPTION' => 'Διαχείρηση φόρου και των αντίστοιχων φορολογικών συντελεστών',
 
 	'LBL_MAIL_SERVER_SETTINGS' => 'Εξωτερικός Διακομιστής Ηλ.Αλληλογραφίας',
-	'LBL_MAIL_SERVER_DESCRIPTION' => 'Διαμόρφωση Περιγραφής Εξωτερικού Διακομιστή Ηλεκτρονικής Αλληλογραφίας',
+	'LBL_MAIL_SERVER_DESCRIPTION' => 'Διαμόρφωση Λεπτομεριών Εξωτερικού Διακομιστή Ηλ.Αλληλογραφίας',
 
-	'INVENTORYTERMSANDCONDITIONS' => 'Κατάλογος:Όροι και Προϋποθέσεις',
-	'LBL_INV_TANDC_DESCRIPTION' => 'Specify terms and conditions for Quotes, Invoices, and Sales Orders',
+	'INVENTORYTERMSANDCONDITIONS' => 'Κατάλογος: Όροι και Προϋποθέσεις', // αποθήκη ή κατάλογος ;
+	'LBL_INV_TANDC_DESCRIPTION' => 'Προσδιορισμός του Όροι και Προϋποθέσεις για τις Προσφορές, Τιμολόγια, και Εντολές Πωλήσεων',
 
-	'LBL_ANNOUNCEMENT_DESCRIPTION' => 'Manage company wide announcements',
+	'LBL_ANNOUNCEMENT_DESCRIPTION' => 'Διαχείρηση εταιρικών ανακοινώσεων',
 
 	'LBL_CURRENCY_SETTINGS' => 'Ισοτιμίες',
-	'LBL_CURRENCY_DESCRIPTION' => 'Διαχείρηση Διεθνών Ισοτιμιών',
+	'LBL_CURRENCY_DESCRIPTION' => 'Διαχείρηση Διεθνών Ισοτιμιών και τιμών συναλλάγματος',
 
-	'LBL_CUSTOMIZE_MODENT_NUMBER' => 'Εξατομίκευση Αρίθμησης Καταγραφών',
-	'LBL_CUSTOMIZE_MODENT_NUMBER_DESCRIPTION' => 'Module Entity Number customization',
+	'LBL_CUSTOMIZE_MODENT_NUMBER' => 'Προσαρμογή Αρίθμησης Εγγραφών',
+	'LBL_CUSTOMIZE_MODENT_NUMBER_DESCRIPTION' => 'Προσαρμογή Αρίθμησης Οντότητας Αρθρώματος',
 
 	'LBL_MAIL_SCANNER' => 'Μετατροπέας Email',
-	'LBL_MAIL_SCANNER_DESCRIPTION' => 'Configure email inbox for scanning and record attachment',
+	'LBL_MAIL_SCANNER_DESCRIPTION' => 'Προσαρμογή Εισερχομένων email προς σάρωση και εγγραφής επισυναπτόμενων',
 
 	'LBL_LIST_WORKFLOWS' => 'Ροές Εργασιών',
 	'LBL_LIST_WORKFLOWS_DESCRIPTION' => 'Δημιουργία και Επεξεργασία Ροής Εργασίας',
-    'LBL_SELECT_DATE' => 'Επιλεγμένες Ημερομηνίες',
+    	'LBL_SELECT_DATE' => 'Επιλογή Ημερομηνιών',
 
-	'Configuration Editor' => 'Configuration Editor',
-	'Update configuration file of the application' => 'Update configuration file of the application',
+	'Configuration Editor' => 'Επεξεργαστής Ρυθμίσεων',
+	'Update configuration file of the application' => 'Ενημέρωση αρχείου παραμέτρων της εφαρμογής',
 
 	'LBL_CUSTOMER_PORTAL' => 'Διαδυκτιακή Πύλη Πελατών',
-	'PORTAL_EXTENSION_DESCRIPTION' => 'Σάς Επιτρέπει τήν Διαμόρφωση τής Διαδυκτιακής Πύλης Τών Χρηστών',
+	'PORTAL_EXTENSION_DESCRIPTION' => 'Σας Επιτρέπει τήν Διαμόρφωση τής Διαδυκτιακής Πύλης Τών Χρηστών',
 	
 	'LBL_LAYOUT_EDITOR_DESCRIPTION' => 'Σχεδιασμός και Τροποποίηση Εμφάνισης της Κάθε Ενότητας',
-	'LBL_WEBFORMS_DESCRIPTION' => 'Create and manage webforms which can be used to capture Leads',
+	'LBL_WEBFORMS_DESCRIPTION' => 'Δημιουργία και διαχείριση δικτυακής φόρμας που μπορεί να συλλέξει Προοπτικές',
 	'LBL_TO_ADD_NEW_USER_PLEASE_CLICK_ON' => 'Για την Προσθήκη Νέου Χρήστη Κάντε Κλίκ στο ',
-	'LBL_SETTINGS_ICON' => 'Εικονίδια Ρυθμίσεων',
+	'LBL_SETTINGS_ICON' => 'Εικονίδιο Ρυθμίσεων',
 	'LBL_ADD_OR_DELETE_USERS' => 'Προσθήκη/Διεγραφή Χρηστών',
 	'LBL_ADD_USER' => 'Προσθήκη Χρήστη',
 	
 
-	'ModTracker' => 'Mod Tracker',
-	'LBL_MODTRACKER_DESCRIPTION' => 'Select modules for tracking',
+	'ModTracker' => 'Aνιχνευτής Αρθρωμάτων', // δεν χρειάζεται μετάφραση ;
+	'LBL_MODTRACKER_DESCRIPTION' => 'Επιλογή αρθρωμάτων προς ανίχνευση',
 
-	'Scheduler' => 'Scheduler',
-	'Allows you to Configure Cron Task' => 'Allows you to Configure Cron Task',
+	'Scheduler' => 'Χρονοδρομολόγηση', // Scheduler
+	'Allows you to Configure Cron Task' => 'Σας επιτρέπει την ρύθμιση μιας Cron δειργασίας', // Cron το αφήνουμε για τον Sys Admin
 
-	'Webforms' => 'Φόρμες Διαδυκτίου',
-	'Allows you to manage Webforms' => 'Διαχείρηση Φορμών Διαδυκτίου',
+	'Webforms' => 'Διαδυκτιακές Φόρμες',
+	'Allows you to manage Webforms' => 'Σας επιτρέπει να διαχειριστείτε τις Διαδυκτιακές Φόρμες',
 	'LBL_CREATING_NEW' => 'Δημιουργία Νέας',
 	'LBL_EDITING' => 'Επεξεργασία',
 	'LBL_EDIT_RECORD' => 'Επεξεργασία',
-	'LBL_DELETE_RECORD' => 'Διεγραφή',
+	'LBL_DELETE_RECORD' => 'Διαγραφή',
 
 	//Menu Editor
 	'LBL_ADD_MOVE_MENU_ITEMS' => 'Προσθήκη/Μετακίνηση Αντικειμένων Μενού',
@@ -133,7 +133,7 @@ $languageStrings = array(
 	
 	//Tax Calculations
 	'LBL_TAX_CALCULATIONS' => 'Υπολογισμός Φόρου',
-	'LBL_TAX_DESC'=>'Manage different types of tax rates for taxes, such as Sales Tax, VAT etc.,',
+	'LBL_TAX_DESC'=>'Διαχειριστείτε διαφορετικούς τύπους φορολογικών συντελεστών για τους φόρους, όπως ο φόρος επί των πωλήσεων, ΦΠΑ κλπ.,',
 	'LBL_PRODUCT_SERVICE_TAXES' => 'Φορολογία Υπηρεσιών και Προϊόντων',
 	'LBL_SHIPPING_HANDLING_TAXES' => 'Φορολογία Αποστολής και Μεταφοράς',
 	'LBL_ADD_NEW_TAX' => 'Προσθήκη Νέου Φόρου',
@@ -141,70 +141,70 @@ $languageStrings = array(
 	'LBL_TAX_NAME' =>  'Όνομα Φόρου',
 	'LBL_TAX_VALUE' => 'Ποσοστό Φόρου',
 	'LBL_STATUS' => 'Κατάσταση',
-	'LBL_TAX_STATUS_DESC' => 'Enable checkbox to make tax active',
+	'LBL_TAX_STATUS_DESC' => 'Ενεργοποιείστε κουτάκι για να καταστεί η φορολογία ενεργή',
 	'LBL_ENTER_TAX_NAME' => 'Εισαγωγή Ονομασίας Φόρου',
 	'LBL_ENTER_TAX_VALUE' => 'Εισαγωγή Ποσοστού Φόρου',
 	'LBL_TAX_NAME_EXIST' => 'Αυτό το Όνομα Φόρου Υπάρχει ήδη',
 	
 	//Terms & conditions
 	'LBL_TERMS_AND_CONDITIONS' => 'Όροι και Προϋποθέσεις',
-	'LBL_SPECIFY_TERMS_AND_CONDITIONS' => 'Specify Terms & Conditions here',
+	'LBL_SPECIFY_TERMS_AND_CONDITIONS' => 'Προσδιορίστε Όρους και Προϋποθέσεις εδώ',
 	//Announcements
 	'LBL_ANNOUNCEMENTS' => 'Ανακοινώσεις',
 	'LBL_ENTER_ANNOUNCEMENT_HERE' => 'Εισαγωγή Ανακοίνωσης Εδώ',
-	'LBL_ANNOUNCEMENT_DESC' => 'Change the text that appears in the announcement display on top of each page',
+	'LBL_ANNOUNCEMENT_DESC' => 'Αλλάξτε το κείμενο που εμφανίζεται στην ανακοίνωση στην κορυφή κάθε σελίδας',
 
 	//Outgoing Server
-	'LBL_RESET_TO_DEFAULT' => 'Reset to Default',
-	'LBL_SERVER_NAME' => 'Server Name',
+	'LBL_RESET_TO_DEFAULT' => 'Επαναφορά στις Προεπιλογές',
+	'LBL_SERVER_NAME' => 'Όνομα Διακομιστή',
 	'LBL_USER_NAME' => 'Όνομα Χρήστη',
 	'LBL_PASSWORD' => 'Κωδικός',
-	'LBL_FROM_EMAIL' => 'From Email',
-	'LBL_REQUIRES_AUTHENTICATION' => 'Requires Authentication',
-	'LBL_OUTGOING_SERVER' => 'Outgoing Server',
-	'LBL_OUTGOING_SERVER_DESC' => 'Configure your Outgoing Mail Server details',
-	'LBL_DEFAULT'=>'By default, SMTP account settings for the outgoing server are configured to od1.vtiger.com mail server. To avoid outgoing emails getting filtered out by spam filters on your recipient ISP mail server, we recommend you implement one of the following.',
-	'LBL_OPTIONS1'=>'Send emails from your mail server<br>
-					- Enter the SMTP account details (Server Name, User Name, Password) for the same account as entered in the FROM email address.',
-	'LBL_OPTIONS2'=>"Add od1.vtiger.com server as a authorized sender for your domain.<br>
-					- If you prefer to retain the vtiger server as the outgoing server, we recommend that you configure your domain's SPF record to include the vtiger server as a valid sender for your domain.
-					  For additonal instruction on setting up SPF record, please email od-support@vtiger.com .",
-	'LBL_MAIL_SERVER_SMTP'=>'Mail Server Settings (SMTP)',
-	'LBL_OUTGOING_SERVER_FROM_FIELD'=>'NOTE: If "From Email" field is set to blank then the User Email address will be picked up.',
-	'LBL_TESTMAILSTATUS'=>'Test Mail Status : ',
-	'LBL_MAILSENDERROR'=>'Mail could not be sent to the admin user. Please check the admin emailid/Server settings',
+	'LBL_FROM_EMAIL' => 'Απο Email',
+	'LBL_REQUIRES_AUTHENTICATION' => 'Απαιτείται έλεγχος ταυτότητας πρόσβασης',
+	'LBL_OUTGOING_SERVER' => 'Διακομιστής Εξερχομένων',
+	'LBL_OUTGOING_SERVER_DESC' => 'Διαμορφώστε τα στοιχεία του Mail Server ',
+	'LBL_DEFAULT'=>'Από προεπιλογή, οι ρυθμίσεις του λογαριασμού SMTP για το διακομιστή εξερχόμενων έχουν ρυθμιστεί στον od1.vtiger.com mail server. Για να αποφύγετε προβλήματα φιλτραρίσματος των εξερχόμενων email από τα φίλτρα spam στον παραλήπτη διακομιστή αλληλογραφίας του ISP σας, σας προτείνουμε να εφαρμόστουν ένα από τα ακόλουθα.',
+	'LBL_OPTIONS1'=>'Αποστολή emails απο τον δικό σας mail server<br>
+					- Εισαγωγή στοιχείων λογαρισμού SMTP (Όνομα Διακομιστή, Όνομα Χρήστη, Κωδικός) για τον ίδιο λογαριασμό όπως εισήχθει στο ΑΠΟ email.',
+	'LBL_OPTIONS2'=>"Προσθήκη του od1.vtiger.com ως πιστοποιημένου αποστολέα απο το δικό σας domain.<br>
+					- Αν προτιμάτε να διατηρήσετε τον vtiger server ως διακομιστή εξερχόμενης αλληλογραφίας, σας συνιστούμε να ρυθμίσετε τις SPF εγγραφές του domain σας να συμπεριλαμβάνει τον server vtiger ως έγκυρο αποστολέα για το domain σας.
+					  Για περισσότερες οδηγίες σχετικά με τη ρύθμιση των SPF εγγραφών, στείλτε email στο od-support@vtiger.com.",
+	'LBL_MAIL_SERVER_SMTP'=>'Ρυθμίσεις Mail Server (SMTP)',
+	'LBL_OUTGOING_SERVER_FROM_FIELD'=>'ΣΗΜΕΙΩΣΗ: Αν το πεδίο "Απο Email" είναι κενό τότε θα χρησιμοποιηθεί το Email του Χρήστη.',
+	'LBL_TESTMAILSTATUS'=>'Έλεγχος κατάσταση Mail : ',
+	'LBL_MAILSENDERROR'=>'Το Mail δεν μπορεί να αποσταλεί στον χρήστη admin. Παρακαλώ ελέγξτε τις ρυθμίσεις emailid/Server του admin χρήστη',
 	
 	//Configuration Editor
-	'LBL_CONFIG_EDITOR' => 'Configuration Editor',
-	'LBL_CONFIG_DESCRIPTION' => 'Edit the Configuration details of vtiger CRM',
+	'LBL_CONFIG_EDITOR' => 'Επεξεργαστής Ρυθμίσεων',
+	'LBL_CONFIG_DESCRIPTION' => 'Επεξεργασία λεπτομεριών Ρυθμίσεων του vtiger CRM',
 	'LBL_CONFIG_FILE' => 'config.inc.php',
 	'LBL_MB' => 'MB',
 
 	//Config Editor Fields
-	'LBL_MINI_CALENDAR_DISPLAY' => 'Mini Calendar Display',
-	'LBL_WORLD_CLOCK_DISPLAY' => 'World Clock Display',
-	'LBL_CALCULATOR_DISPLAY' => 'Calculator Display',
+	'LBL_MINI_CALENDAR_DISPLAY' => 'Εμφάνιση μικρού Ημερολογίου',
+	'LBL_WORLD_CLOCK_DISPLAY' => 'Εμφάνιση Παγκόσμιου Ρολογιού',
+	'LBL_CALCULATOR_DISPLAY' => 'Εμφάνιση Αριθμομηχανής',
 	'LBL_USE_RTE' => 'Use RTE',
-	'LBL_HELPDESK_SUPPORT_EMAILID' => 'Helpdesk Support Email-Id',
-	'LBL_HELPDESK_SUPPORT_NAME' => 'Helpdesk Support Name',
-	'LBL_MAX_UPLOAD_SIZE' => 'Maximum Upload Size (Max 5MB)',
-	'LBL_MAX_HISTORY_VIEWED' => 'Maximum History Viewed',
-	'LBL_DEFAULT_MODULE' => 'Default Module',
-	'LBL_MAX_TEXT_LENGTH_IN_LISTVIEW' => 'Maximum text length in List View',
-	'LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW' => 'Maximum entries per page in List View',
-	'LBL_INVALID_EMAILID' => 'Invalid EmailId',
-	'LBL_INVALID_SUPPORT_NAME' => 'Invalid Name',
-	'LBL_INVALID_MODULE' => 'Invalid Module',
-	'LBL_INVALID_NUMBER' => 'Invalid Number',
-	'LBL_FIELDS_INFO_IS_EMPTY' => 'Fields information is empty',
+	'LBL_HELPDESK_SUPPORT_EMAILID' => 'Email-Id της Helpdesk Υποστήριξης',
+	'LBL_HELPDESK_SUPPORT_NAME' => 'Όνομα Helpdesk Υποστήριξης',
+	'LBL_MAX_UPLOAD_SIZE' => 'Μέγιστο Μέγεθος Μεταφόρτωσης (Max 5MB)',
+	'LBL_MAX_HISTORY_VIEWED' => 'Μέγιστη Προβολή Ιστορικού',
+	'LBL_DEFAULT_MODULE' => 'Προεπιλεγμένο Άρθρωμα',
+	'LBL_MAX_TEXT_LENGTH_IN_LISTVIEW' => 'Μέγιστο μήκος του κειμένου στην προβολή λίστας',
+	'LBL_MAX_ENTRIES_PER_PAGE_IN_LISTVIEW' => 'Μέγιστες καταχωρήσεις ανά σελίδα στην προβολή λίστας',
+	'LBL_INVALID_EMAILID' => 'Μη Έγκυρο EmailId',
+	'LBL_INVALID_SUPPORT_NAME' => 'Μη Έγκυρο Name',
+	'LBL_INVALID_MODULE' => 'Μη Έγκυρο Άρθρωμα',
+	'LBL_INVALID_NUMBER' => 'Μη Έγκυρος Αριθμός',
+	'LBL_FIELDS_INFO_IS_EMPTY' => 'Οι πληροφορίες Πεδίων είναι κενές',
 
 	//CustomRecordNumbering
-	'LBL_SUCCESSFULLY_UPDATED' => 'Successfully Updated',
-	'LBL_CUSTOMIZE_RECORD_NUMBERING' => 'Customize Record Numbering',
-	'LBL_MODULE_ENTITY_NUMBER_CUSTOMIZATION' => 'Module Entity Number customization',
-	'LBL_UPDATE_MISSING_RECORD_SEQUENCE' => 'Update Missing Record Sequence',
-	'LBL_USE_PREFIX' => 'Use Prefix',
-	'LBL_START_SEQUENCE' => 'Start Sequence',
+	'LBL_SUCCESSFULLY_UPDATED' => 'Επιτυχής ενημέρωση',
+	'LBL_CUSTOMIZE_RECORD_NUMBERING' => 'Προσαρμογή Αρίθμησης Εγγραφών',
+	'LBL_MODULE_ENTITY_NUMBER_CUSTOMIZATION' => 'Προσαρμογή Αρίθμησης Οντότητας Αρθρώματος',
+	'LBL_UPDATE_MISSING_RECORD_SEQUENCE' => 'Ενημέρωση Ελλιπών Εγγραφών Ακολουθίας',
+	'LBL_USE_PREFIX' => 'Χρήση Προθέματος',
+	'LBL_START_SEQUENCE' => 'Έναρξη Ακολουθίας',
 
 	//Company Details
 	'organizationname' => 'Όνομα Εταιρείας',
@@ -218,27 +218,27 @@ $languageStrings = array(
 	'fax' => 'Fax',
 	'website' => 'Ιστότοπος',
 	'LBL_INVALID_IMAGE' => 'Μή Έγκυρη Μορφή Εικόνας',
-	'LBL_IMAGE_CORRUPTED' => 'Virus detected or Uploaded image corrupted',
+	'LBL_IMAGE_CORRUPTED' => 'Έχει ανιχνευθεί Ιος ή Μεταφορτώθηκε κατεστραμμένη εικόνα',
 	'LBL_LOGO_RECOMMENDED_MESSAGE' => 'Προτεινόμενο Μέγεθος 170X60 pixels( .jpeg , .jpg , .png , .gif , .pjpeg , .x-png format ).',
 	'LBL_COMPANY_INFORMATION' => 'Στοιχεία Εταιρείας',
-	'LBL_UPDATE' => 'Ανανέωση',
-	'LBL_UPDATE_LOGO' => 'Ανανέωση Λογότυπου',
+	'LBL_UPDATE' => 'Ενημέρωση',
+	'LBL_UPDATE_LOGO' => 'Ενημέρωση Λογότυπου',
 	'LBL_COMPANY_LOGO' => 'Λογότυπο Εταιρείας',
-	'LBL_EDIT_COMPANY_DETAILS_MESSAGE' => 'To edit company details, please click on Settings Icon > Add/Delete Users > Company ',
+	'LBL_EDIT_COMPANY_DETAILS_MESSAGE' => 'Για να επεξεργαστείτε τα στοιχεία της εταιρείας, παρακαλούμε κάντε κλικ στο εικονίδιο Ρυθμίσεις > Προσθήκη / διαγραφή χρηστών> Εταιρεία',
     
     'LBL_ACTIVE' => 'Ενεργό',
     'LBL_INACTIVE' => 'Ανενεργό',
     
     //show last scan in workflows and mailconverter
-    'LBL_DISABLED' => 'Disabled',
-    'LBL_RUNNING' => 'Running',
-    'LBL_LAST_SCAN_TIMED_OUT' => 'Last scan timed out',
-    'LBL_LAST_SCAN_AT' => 'Last scanned at ',
-    'LBL_TIME_TAKEN' => ' time taken ',
+    'LBL_DISABLED' => 'Απενεργοποιημένο',
+    'LBL_RUNNING' => 'Εκτελείται',
+    'LBL_LAST_SCAN_TIMED_OUT' => 'Ληξη χρονικού περιθωρίου της τελευταίας σάρωση',
+    'LBL_LAST_SCAN_AT' => 'Τελευταία σάρωση στις ',
+    'LBL_TIME_TAKEN' => ' διήρκησε ',
     'LBL_SHORT_SECONDS' => 'δευτ',
 	
 	//Email Templates
-	'EmailTemplate' => 'Email Template',
+	'EmailTemplate' => 'Πρότυπο Email',
 	'LBL_TEMPLATE_NAME' => 'Όνομα Προτύπου',
 	'LBL_DESCRIPTION' => 'Περιγραφή',
 	'LBL_SUBJECT' => 'Θέμα',
@@ -255,27 +255,27 @@ $languageStrings = array(
 	'LBL_LOGIN_HISTORY_DETAILS' => 'Ιστορικό Σύνδεσης',
 	'LBL_LOGIN_HISTORY_DESCRIPTION' => 'Πληροφορίες Ιστορικού Σύνδεσης',
 	
-	'LBL_CONFIG_EDITOR_DESCRIPTION' => 'Update configuration file of the application',
+	'LBL_CONFIG_EDITOR_DESCRIPTION' => 'Ενημέρωση αρχείου ρυθμίσεων της εφαρμογής',
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Please select atleast one member for a group',
+	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Παρακαλούμε επιλέξτε τουλάχιστον ένα μέλος μιας ομάδας',
 	'JS_GROUP_DELETED_SUCCESSFULLY' => 'Η Ομάδα Διαγράφηκε Επιτυχώς',
 	'JS_TAX_SAVED_SUCCESSFULLY' => 'Ο Φόρος Αποθηκεύτηκε Επιτυχώς',
 	'JS_TAX_DISABLED' => 'Φόρος Ανενεργός',
 	'JS_TAX_ENABLED' => 'Φόρος Ενεργός',
 	'JS_EDIT' => 'Επεξεργασία',
 	'JS_ANNOUNCEMENT_SAVED' => 'Η Ανακοίνωση Αποθηκεύτηκε',
-	'JS_CONFIRM_DEFAULT_SETTINGS' => 'Are you sure that you want to change the server details to the default server values',
-	'JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO5' => 'Please enter value in the range 1-5',
-	'JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100' => 'Please enter value in the range 1-100',
-	'JS_RECORD_NUMBERING_SAVED_SUCCESSFULLY_FOR' => 'Record Numbering Successfully saved for',
-	'LBL_PREFIX_IN_USE' => 'Prefix in use',
-	'JS_RECORD_NUMBERING_UPDATED_SUCCESSFULLY_FOR' => 'Record Numbering Updated Successfully for',
-	'JS_SEQUENCE_NUMBER_MESSAGE' => 'Sequence Number should be greater than or equal to',
+	'JS_CONFIRM_DEFAULT_SETTINGS' => 'Είστε σίγουροι ότι θέλετε να αλλάξετε τα στοιχεία του διακομιστή με τις προεπιλεγμένες τιμές διακομιστή',
+	'JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO5' => 'Παρακαλώ εισάγετε τιμή μεταξύ 1-5',
+	'JS_PLEASE_ENTER_NUMBER_IN_RANGE_1TO100' => 'Παρακαλώ εισάγετε τιμή μεταξύ 1-100',
+	'JS_RECORD_NUMBERING_SAVED_SUCCESSFULLY_FOR' => 'Αρίθμηση Εγγραφών αποθηκεύτηκαν με επιτυχία για ',
+	'LBL_PREFIX_IN_USE' => 'Πρόθεμα σε χρήση',
+	'JS_RECORD_NUMBERING_UPDATED_SUCCESSFULLY_FOR' => 'Αρίθμηση Εγγραφών ενημερώθηκαν με επιτυχία για',
+	'JS_SEQUENCE_NUMBER_MESSAGE' => 'Ο Αριθμός Ακολουθίας θα πρέπει να είναι μεγαλύτερο η ίσο με',
 	'LBL_WRONG_IMAGE_TYPE' => 'Μή υποστηριζόμενος Τύπος Εικόνας',
-	'LBL_MAXIMUM_SIZE_EXCEEDS' => 'You can upload maximum size of 1MB only',
+	'LBL_MAXIMUM_SIZE_EXCEEDS' => 'Μπορείτε να μεταφορτώσετε το μέγιστο μέγεθος του 1MB μόνο',
 	'LBL_NO_LOGO_SELECTED' => 'Κανένα Λογότυπο Δέν έχει Επιλεχτεί',
-	'JS_CONFIGURATION_DETAILS_SAVED' => 'Configuration Details Saved',
+	'JS_CONFIGURATION_DETAILS_SAVED' => 'Αποθηκεύτικα οι Λεπτομέρειες διαμόρφωσης',
 	'JS_TERMS_AND_CONDITIONS_SAVED' => 'Οι Όροι Και Προϋποθέσεις Αποθηκεύτηκαν',
 );
