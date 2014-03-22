@@ -13,7 +13,8 @@ Vtiger6 Ελληνική Μετάφραση
 --------
 
 Η τρέχουσα έκδοση είναι :
-* [6.0.0-1710-alpha] [3]
+* [6.0.0-1762-alpha] [3]
+* Ποσοστό Μετάφρασης (**95.08%**) [5]
 
 Η αρίθμηση βασίζεται στην τρέχουσα έκδοση του Vtiger και στην έκδοση αναθεώρησης της μετάφρασης δηλαδή *έκδοση.vtiger(6.χ.χ)-έκδοση.αναθεώρησης(χχχχ)*
 
@@ -52,3 +53,4 @@ Vtiger6 Ελληνική Μετάφραση
 [2]: https://www.vtiger.com/
 [3]: https://github.com/cerebrux/vtiger6-greek-translation/commits/master
 [4]: https://github.com/cerebrux/vtiger6-greek-translation/releases
+[5]: https://github.com/cerebrux/vtiger6-greek-translation/wiki/%CE%9C%CE%B5%CF%84%CE%B1%CF%86%CF%81%CE%B1%CE%B6%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CE%B1
