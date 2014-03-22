@@ -8,27 +8,27 @@
  * All Rights Reserved.
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Add Picklist Dependency',
-	'LBL_PICKLIST_DEPENDENCY' => 'Picklist Dependency',
-	'LBL_SELECT_MODULE' => 'Module',
-	'LBL_SOURCE_FIELD' => 'Source Field',
-	'LBL_TARGET_FIELD' => 'Target Field',
-	'LBL_SELECT_FIELD' => 'Select field',
-	'LBL_CONFIGURE_DEPENDENCY_INFO' => 'Click on the respective cell to change the mapping for picklist values of target field',
-	'LBL_CONFIGURE_DEPENDENCY_HELP_1' => 'Only mapped picklist values of the Source field will be shown below (except for first time)',
-	'LBL_CONFIGURE_DEPENDENCY_HELP_2' => "If you want to see or change the mapping for the other picklist values of Source field, <br/>
-										then you can select the values by clicking on <b>'Select Source values'</b> button on the right side",
-	'LBL_CONFIGURE_DEPENDENCY_HELP_3' => 'Selected values of the Target field values, are highlighted as',
-	'LBL_SELECT_SOURCE_VALUES' => 'Select Source Values',
-	'LBL_SELECT_SOURCE_PICKLIST_VALUES' => 'Select Source Picklist Values',
-	'LBL_ERR_CYCLIC_DEPENDENCY' => 'This dependency setup is not allowed as it ends up in some cyclic dependency',
+	'LBL_ADD_RECORD' => 'Προσθήκη εξάρτησης σε Λίστα Επιλογών',
+	'LBL_PICKLIST_DEPENDENCY' => 'Εξάρτηση Λίστας Επιλογών',
+	'LBL_SELECT_MODULE' => 'Αρθρωμα',
+	'LBL_SOURCE_FIELD' => 'Πεδίο Πηγής',
+	'LBL_TARGET_FIELD' => 'Πεδίο Προορισμού',
+	'LBL_SELECT_FIELD' => 'Πεδίο Επιλογής',
+	'LBL_CONFIGURE_DEPENDENCY_INFO' => 'Κάντε κλικ στο αντίστοιχο κελί για να αλλάξετε τη διάταξη για τις τιμές της λίστας επιλογών του πεδίου-στόχου',
+	'LBL_CONFIGURE_DEPENDENCY_HELP_1' => 'Μόνο τιμές της λίστας επιλογών του πεδίου πηγής που έχει γίνει διάταξη θα φαίνεται παρακάτω (εκτός από την πρώτη φορά)',
+	'LBL_CONFIGURE_DEPENDENCY_HELP_2' => "Αν θέλετε να δείτε ή να αλλάξετε τη διάταξη για τις άλλες τιμές της λίστας επιλογών πεδίου πήγης, <br/>
+										μπορείτε να επιλέξετε τις τιμές κάνοντας κλικ στο <b>'Επιλέξτε τιμές Πηγής'</b> κουμπί στη δεξιά πλευρά",
+	'LBL_CONFIGURE_DEPENDENCY_HELP_3' => 'Επιλεγμένες τιμές των πεδίων προορισμού, επισημαίνονται ως',
+	'LBL_SELECT_SOURCE_VALUES' => 'Επιλέξτε τιμές Πηγής',
+	'LBL_SELECT_SOURCE_PICKLIST_VALUES' => 'Επιλέξτε τιμές λίστας επιλογών πηγών',
+	'LBL_ERR_CYCLIC_DEPENDENCY' => 'Αυτή η εγκατάσταση εξάρτησης δεν επιτρέπεται επειδή καταλήγει σε κυκλική ατέρμονη εξάρτηση',
 );
 
 $jsLanguageStrings = array(
-	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Are you sure you want to delete this picklist dependency?',
-	'JS_DEPENDENCY_DELETED_SUEESSFULLY' => 'Dependency deleted successfully',
-	'JS_PICKLIST_DEPENDENCY_SAVED' => 'Picklist Dependency Saved',
-    'JS_DEPENDENCY_ATLEAST_ONE_VALUE' => 'You need to select atleast one value for',
-	'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME' => 'Source field and Target field should not be same',
-	'JS_SELECT_SOME_VALUE' => 'Select some value'
+	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την εξάρτηση λίστας επιλογών;',
+	'JS_DEPENDENCY_DELETED_SUEESSFULLY' => 'H Εξάρτηση διαγράφηκε με επιτυχία',
+	'JS_PICKLIST_DEPENDENCY_SAVED' => 'Αποθηκεύτηκε η Εξάρτηση Λίστας Επιλογών',
+    'JS_DEPENDENCY_ATLEAST_ONE_VALUE' => 'Πρέπει να επιλέξετε τουλάχιστον μία τιμή για',
+	'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME' => 'Το πεδίο Πηγής και Προορσιμού δεν πρέπει αν είναι ίδιο',
+	'JS_SELECT_SOME_VALUE' => 'Επιλέξτε κάποια τιμή'
 );
