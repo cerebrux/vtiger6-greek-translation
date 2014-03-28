@@ -114,6 +114,7 @@ $languageStrings = array(
 	'LBL_CONVERT_EMAILS_TO_RESPECTIVE_RECORDS' => 'Μετατρέψει τα ηλεκτρονικά ταχυδρομεία με τις αντίστοιχες εγγραφές', // TODO: Review
 	'LBL_DRAG_AND_DROP_BLOCK_TO_PRIORITISE_THE_RULE' => 'Σύρετε ουτοσώστε να δοθεί προτεραιότητα του κράτους', // TODO: Review
 	'LBL_ADD_RULE'                 => 'Προσθήκη Κανόνα'                    , // TODO: Review
+	'LBL_PRIORITY' 		       => 'Προτεραιότητα',
 	'LBL_DELETE_RULE'              => 'Διαγραφή Κανόνα'                 , // TODO: Review
 	'LBL_BODY'                     => 'Σώμα'                        , // TODO: Review
 	'LBL_MATCH'                    => 'Ταιριάζει'                       , // TODO: Review
