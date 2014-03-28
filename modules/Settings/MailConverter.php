@@ -1,127 +1,126 @@
 <?php
-/*+***********************************************************************************
+/*+**********************************************************************************
  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
  * ("License"); You may not use this file except in compliance with the License
  * The Original Code is:  vtiger CRM Open Source
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- *************************************************************************************/
+ ************************************************************************************/
 $languageStrings = array(
-	'MailConverter' => 'Mail Converter',
-	'MailConverter_Description' => 'Convert emails to respective records',
-	'MAILBOX' => 'MailBox',
-	'RULE' => 'Rule',
-	'LBL_ADD_RECORD' => 'Add MailBox',
-	'ALL' => 'All',
-	'UNSEEN' => 'Unread',
-	'LBL_MARK_READ' => 'Mark Read',
-	'SEEN' => 'Read',
-	'LBL_EDIT_MAILBOX' => 'Edit MailBox',
-    'LBL_CREATE_MAILBOX' => 'Create MailBox',
-	'LBL_BACK_TO_MAILBOXES' => 'Back to MailBoxes',
-	'LBL_MARK_MESSAGE_AS' => 'Mark message as',
+	'MailConverter'                => 'Μετατροπέας Ηλεκτρονικού Ταχυδρομείου'              , // TODO: Review
+	'MailConverter_Description'    => 'Μετατρέψει τα ηλεκτρονικά ταχυδρομεία με τις αντίστοιχες εγγραφές', // TODO: Review
+	'MAILBOX'                      => 'Γραμματοκιβώτιο'                     , // TODO: Review
+	'RULE'                         => 'Κανόνας'                        , // TODO: Review
+	'LBL_ADD_RECORD'               => 'Προσθήκη Γραμματοκιβώτιο'                 , // TODO: Review
+	'ALL'                          => 'Όλα'                         , // TODO: Review
+	'UNSEEN'                       => 'Αδιάβαστα'                      , // TODO: Review
+	'LBL_MARK_READ'                => 'Μαρκαρισμένα ως Διαβασμένα'                   , // TODO: Review
+	'SEEN'                         => 'Διαβασμένα'                        , // TODO: Review
+	'LBL_EDIT_MAILBOX'             => 'Επεξεργασία Γραμματοκιβωτίου'                , // TODO: Review
+	'LBL_CREATE_MAILBOX'           => 'Δημιουργία Γραμματοκιβωτίου'              , // TODO: Review
+	'LBL_BACK_TO_MAILBOXES'        => 'Πίσω στο Γραμματοκιβώτιο'           , // TODO: Review
+	'LBL_MARK_MESSAGE_AS'          => 'Επισήμανση μηνύματος ως'             , // TODO: Review
 	
 	//Server Messages
-	'LBL_MAX_LIMIT_ONLY_TWO' => 'You can configure only two mailboxes',
-	'LBL_IS_IN_RUNNING_STATE' => 'In running state',
-	'LBL_SAVED_SUCCESSFULLY' => 'Saved successfully',
-	'LBL_CONNECTION_TO_MAILBOX_FAILED' => 'Connecting to mailbox failed!',
-	'LBL_DELETED_SUCCESSFULLY' => 'Deleted Successfully',
-	'LBL_RULE_DELETION_FAILED' => 'Rule deletion failed',
-	'LBL_RULES_SEQUENCE_INFO_IS_EMPTY' => 'Rules sequence info is empty',
-	'LBL_SEQUENCE_UPDATED_SUCCESSFULLY' => 'Sequence updated successfully',
-	'LBL_SCANNED_SUCCESSFULLY' => 'Scanned successfully',
+	'LBL_MAX_LIMIT_ONLY_TWO'       => 'Μπορείτε να ρυθμίσετε μόνο δύο γραμματοκιβώτια', // TODO: Review
+	'LBL_IS_IN_RUNNING_STATE'      => 'βρίσκεται σε κατάσταση λειτουργίας'         , // TODO: Review
+	'LBL_SAVED_SUCCESSFULLY'       => 'αποθηκεύτηκε με επιτυχία'          , // TODO: Review
+	'LBL_CONNECTION_TO_MAILBOX_FAILED' => 'Η Σύνδεση με το γραμματοκιβώτιο απέτυχε!', // TODO: Review
+	'LBL_DELETED_SUCCESSFULLY'     => 'Διαγράφηκε με Επιτυχία'        , // TODO: Review
+	'LBL_RULE_DELETION_FAILED'     => 'Άρθρο διαγραφή απέτυχε'        , // TODO: Review
+	'LBL_RULES_SEQUENCE_INFO_IS_EMPTY' => 'Πληροφορίες Αλληλουχίας είναι άδειες', // TODO: Review
+	'LBL_SEQUENCE_UPDATED_SUCCESSFULLY' => 'Ακολουθία ενημερώθηκε με επιτυχία', // TODO: Review
+	'LBL_SCANNED_SUCCESSFULLY'     => 'σαρώθηκε με επιτυχία'        , // TODO: Review
 
 	//Field Names
-	'scannername' => 'Scanner Name',
-	'server' => 'Server Name',
-	'protocol' => 'Protocol',
-	'username' => 'User Name',
-	'password' => 'Password',
-	'ssltype' =>  'SSL Type',
-	'sslmethod' => 'SSL Method',
-	'connecturl' => 'Connect Url',
-	'searchfor' => 'Look For',
-	'markas' => 'After Scan',
+	'scannername'                  => 'Όνομα σκαναρίσματος'                , // TODO: Review
+	'server'                       => 'Όνομα διακομιστή'                 , // TODO: Review
+	'protocol'                     => 'Πρωτόκολλο'                    , // TODO: Review
+	'username'                     => 'Όνομα Χρήστη'                   , // TODO: Review
+	'password'                     => 'Κωδικός'                    , // TODO: Review
+	'ssltype'                      => 'SSL Τύπος'                    , // TODO: Review
+	'sslmethod'                    => 'SSL Μέθοδος'                  , // TODO: Review
+	'connecturl'                   => 'Σύνδεση Url'                 , // TODO: Review
+	'searchfor'                    => 'Ψάξε για'                    , // TODO: Review
+	'markas'                       => 'Μετά σάρωσης'                  , // TODO: Review
 
 	//Field values & Messages
-	'LBL_ENABLE' => 'Enable',
-	'LBL_DISABLE' =>'Disable',
-	'LBL_STATUS_MESSAGE' => 'Check To make active',
-	'LBL_VALIDATE_SSL_CERTIFICATE' => 'Validate SSL Certificate',
-	'LBL_DO_NOT_VALIDATE_SSL_CERTIFICATE' => 'Do Not Validate SSL Certificate',
-	'LBL_ALL_MESSAGES_FROM_LAST_SCAN' => 'All messages from last scan',
-	'LBL_UNREAD_MESSAGES_FROM_LAST_SCAN' => 'Unread messages from last scan',
-	'LBL_MARK_MESSAGES_AS_READ' => 'Mark messages as read',
-	'LBL_I_DONT_KNOW' => "I don't know",
+        'LBL_ENABLE'                   => 'Ενεργό'                      , // TODO: Review
+	'LBL_DISABLE'                  => 'Ανενεργό'                     , // TODO: Review
+	'LBL_STATUS_MESSAGE'           => 'Ελέγξτε για να γίνει ενεργό'        , // TODO: Review
+	'LBL_VALIDATE_SSL_CERTIFICATE' => 'Έγκυρο SSL Πιστοποιητικό'    , // TODO: Review
+	'LBL_DO_NOT_VALIDATE_SSL_CERTIFICATE' => 'Μην Επικυρώσετε το SSL Πιστοποιητικό', // TODO: Review
+	'LBL_ALL_MESSAGES_FROM_LAST_SCAN' => 'Όλα τα μηνύματα από την τελευταία σάρωση' , // TODO: Review
+	'LBL_UNREAD_MESSAGES_FROM_LAST_SCAN' => 'Μη αναγνωσμένων μηνυμάτων από την τελευταία σάρωση', // TODO: Review
+	'LBL_MARK_MESSAGES_AS_READ'    => 'Σήμανση μηνυμάτων ως αναγνωσμένα'       , // TODO: Review
+	'LBL_I_DONT_KNOW'              => 'Δεν Γνωρίζω'               , // TODO: Review
 
-	//Mailbox Actions
-	'LBL_SCAN_NOW' => 'Scan Now',
-	'LBL_RULES_LIST' => 'Rules List',
-	'LBL_SELECT_FOLDERS' => 'Select Folders',
+ 	//Mailbox Actions
+        'LBL_SCAN_NOW'                 => 'Σάρωση τώρα'                    , // TODO: Review
+	'LBL_RULES_LIST'               => 'Λίστα Κανόνων'                  , // TODO: Review
+	'LBL_SELECT_FOLDERS'           => 'Επιλογή Φακέλου'              , // TODO: Review
 
 	//Action Messages
-	'LBL_DELETED_SUCCESSFULLY' => 'Deleted successfully',
-	'LBL_RULE_DELETION_FAILED' => 'Rule deletion failed',
-	'LBL_SAVED_SUCCESSFULLY' => 'Saved successfully',
-	'LBL_SCANED_SUCCESSFULLY' => 'Scanned successfully',
-	'LBL_IS_IN_RUNNING_STATE' => 'is in running state',
-	'LBL_FOLDERS_INFO_IS_EMPTY' => 'Folders information is empty',
-	'LBL_RULES_SEQUENCE_INFO_IS_EMPTY' => 'Rules sequnce information is empty',
+	'LBL_DELETED_SUCCESSFULLY' => 'Η διαγραφή έγινε επιτυχώς',
+	'LBL_RULE_DELETION_FAILED'     => 'Η διαγραφή του κανόνα απέτυχε'        , // TODO: Review
+	'LBL_SAVED_SUCCESSFULLY' => 'αποθηκεύτηκε με επιτυχία',
+	'LBL_SCANED_SUCCESSFULLY' => 'Σαρώθηκε με επιτυχία',
+	'LBL_IS_IN_RUNNING_STATE' => 'βρίσκεται σε κατάσταση λειτουργίας',
+	'LBL_FOLDERS_INFO_IS_EMPTY' => 'Οι Πληροφορίες φακέλου είναι άδειες',
+	'LBL_RULES_SEQUENCE_INFO_IS_EMPTY' => 'Οι Πληροφορίες Αλληλουχίας είναι άδειες',
 
 	//Folder Actions
-	'LBL_UPDATE_FOLDERS' => 'Update Folders',
+	'LBL_UPDATE_FOLDERS'           => 'Ενημέρωση Φακέλου'              , // TODO: Review
 
 	//Rule Fields
-	'fromaddress' => 'From',
-	'toaddress' => 'To',
-	'subject' => 'Subject',
-	'body' => 'Body',
-	'matchusing' => 'Match',
-	'action' => 'Action',
+        'fromaddress'                  => 'από'                        , // TODO: Review
+	'toaddress'                    => 'να'                          , // TODO: Review
+	'subject'                      => 'αντικείμενο'                     , // TODO: Review
+	'body'                         => 'σώμα'                        , // TODO: Review
+	'matchusing'                   => 'ταιριάζει'                       , // TODO: Review
+	'action'                       => 'ενέργεια'                      , // TODO: Review
 
 	//Rules List View labels
-	'LBL_PRIORITY' => 'Priority',
-	'PRIORITISE_MESSAGE' => 'Drag and drop block to prioritise the rule',
+	'LBL_PRIORITY'                 => 'προτεραιότητα'                    , // TODO: Review
+	'PRIORITISE_MESSAGE'           => 'Σύρετε το μπλοκ για να δοθεί προτεραιότητα ', // TODO: Review
 
 	//Rule Field values & Messages
-	'LBL_ALL_CONDITIONS' => 'All Conditions',
-	'LBL_ANY_CONDITIOn' => 'Any Condition',
+	'LBL_ALL_CONDITIONS'           => 'Όλες οι προϋποθέσεις'              , // TODO: Review
+	'LBL_ANY_CONDITIOn'            => 'κάθε Κατάσταση'               , // TODO: Review
 
 	//Rule Conditions
-	'Contains' => 'Contains',
-	'Not Contains' => 'Not Contains',
-	'Equals' => 'Equals',
-	'Not Equals' => 'Not Equals',
-	'Begins With' => 'Begin',
-	'Ends With' => 'End',
-	'Regex' => 'Regex',
+	'Contains'                     => 'Περιέχει'                    , // TODO: Review
+	'Not Contains'                 => 'δεν Περιέχει'                , // TODO: Review
+	'Equals'                       => 'ίσο '                      , // TODO: Review
+	'Not Equals'                   => 'δεν είναι ίσο'                  , // TODO: Review
+	'Begins With'                  => 'αρχίζει'                       , // TODO: Review
+	'Ends With'                    => 'τελειώνει'                         , // TODO: Review
+	'Regex'                        => 'Regex'                       , // TODO: Review
 
 	//Rule Actions
-	'CREATE_HelpDesk_FROM' => 'Create Ticket',
-	'UPDATE_HelpDesk_SUBJECT' => 'Update Ticket',
-	'LINK_Contacts_FROM' => 'Add to Contact [FROM]',
-	'LINK_Contacts_TO' => 'Add to Contact [TO]',
-	'LINK_Accounts_FROM' => 'Add to Organization [FROM]',
-	'LINK_Accounts_TO' => 'Add to Organization [TO]',
+	'CREATE_HelpDesk_FROM'         => 'Δημιουργία Δελτίου Τ.Υ'               , // TODO: Review
+	'UPDATE_HelpDesk_SUBJECT'      => 'Ενημέρωση Δελτίου Τ.Υ'               , // TODO: Review
+	'LINK_Contacts_FROM'           => 'Προσθήκη στην Επαφή [ΑΠΟ]'       , // TODO: Review
+	'LINK_Contacts_TO'             => 'Προσθήκη στην Επαφή [TO]'         , // TODO: Review
+	'LINK_Accounts_FROM'           => 'Προσθήκη στο Πελάτη [ΑΠΟ]'  , // TODO: Review
+	'LINK_Accounts_TO'             => 'Προσθήκη στο Πελάτη [TO]'    , // TODO: Review
     
-    //Select Folder
-    'LBL_UPDATE_FOLDERS' => 'Update Folders',
-    'LBL_UNSELECT_ALL' => 'Unselect All',
+	    //Select Folder
+	'LBL_UPDATE_FOLDERS' => 'Ενημέρωση Φακέλλων',
+	'LBL_UNSELECT_ALL'             => 'Αποεπιλογή Όλων'                , // TODO: Review
 	
 	//Setup Rules
-	'LBL_CONVERT_EMAILS_TO_RESPECTIVE_RECORDS' => 'Convert emails to respective records',
-	'LBL_DRAG_AND_DROP_BLOCK_TO_PRIORITISE_THE_RULE' => 'Drag and drop block to prioritise the rule',
-	'LBL_ADD_RULE' => 'Add Rule',
-	'LBL_PRIORITY' => 'Priority',
-	'LBL_DELETE_RULE' => 'Delete rule',
-	'LBL_BODY' => 'Body',
-	'LBL_MATCH' => 'Match',
-	'LBL_ACTION' => 'Action',
-	'LBL_FROM' => 'From',
+	'LBL_CONVERT_EMAILS_TO_RESPECTIVE_RECORDS' => 'Μετατρέψει τα ηλεκτρονικά ταχυδρομεία με τις αντίστοιχες εγγραφές', // TODO: Review
+	'LBL_DRAG_AND_DROP_BLOCK_TO_PRIORITISE_THE_RULE' => 'Σύρετε ουτοσώστε να δοθεί προτεραιότητα του κράτους', // TODO: Review
+	'LBL_ADD_RULE'                 => 'Προσθήκη Κανόνα'                    , // TODO: Review
+	'LBL_DELETE_RULE'              => 'Διαγραφή Κανόνα'                 , // TODO: Review
+	'LBL_BODY'                     => 'Σώμα'                        , // TODO: Review
+	'LBL_MATCH'                    => 'Ταιριάζει'                       , // TODO: Review
+	'LBL_ACTION'                   => 'Ενέργεια'                      , // TODO: Review
+	'LBL_FROM'                     => 'Από'                        , // TODO: Review
 );
 $jsLanguageStrings = array(
-	'JS_MAILBOX_DELETED_SUCCESSFULLY' => 'MailBox deleted Successfully',
-	'JS_MAILBOX_LOADED_SUCCESSFULLY' => 'MailBox loaded Successfully'
+        'JS_MAILBOX_DELETED_SUCCESSFULLY' => 'Το Γραμματοκιβώτιο διαγράφηκε με επιτυχία', // TODO: Review
+	'JS_MAILBOX_LOADED_SUCCESSFULLY' => 'Το Γραμματοκιβώτιο Φορτώθηκε με επιτυχία' , // TODO: Review
 );	
