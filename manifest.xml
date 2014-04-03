@@ -4,7 +4,7 @@
   <name>Greek</name>
   <label>Ελληνικά</label>
   <prefix>el_gr</prefix>
-  <version>6.0.0</version>
+  <version>6.0.0-2000</version>
   <dependencies>
     <vtiger_version>6.0.0</vtiger_version>
 	<vtiger_max_version>6.*</vtiger_max_version>
@@ -18,9 +18,14 @@
  * WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License for
  * the specific language governing rights and limitations under the License.
  ********************************************************************************
- *  Designed by #todo
+ *  
  *  Language     : Greek
- *  Version      : 6.0.0
+ *  Version      : 6.0.0-2000
+ *  Designed by :
+ *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
+ *  -- Mathias stavrou (http://mstavrou.com/)
+ *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
+ *  -- Dimitris Anagnostou (--to do--)
  ********************************************************************************
 ]]></inline>
   </license>
