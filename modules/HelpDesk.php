@@ -81,7 +81,7 @@ $languageStrings = array(
 	'Support_team' => 'Ομάδα Υποστήριξης Vtiger',
 	'The comments are' => 'Τα Σχόλια είναι',
 	'Ticket Title' => 'Τίτλος Αιτήματος',
-	'Re' => 'Re :', // προς διερεύνηση 
+	'Re' => 'Απάντηση :', 
 
 	//This label for customerportal.
 	'LBL_STATUS_CLOSED' =>'Closed',//Μην το μεταφράζετε !!! Do not convert this label. This is used to check the status. If the status 'Closed' is changed in vtigerCRM server side then you have to change in customerportal language file also.
