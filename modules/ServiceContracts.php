@@ -21,11 +21,11 @@ $languageStrings = array(
 	// Basic Strings
 	'ServiceContracts' => 'Συμβάσεις Υπηρεσιών',
 	'Service Contracts' => 'Συμβάσεις Υπηρεσιών',
-	'SINGLE_ServiceContracts' => 'Σύμβάση Παροχής Υπηρεσιών',
-	'LBL_ADD_RECORD' => 'Προσθήκη Σύμβάση Παροχής Υπηρεσιών',
-	'LBL_RECORDS_LIST' => 'Κατάλογος Σύμβάσης Παροχής Υπηρεσιών',
+	'SINGLE_ServiceContracts' => 'Σύμβάση Υπηρεσιών',
+	'LBL_ADD_RECORD' => 'Προσθήκη Σύμβάση Υπηρεσιών',
+	'LBL_RECORDS_LIST' => 'Κατάλογος Σύμβάσης Υπηρεσιών',
 	// Blocks
-	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Πληροφορίες Σύμβάσης Παροχής Υπηρεσιών',
+	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Πληροφορίες Σύμβάσης Υπηρεσιών',
 	
 	//Field Labels
 	'Contract No' => 'Αρ Σύμβασης',
