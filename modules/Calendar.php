@@ -18,7 +18,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_Calendar' => 'Εργασία',
+	'SINGLE_Calendar' => 'Ημερολόγιο',
 	'SINGLE_Events' => 'Γεγονός',
 	'LBL_ADD_TASK' => 'Προσθήκη Εργασίας',
 	'LBL_ADD_EVENT' => 'Προσθήκη Γεγονότος',
@@ -27,7 +27,7 @@ $languageStrings = array(
 	'LBL_TODOS' => 'Προς εκτέλεση',
 	'LBL_CALENDAR_SETTINGS' => 'Ρυθμίσεις Ημερολογίου',
 	'LBL_CALENDAR_SHARING' => 'Κοινή χρήση Ημερολογίου',
-	'LBL_DEFAULT_EVENT_DURATION' => 'Προεπιλογή Διάρκειας Γεγονότος',
+	'LBL_DEFAULT_EVENT_DURATION' => 'Προεπιλεγμένη Διάρκεια Γεγονότος',
 	'LBL_CALL' => 'Τηλεφώνησε',
 	'LBL_OTHER_EVENTS' => 'Άλλα Συμβάντα',
 	'LBL_MINUTES' => 'Λεπτά',
@@ -54,7 +54,7 @@ $languageStrings = array(
 
 	//Activity Type picklist values
 	'Call' => 'Τηλέφωνο',
-	'Meeting' => 'Συνάτηση',
+	'Meeting' => 'Συνάντηση',
 	'Task' => 'Εργασία',
 
 	//Status picklist values
@@ -112,7 +112,7 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Γεγονός/Εργασία',
+	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Γεγονότος/Εργασίας',
 	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Η Εργασία έχει προστεθεί επιτυχώς στο Ημερολόγιό σας',
     'LBL_SYNC_BUTTON' => 'Συγχρονισμός Τώρα',
     'LBL_SYNCRONIZING' => 'Συγχρονισμός....',
