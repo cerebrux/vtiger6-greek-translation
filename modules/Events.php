@@ -22,11 +22,11 @@
 $languageStrings = array(
 	// Basic Strings
 	'Events' => 'Γεγονότα',
-	'SINGLE_Events' => 'Γεγονότος',
+	'SINGLE_Events' => 'Γεγονός',
 	'LBL_ADD_RECORD' => 'Προσθήκη Γεγονότος',
 	'LBL_RECORDS_LIST' => 'Λίστα Γεγονότων',
 	'LBL_EVENTS' => 'Γεγονότα',
-	'LBL_TODOS' => 'Πρός Εκτέλεση',
+	'LBL_TODOS' => 'Προς Εκτέλεση',
 	'LBL_HOLD_FOLLOWUP_ON' => 'Ενημέρωση Αναβληθέντων Ενεργή',
 	
 	// Blocks
@@ -39,7 +39,7 @@ $languageStrings = array(
 	'Recurrence' => 'Επανεμφάνιση',
 	'Send Notification' => 'Αποστολή Ειδοποίησης',
 	'Location'=>'Τοποθεσία',
-	'Send Reminder' => 'Αποστολή Email πρίν από',
+	'Send Reminder' => 'Αποστολή Email πριν από',
 	'End Date & Time' => 'Ημερομηνία Περαίωσης',
 	'Activity Type'=>'Τύπος Δραστηριότητας',
 	'Visibility' => 'Ορατότητα',
