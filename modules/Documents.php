@@ -18,8 +18,8 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_Documents' => 'Εγγραφο',
-	'Documents' => 'Έγγραφα',
+	'SINGLE_Documents' => 'Αρχείο',
+	'Documents' => 'Αρχεία',
 	'LBL_ADD_RECORD' => 'Προσθήκη εγγράφου',
 	'LBL_RECORDS_LIST' => 'Λίστα εγγράφων',
 
@@ -39,11 +39,11 @@ $languageStrings = array(
 	'Active' => 'Ενεργό',
 	'Download Count' => 'Αριθμός λήψεων',
 	'Folder Name' => 'Όνομα φακέλου',
-	'Document No' => 'Αριθμός εγγράφου',
+	'Document No' => 'Αρ. αρχείου',
 	'Last Modified By' => 'Τελευταία τροποποίηση',
 
 	//Folder
-	'LBL_FOLDER_HAS_DOCUMENTS' => 'Παρακαλώ μετακινήστε τα έγγραφα από το φάκελο πριν τη διαγραφή',
+	'LBL_FOLDER_HAS_DOCUMENTS' => 'Παρακαλώ μετακινήστε τα αρχεία από το φάκελο πριν τη διαγραφή',
 
 	//DetailView Actions
 	'LBL_DOWNLOAD_FILE' => 'Λήψη αρχείου',
@@ -60,7 +60,7 @@ $languageStrings = array(
 	'LBL_ADD_FOLDER' => 'Προσθήκη φακέλου',
 	'LBL_FOLDERS_LIST' => 'Λίστα φακέλων',
 	'LBL_FOLDERS' => 'Φάκελοι',
-	'LBL_DOCUMENTS_MOVED_SUCCESSFULLY' => 'Τα έγγραφα μετακινήθηκαν με επιτυχία',
+	'LBL_DOCUMENTS_MOVED_SUCCESSFULLY' => 'Τα αρχεία μετακινήθηκαν με επιτυχία',
 	'LBL_DENIED_DOCUMENTS' => 'Η μετακίνηση απέτυχε',
 	'MB' => 'MB',
 
@@ -70,15 +70,15 @@ $languageStrings = array(
 
 	//Check file integrity messages
 	'LBL_FILE_AVAILABLE' => 'Το αρχείο είναι διαθέσιμο για λήψη',
-	'LBL_FILE_NOT_AVAILABLE' => 'Το έγγραφο δεν είναι διαθέσιμο για λήψη',
+	'LBL_FILE_NOT_AVAILABLE' => 'Το αρχείο δεν είναι διαθέσιμο για λήψη',
 );
 
 $jsLanguageStrings = array(
 	'JS_EXCEEDS_MAX_UPLOAD_SIZE' => 'Το μέγεθος του αρχείου ξεπερνά το μέγιστο επιτρεπτό',
 	'JS_NEW_FOLDER' => 'Νέος φάκελος',
-	'JS_MOVE_DOCUMENTS' => 'Μετακίνησε έγγραφα',
+	'JS_MOVE_DOCUMENTS' => 'Μετακίνησε τα αρχεία',
 	//Move documents confirmation message
-	'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Είστε σίγουροι ότι θέλετε να μετακινήσετε τα έγγραφα στο',
+	'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Είστε σίγουροι ότι θέλετε να μετακινήσετε τα αρχεία στον',
 	'JS_FOLDER' => 'φάκελο',
 	'JS_OPERATION_DENIED' => 'Μη επιτρεπτή λειτουργία',
 	'JS_FOLDER_IS_NOT_EMPTY' => 'Ο φάκελος δεν είναι κενός',
