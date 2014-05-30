@@ -25,26 +25,26 @@ $languageStrings = array(
 
 	// Blocks
 	'LBL_CAMPAIGN_INFORMATION' => 'Λεπτομέρειες Εκστρατειών',
-	'LBL_EXPECTATIONS_AND_ACTUALS' => 'Προσδόκιμα & Πραγματικά Στοιχεία',
+	'LBL_EXPECTATIONS_AND_ACTUALS' => 'Προσδοκώμενα & Πραγματικά Στοιχεία',
 	
 	//Field Labels
 	'Campaign Name' => 'Όνομα Εκστρατείας',
-	'Campaign No' => 'Αρ Εκστρατείας', 
+	'Campaign No' => 'Αρ. Εκστρατείας', 
 	'Campaign Type' => 'Είδος Εκστρατείας', 
 	'Product' => 'Προϊόν',
 	'Campaign Status' => 'Κατάσταση Εκστρατείας',
-	'Num Sent' => 'Αρ Απεσταλμένων',
+	'Num Sent' => 'Αρ. Απεσταλμένων',
 	'Sponsor' => 'Χορηγός',
-	'Target Audience' => 'Στοχευμένοι Aποδέκτες',
-	'TargetSize' => 'ΜέγεθοςΑποδεκτών',
+	'Target Audience' => 'Στοχευμένοι Αποδέκτες',
+	'TargetSize' => 'Μέγεθος Αποδεκτών',
 	'Expected Response' => 'Αναμενόμενη Ανταπόκριση',
 	'Expected Revenue' => 'Αναμενόμενο Κέρδος',
-	'Budget Cost' => 'Προϋπολογιζόμενο Kόστος',
-	'Actual Cost' => 'Πραγματικό Kόστος',
-	'Expected Response Count' => 'Αναμενόμενος Aριθμός Aνταπόκρισεων',
-	'Expected Sales Count' => 'Αναμενόμενος Aριθμός Πωλήσεων',
+	'Budget Cost' => 'Προϋπολογιζόμενο Κόστος',
+	'Actual Cost' => 'Πραγματικό Κόστος',
+	'Expected Response Count' => 'Αναμενόμενος Αριθμός Ανταποκρίσεων',
+	'Expected Sales Count' => 'Αναμενόμενος Αριθμός Πωλήσεων',
 	'Expected ROI' => 'Αναμενόμενο Ποσοστό Κέρδους',
-	'Actual Response Count' => 'Πραγματικός Αριθμός Ανταπόκρισεων',
+	'Actual Response Count' => 'Πραγματικός Αριθμός Ανταποκρίσεων',
 	'Actual Sales Count' => 'Πραγματικός Αριθμός Πωλήσεων',
 	'Actual ROI' => 'Πραγματικό Ποσοστό Κέρδους',
 	
@@ -70,7 +70,7 @@ $languageStrings = array(
 	
 	// status fields 
 	'--None--'=>'--None--',
-	'Contacted - Successful' => 'Εγινε Επικοινωνία - Επιτυχημένη',
-	'Contacted - Unsuccessful' => 'Εγινε Επικοινωνία - Ανεπιτυχής',
-	'Contacted - Never Contact Again' => 'Εγινε Επικοινωνία - Ποτέ Ξανά Επικοινωνία',
+	'Contacted - Successful' => 'Έγινε Επικοινωνία - Επιτυχημένη',
+	'Contacted - Unsuccessful' => 'Έγινε Επικοινωνία - Ανεπιτυχής',
+	'Contacted - Never Contact Again' => 'Έγινε Επικοινωνία - Ποτέ Ξανά Επικοινωνία',
 );
