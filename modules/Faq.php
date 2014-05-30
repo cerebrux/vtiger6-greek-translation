@@ -17,7 +17,7 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Faq' => 'FAQ',
+	'Faq' => 'Συχνές Ερωτήσεις (FAQ)',
 	'SINGLE_Faq' => 'FAQ',
 	'LBL_RECORDS_LIST' => 'Λίστα FAQ ',
 	'LBL_ADD_RECORD' => 'Προσθήκη FAQ',
@@ -30,7 +30,7 @@ $languageStrings = array(
 	'Question'=>'Ερώτηση',
 	'Answer'=>'Απάντηση',
 	'Comments'=>'Σχόλια',
-	'Faq No' => 'Αριθμός Faq',
+	'Faq No' => 'Αριθμός FAQ',
 	
 	//Added for existing Picklist Entries
 	'General'=>'Γενικά',
