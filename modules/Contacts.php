@@ -32,7 +32,7 @@ $languageStrings = array(
 
 	//Field Labels
 	'Office Phone' => 'Τηλ. Γραφείου',
-	'Home Phone' => 'Τηλ. Κατοικίας',
+	'Home Phone' => 'Τηλ. Οικίας',
 	'Title' => 'Τίτλος',
 	'Department' => 'Τμήμα',
 	'Birthdate' => 'Γενέθλια',
