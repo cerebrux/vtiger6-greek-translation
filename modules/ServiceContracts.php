@@ -21,11 +21,11 @@ $languageStrings = array(
 	// Basic Strings
 	'ServiceContracts' => 'Συμβάσεις Υπηρεσιών',
 	'Service Contracts' => 'Συμβάσεις Υπηρεσιών',
-	'SINGLE_ServiceContracts' => 'Σύμβάση Υπηρεσιών',
-	'LBL_ADD_RECORD' => 'Προσθήκη Σύμβάση Υπηρεσιών',
-	'LBL_RECORDS_LIST' => 'Κατάλογος Σύμβάσης Υπηρεσιών',
+	'SINGLE_ServiceContracts' => 'Σύμβαση Υπηρεσιών',
+	'LBL_ADD_RECORD' => 'Προσθήκη Σύμβαση Υπηρεσιών',
+	'LBL_RECORDS_LIST' => 'Κατάλογος Σύμβασης Υπηρεσιών',
 	// Blocks
-	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Πληροφορίες Σύμβάσης Υπηρεσιών',
+	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Πληροφορίες Σύμβασης Υπηρεσιών',
 	
 	//Field Labels
 	'Contract No' => 'Αρ Σύμβασης',
@@ -33,7 +33,7 @@ $languageStrings = array(
 	'End Date' => 'Ημερομηνία Λήξης',
 	'Tracking Unit' => 'Μονάδα Παρακολούθησης',
 	'Total Units' => 'Συνολικές Μονάδες',
-	'Used Units' => 'ΚαταναλωμένεςΜονάδες',
+	'Used Units' => 'Χρεωμένες Μονάδες',
 	'Progress'=> 'Πρόοδος',
 	'Planned Duration' => 'Διάρκεια Προγραμματισμού (σε ημέρες)',
 	'Actual Duration' => 'Πραγματική Διάρκεια (σε ημέρες)',

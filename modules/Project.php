@@ -32,7 +32,7 @@ $languageStrings = array(
 	'Actual End Date' => 'Πραγματική Ημερομηνία Αποπεράτωσης',
 	'Project No' => 'Αριθμός Έργου',
 	'Target Budget' => 'Προϋπολογισμός',
-	'Project Url' => 'Ηλ.Διεύθυνση Έργου',
+	'Project Url' => 'Ηλ. Διεύθυνση Έργου',
 	'Progress' => 'Πρόοδος',
 
 	//Summary Information
@@ -44,7 +44,7 @@ $languageStrings = array(
 	//Related List
 	'LBL_CHARTS' => 'Γραφικές Παραστάσεις',
 	'LBL_TASKS_LIST' => 'Λίστα Εργασιών',
-	'LBL_MILESTONES' => 'Ορόσιμα',
+	'LBL_MILESTONES' => 'Ορόσημα',
 	'LBL_TASKS' => 'Εργασίες',
 	'LBL_STATUS_IS' => 'Η Κατάσταση είναι',
 	'LBL_STATUS' => 'Κατάσταση',

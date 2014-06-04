@@ -20,13 +20,13 @@ $languageStrings = array(
 	//DetailView Actions
 	'SINGLE_PurchaseOrder' => 'Εντολή Αγοράς',
 	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε Pdf',
-    'LBL_SEND_MAIL_PDF' => 'Αποστολή Ηλ.Μηνύματος με Μορφή Pdf',
+    'LBL_SEND_MAIL_PDF' => 'Αποστολή Ηλ. Μηνύματος με Μορφή Pdf',
 
 	//Basic strings
 	'LBL_ADD_RECORD' => 'Προσθήκη Εντολής Αγοράς',
 	'LBL_RECORDS_LIST' => 'Λίστα Εντολών Αγοράς',
 	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης Αποστολής',
-	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφη Διεύθυνσης Πληρωμής',
+	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης Πληρωμής',
 
 	// Blocks
 	'LBL_PO_INFORMATION' => 'Πληροφορίες Εντολής Αγοράς',
@@ -41,7 +41,7 @@ $languageStrings = array(
 
 	//Added for existing Picklist Entries
 
-	'Received Shipment'=>'Παρελήφθει το Απεσταλμένο',
+	'Received Shipment'=>'Παρελήφθη το Απεσταλμένο',
 	
 	//Translation for product not found
 	'LBL_THIS' => 'Αυτό',

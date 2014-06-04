@@ -30,11 +30,11 @@ $languageStrings = array(
 	'LBL_SO_INFORMATION' => 'Πληροφορίες Παραγγελιών Πωλήσεων',
 
 	//Field labels
-	'SalesOrder No'=>'Αρ Παραγγελιών Πωλήσεων',
+	'SalesOrder No'=>'Αρ. Παραγγελιών Πωλήσεων',
 	'Quote Name'=>'Όνομα Προσφοράς',
-	'Customer No' => 'Αρ Πελάτη',
-	'Requisition No'=>'Αρ Εντολής',
-	'Tracking Number'=>'Αρ Παρακολούθησης',
+	'Customer No' => 'Αρ. Πελάτη',
+	'Requisition No'=>'Αρ. Εντολής',
+	'Tracking Number'=>'Αρ. Παρακολούθησης',
 	'Sales Commission' => 'Προμήθεια Πώλησης',
 	'Purchase Order'=>'Εντολή Αγοράς',
 	'Vendor Terms'=>'Όροι Προμηθευτή',

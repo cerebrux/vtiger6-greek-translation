@@ -39,12 +39,12 @@ $languageStrings = array(
 	'LBL_WRITE_YOUR_DESCRIPTION_HERE' => 'Εισαγωγή Περιγραφής',
 	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Αναφοράς υπάρχει ήδη',
 	'LBL_FOLDERS_LIST' => 'Λίστα Φακέλων',
-	'LBL_DENIED_REPORTS' => 'Άρνηθείσες Αναφορές',
+	'LBL_DENIED_REPORTS' => 'Απορριφθέντες Αναφορές',
 	'LBL_NO_OF_RECORDS' => 'Αριθμός Εγγραφών',
 	//ListView Actions
 	'LBL_ADD_RECORD' => 'Προσθήκη Αναφοράς',
 	'LBL_ADD_FOLDER' => 'Προσθήκη Φακέλου',
-	'LBL_REPORT_DELETE_DENIED' => 'Άρνηση άδειας διαγράφής της Αναφοράς',
+	'LBL_REPORT_DELETE_DENIED' => 'Άρνηση δικαιώματος διαγραφής της Αναφοράς',
 
 	//Folder Actions
 	'LBL_FOLDER_NOT_EMPTY' => 'Ο φάκελος δεν είναι κενός',
@@ -120,7 +120,7 @@ $languageStrings = array(
 	'Open Tickets'=>'Ανοιχτά Δελτία Υποστ.',
 	'Tickets related to Products'=>'Δελτίων Υποστ. σχετιζόμενα με Προϊόντα',
 	'Tickets that are Open'=>'Δελτίων Υποστ. που είναι ανοιχτά',
-	'Product Details'=>'Λεπτομέριες Προϊόντων',
+	'Product Details'=>'Λεπτομέρειες Προϊόντων',
 	'Products by Contacts'=>'Προϊόντα ανα Επαφές',
 	'Product Detailed Report'=>'Λεπτομερείς Αναφορά Προϊόντων',
 	'Products related to Contacts'=>'Προϊόντα σχετιζόμενα με Επαφές',

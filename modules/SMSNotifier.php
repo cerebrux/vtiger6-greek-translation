@@ -18,8 +18,8 @@
  *************************************************************************************/
 $languageStrings = array(
 	'LBL_SEND_SMS_TO_SELECTED_NUMBERS' => 'SMS',
-	'LBL_STEP_1'                   => 'Βήμα Πρώτο',
-	'LBL_STEP_2'                   => 'Βήμα Δεύτερο',
+	'LBL_STEP_1'                   => 'Βήμα 1',
+	'LBL_STEP_2'                   => 'Βήμα 2',
 	
 	// Basic Strings
 

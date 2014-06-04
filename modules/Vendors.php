@@ -29,9 +29,9 @@ $languageStrings = array(
 	
 	//Field Labels
 	'Vendor Name' => 'Όνομα Προμηθευτή',
-	'Vendor No' => 'Αρ Προμηθευτή',
+	'Vendor No' => 'Αρ. Προμηθευτή',
 	'Website' => 'Ιστοσελίδα',
-	'GL Account' => 'Λογαριασμός Γεν Λογιστικής',
+	'GL Account' => 'Λογαριασμός Γεν. Λογιστικής',
 	'Phone' => 'Τηλέφωνο',
 	'Email' => 'Email',
 	
