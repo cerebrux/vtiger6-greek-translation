@@ -17,7 +17,7 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_VTIGER_MIGRATION' => 'Καλώς ήρθατε στον Διαχειρηστή μετεγκατάστασης Vtiger',
+	'LBL_VTIGER_MIGRATION' => 'Καλώς ήρθατε στον Διαχειριστή μετεγκατάστασης Vtiger',
 	'LBL_MIGRATION_COMPLETED' => 'Ολοκληρώθηκε η μετεγκατάσταση',
 	'LBL_MIGRATION_WIZARD' => 'Οδηγός μετεγκατάστασης',
 	'LBL_PRIDE_BEING_ASSOCIATED' => 'Είμαστε υπερήφανοι που σχετιζόμαστε με σας.',
