@@ -27,7 +27,7 @@ $languageStrings = array(
 	'LBL_OPPORTUNITY_INFORMATION' => 'Πληροφορίες Ευκαιρίας',
 
 	//Field Labels
-	'Potential No' => 'Νούμερο Ευκαρίας',
+	'Potential No' => 'Νούμερο Ευκαιρίας',
 	'Amount' => 'Πιθανότητα',
 	'Next Step' => 'Επόμενο Στάδιο',
 	'Sales Stage' => 'Στάδιο Πώλησης',
@@ -39,30 +39,30 @@ $languageStrings = array(
 	
 	//Dashboard widgets
 	'Funnel' => 'Πωλήσεις Τύπου ΄΄Χωνί΄΄',
-	'Potentials by Stage' => 'Ευκαρίες ανά Στάδιο',
+	'Potentials by Stage' => 'Ευκαιρίες ανά Στάδιο',
 	'Total Revenue' => 'Έσοδα ανά Πωλητή',
-	'Top Potentials' => 'Κορυφαίες Ευκαρίες',
+	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
 	'Forecast' => 'Πρόγνωση Πωλήσεων',
 
 	//Added for Existing Picklist Strings
 
-	'Prospecting'=>'Prospecting',
-	'Qualification'=>'Qualification',
-	'Needs Analysis'=>'Needs Analysis',
-	'Value Proposition'=>'Value Proposition',
-	'Id. Decision Makers'=>'Identify Decision Makers',
-	'Perception Analysis'=>'Perception Analysis',
-	'Proposal/Price Quote'=>'Proposal/Quotation',
-	'Negotiation/Review'=>'Negotiation/Review',
-	'Closed Won'=>'Closed Won',
-	'Closed Lost'=>'Closed Lost',
+	'Prospecting'=>'Προοπτική',
+	'Qualification'=>'Αξιολόγηση',
+	'Needs Analysis'=>'Απαιτεί Ανάλυση',
+	'Value Proposition'=>'Πρόταση Εκτίμηση',
+	'Id. Decision Makers'=>'Προσδιορισμός Υπευθύνων',
+	'Perception Analysis'=>'Ανάλυση Αντίληψης',
+	'Proposal/Price Quote'=>'Προσφορά/Τιμολόγηση',
+	'Negotiation/Review'=>'Διαπραγμάτευση/Επιθεώρηση',
+	'Closed Won'=>'Έκλεισε Επιτυχώς',
+	'Closed Lost'=>'Έκλεισε Ανεπιτυχώς',
 
-	'--None--'=>'--None--',
-	'Existing Business'=>'Existing Business',
-	'New Business'=>'New Business',
-	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Expected to close on',
+	'--None--'=>'--Κανένα--',
+	'Existing Business'=>'Υφιστάμενη Επιχείρηση',
+	'New Business'=>'Νέα Επιχείρηση',
+	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Αναμένεται να κλείσει στις',
 
 	//widgets headers
-	'LBL_RELATED_CONTACTS' => 'Related Contacts',
-	'LBL_RELATED_PRODUCTS' => 'Related Products',
+	'LBL_RELATED_CONTACTS' => 'Σχετικές Επαφές',
+	'LBL_RELATED_PRODUCTS' => 'Σχετικά Προϊόντα',
 );
