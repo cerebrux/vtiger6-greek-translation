@@ -27,15 +27,15 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => 'Λίστα Τιμολογίων',
 
 	// Blocks
-	'LBL_INVOICE_INFORMATION' => 'Λεπτομέριες Τιμολογίων',
+	'LBL_INVOICE_INFORMATION' => 'Λεπτομέρειες Τιμολογίων',
 
 	//Field labels
 	'Sales Order' => 'Πωλήσεις',
-	'Customer No' => 'Αρ Πελάτη',
+	'Customer No' => 'Αρ. Πελάτη',
 	'Invoice Date' => 'Ημερομηνία Τιμολογίου',
 	'Purchase Order' => 'Εντολή Αγοράς',
 	'Sales Commission' => 'Προμήθεια Πωλήσεων',
-	'Invoice No' => 'Αρ Τιμολογίου',
+	'Invoice No' => 'Αρ. Τιμολογίου',
 	'LBL_RECEIVED' => 'Ελήφθη',
 	'LBL_BALANCE' => 'Υπόλοιπο',
 	//Added for existing Picklist Entries
@@ -47,7 +47,7 @@ $languageStrings = array(
 	'Cancel' => 'Ακύρωση',
 	
 	//Translation for product not found
-	'LBL_THIS' => 'This',
+	'LBL_THIS' => 'Αυτό',
 	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'διεγράφη από το σύστημα. παρακαλούμε να αφαιρέσετε ή να αντικαταστήσετε αυτό το στοιχείο',
 	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο γραμμής έχει διαγραφεί από το σύστημα, παρακαλούμε να καταργήσετε αυτό στοιχεία γραμμής',
 );

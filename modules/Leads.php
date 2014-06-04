@@ -30,8 +30,8 @@ $languageStrings = array(
 	'Lead No' => 'Αριθμός προοπτικής',
 	'Company' => 'Εταιρία',
 	'Designation' => 'Ονομασία προέλευσης ',
-	'Website' => 'Ιστότοπος',
-	'Industry' => 'Βιομηχανιας',
+	'Website' => 'Ιστοσελίδα',
+	'Industry' => 'Βιομηχανία',
 	'Lead Status' => 'Κατάσταση σύστασης',
 	'No Of Employees' => 'Αριθμός υπαλλήλων',
 	'Phone' => 'Τηλέφωνο',
@@ -53,8 +53,8 @@ $languageStrings = array(
 	'Contact in Future'=>'Επικοινωνία στο μέλλον',
 	'Contacted'=>'Έγινε επαφή',
 	'Hot'=>'Καυτό',
-	'Junk Lead'=>'Ανεπιθύμητη σύσταση',
-	'Lost Lead'=>'Χαμένη σύσταση',
+	'Junk Lead'=>'Ανεπιθύμητη Προοπτική',
+	'Lost Lead'=>'Χαμένη Προοπτική',
 	'Not Contacted'=>'Δεν έγινε επαφή',
 	'Pre Qualified'=>'Προεπιλεγμένη',
 	'Qualified'=>'Πιστοποιημένη',
@@ -65,12 +65,12 @@ $languageStrings = array(
 
 	//Convert Lead
 	'LBL_TRANSFER_RELATED_RECORD' => 'Μεταφορά σχετικών εγγραφών σε',
-	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε τους Οργανισμούς ή τις Επαφές για να μετατρέψετε την προοπτικής',
+	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε τους Οργανισμούς ή τις Επαφές για να μετατρέψετε την προοπτική',
 	'LBL_CONVERT_LEAD_ERROR_TITLE' => 'Οι ενότητες δεν είναι ενεργές',
 	'CANNOT_CONVERT' => 'Δεν μπορεί να γίνει η μετατροπή',
 	'LBL_FOLLOWING_ARE_POSSIBLE_REASONS' => 'Πιθανοί λόγοι:',
 	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Η αντιστοίχιση των πεδίων είναι ημιτελής (Ρυθμίσεις > Διαχειριστής ενοτήτων > Προοπτικές > Αντιστοίχιση πεδίων προοπτικών)',
-	'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Υποχρεωτικά πεδία είναι κενά',
+	'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Τα υποχρεωτικά πεδία είναι κενά',
 	'LBL_LEADS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων προοπτικών',
 
 	//Leads Custom Field Mapping
