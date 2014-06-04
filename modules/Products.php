@@ -24,8 +24,8 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => 'Λίστα Προϊόντων',
 
 	// Blocks
-	'LBL_PRODUCT_INFORMATION' => 'Πληροφορίες ΠροΪόντος',
-	'LBL_IMAGE_INFORMATION' => 'Εικόνα Προϊόντος',
+	'LBL_PRODUCT_INFORMATION' => 'Πληροφορίες Προϊόντος',
+	'LBL_IMAGE_INFORMATION' => 'Φωτογραφία Προϊόντος',
 	'LBL_STOCK_INFORMATION' => 'Πληροφορίες Αποθέματος',
 	
 	'LBL_MORE_CURRENCIES' => 'Περισσότερες Ισοτιμίες', 
@@ -33,19 +33,19 @@ $languageStrings = array(
 	'LBL_PRICE' => 'Τιμή',
 	'LBL_RESET_PRICE' => 'Επαναφορά Τιμής',
 	'LBL_RESET' => 'Επαναφορά',
-	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στόν Τιμοκατάλογο',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στον Τιμοκατάλογο',
 
 	//Field Labels
-	'Product No' => 'Αρ.Προϊόντος',
+	'Product No' => 'Αρ. Προϊόντος',
 	'Part Number' => 'Κωδικός Παρτίδας',
 	'Product Active' => 'Ενεργό Προϊόν',
 	'Manufacturer' => 'Κατασκευαστής',
 	'Product Category' => 'Κατηγορία Προϊόντος',
 	'Website' => 'Ιστοσελίδα',
-	'Mfr PartNo' => 'Mfr ΑρΠαρτ',
-	'Vendor PartNo' => 'Αρ.Προμηθεύτη',
+	'Mfr PartNo' => 'Αρ. Κατασκευαστή Παρτίδας',
+	'Vendor PartNo' => 'Αρ. Προμηθευτή',
 	'Usage Unit'=>'Μονάδα Μέτρησης',
-	'Handler'=>'Χειριστής',
+	'Handler'=>'Αρ. Πωλητή',
 	'Reorder Level'=>'Επίπεδο καταγραφής',
 	'Tax Class'=>'Φορολογική Κλίμακα',
 	'Reorder Level'=>'Επίπεδο Ανακατάταξης',
@@ -95,7 +95,7 @@ $languageStrings = array(
 	'Spiral Binder'=>'Σπιράλ',
 	'Sq Ft'=>'Τ.Μ',
 	
-	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στούς Τιμοκαταλόγους',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στους Τιμοκαταλόγους',
 	'LBL_CONVERSION_RATE' => 'Ποσοστό Μετατροπής',
 	'LBL_NOT_A_BUNDLE' => 'Δεν είναι Δεσμίδα',
 );
