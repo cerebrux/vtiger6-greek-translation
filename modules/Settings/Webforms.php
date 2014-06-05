@@ -38,7 +38,7 @@ $languageStrings = array(
 	'LBL_OVERRIDE_VALUE' => 'Αντικατάσταση Τιμής',
 	'LBL_MANDATORY' => 'Υποχρεωτικό',
 	'LBL_WEBFORM_REFERENCE_FIELD' => 'Πεδίο αναφοράς Δικτυακής Φόρμας',
-	'LBL_SELECT_FIELDS_OF_TARGET_MODULE' => 'Επιλέξτε Πεδία για το Άρθρομα προορισμού...',
+	'LBL_SELECT_FIELDS_OF_TARGET_MODULE' => 'Επιλέξτε Πεδία για το Άρθρωμα προορισμού...',
 	'LBL_ALLOWS_YOU_TO_MANAGE_WEBFORMS' => 'Σας επιτρέπει να διαχειρίζεστε τις Δικτυακές Φόρμες',
 	'LBL_ADD_FIELDS' => 'Προσθήκη πεδίων',
 	'LBL_EMBED_THE_FOLLOWING_FORM_IN_YOUR_WEBSITE' => 'Ενσωματώστε την παρακάτω φόρμα στην ιστοσελίδα σας',
@@ -46,7 +46,7 @@ $languageStrings = array(
 	'LBL_LABEL' => 'ετικέτα',
 );
 $jsLanguageStrings = array(
-	'JS_WEBFORM_DELETED_SUCCESSFULLY' => 'Η Δικτυακή Φόρμα διαγράφτικε επιτυχώς',
+	'JS_WEBFORM_DELETED_SUCCESSFULLY' => 'Η Δικτυακή Φόρμα διαγράφτηκε επιτυχώς',
 	'JS_LOADING_TARGET_MODULE_FIELDS' => 'Φόρτωση Πεδίων του Αρθρώματος',
 	'JS_SELECT_AN_OPTION' => 'Επιλέξτε μια επιλογή',
 	'JS_LABEL' => 'ετικέτα',

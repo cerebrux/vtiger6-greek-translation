@@ -29,7 +29,7 @@ $PHPMAILER_LANG["mailer_not_supported"] = ' Η υπηρεσία mailer δεν υ
 $PHPMAILER_LANG["execute"] = 'Αδυναμία εκτέλεσης: ';
 $PHPMAILER_LANG["instantiate"] = 'Αδυναμία δημιουργίας υπηρεσίας mail.';
 $PHPMAILER_LANG["authenticate"] = 'Σφάλμα SMTP: Αδυναμία πιστοποίησης.';
-$PHPMAILER_LANG["from_failed"] = 'Το παρακάτω "Απο" διέυθηνση απάτυχε: ';
+$PHPMAILER_LANG["from_failed"] = 'Το παρακάτω "Από" διέυθηνση απάτυχε: ';
 $PHPMAILER_LANG["recipients_failed"] = 'Σφάλμα SMTP: Ο παρακάτω ' .
                                        'παραλήπτης απέτυχε: ';
 $PHPMAILER_LANG["data_not_accepted"] = 'Σφάλμα SMTP: Δεδομένα μη αποδεκτά.';

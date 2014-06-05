@@ -29,7 +29,7 @@ $languageStrings = array(
 	'LBL_USER_ADV_OPTIONS' => 'Προχωρημένες Ρυθμίσεις Χρήστη',
 	'Asterisk Configuration'  =>  'Διαμόρφωση Αστερίσκου',
 	'LBL_HOME_PAGE_COMPONENTS' => 'Στοιχεία Αρχικής Σελίδας',
-	'LBL_TAG_CLOUD_DISPLAY' => 'Εμφάνιση Tag Cloud', // Tag Cloud - Συννεφάκι με λέξεις κλειδιά
+	'LBL_TAG_CLOUD_DISPLAY' => 'Εμφάνιση Ετικετοσύννεφο', // Tag Cloud - Συννεφάκι με λέξεις κλειδιά
 
 	//MyPreference Fields
 	'Role' => 'Ρόλος',
@@ -45,7 +45,7 @@ $languageStrings = array(
 	'Home Phone' => 'Τηλ.Οικίας',
 	'User Image' => 'Μεταφόρτωση Φωτογραφίας',
 	'Date Format' => 'Μορφη Ημερομηνίας',
-	'Tag Cloud' => 'Tag Cloud', // Tag Cloud - Συνεφάκι με λέξεις κλειδιά
+	'Tag Cloud' => 'Ετικετοσύννεφο', // Tag Cloud - Συνεφάκι με λέξεις κλειδιά
 	'Signature' => 'Υπογραφή',
 	'Street Address' => 'Διεύθυνση',
 	'Password' => 'Κωδικός',

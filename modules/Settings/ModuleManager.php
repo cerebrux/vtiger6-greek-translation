@@ -45,14 +45,14 @@ $languageStrings = array(
 	'LBL_PROCEED_WITH_IMPORT' => 'Θέλετε να συνεχίσετε με την εισαγωγή?',
 	'LBL_VERSION_NOT_SUPPORTED' => 'Η έκδοση του Αρθρώματος δεν είναι συμβατή με την έκδοση του Vtiger',
 	'LBL_FINISH' => 'Τέλος',
-	'LBL_IMPORT_ZIP' => 'Εγκατάσταση απο αρχείο',
+	'LBL_IMPORT_ZIP' => 'Εγκατάσταση από αρχείο',
 	'LBL_IMPORT_MODULE' => 'Εγκατάσταση απο Vtiger',
 	'LBL_NOT_FOUND' => "Συγνώμη, καμία επέκταση δεν είναι διαθέσιμη για την έκδοση του CRM που διαθέτετε",
 	'LBL_INVALID_IMPORT_TRY_AGAIN' => ' παρέχεται απο την εισαγωγή του αρθρώματος! Δοκιμάστε Ξανά.',
-	'LBL_IMPORTED_MODULE' => ' το άρθρωμα εισήχθει επιτυχώς.',
+	'LBL_IMPORTED_MODULE' => ' το άρθρωμα εισήχθη επιτυχώς.',
 	'LBL__IMPORTING_MODULE' => 'Εισαγωγή Αρθρώματος',
 	
-	'LBL_UPDATE_MODULE_FROM_FILE' => 'Ενημέρωση Αρθρώματος απο το Αρχείο',
+	'LBL_UPDATE_MODULE_FROM_FILE' => 'Ενημέρωση Αρθρώματος από το Αρχείο',
 	'LBL_UPDATED_MODULE' => ' το άρθρωμα ενημερώθηκε επιτυχώς.',
 	'LBL__UPDATING_MODULE' => 'Ενημέρωση Αρθρώματος',
 	

@@ -47,7 +47,7 @@ $languageStrings = array(
 	'LBL_CHOOSE_PROFILES' => 'Επιλογή προφίλ',
     
     'LBL_VIEW_ALL' => 'Προβολή όλων',
-    'LBL_EDIT_ALL' => 'Επεξεργασίων όλων',
+    'LBL_EDIT_ALL' => 'Επεξεργασία όλων',
     'LBL_VIEW_ALL_DESC' => 'Προβολή όλων των ενοτήτων',
     'LBL_EDIT_ALL_DESC' => 'Επεξεργασία όλων των ενοτήτων',
     'LBL_DUPLICATES_EXIST' => 'Υπάρχει ήδη προφίλ με το όνομα αυτό',

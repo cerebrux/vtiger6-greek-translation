@@ -21,18 +21,18 @@ $languageStrings = array(
         'LBL_NEW'                      => 'Νέα', // TODO: Review
 	'LBL_WORKFLOW'                 => 'Ροές Ενεργειών', // TODO: Review
 	'LBL_CREATING_WORKFLOW'        => 'Δημιουργία Ροών Ενεργειών', // TODO: Review
-	'LBL_NEXT'                     => 'Επομενο', // TODO: Review
+	'LBL_NEXT'                     => 'Επόμενο', // TODO: Review
 	
 	//Edit view
 	'LBL_STEP_1' => 'Βήμα 1', // TODO: Review
 	'LBL_ENTER_BASIC_DETAILS_OF_THE_WORKFLOW' => 'Εισάγετε βασικά στοιχεία της ροής εργασίας', // TODO: Review
-	'LBL_SPECIFY_WHEN_TO_EXECUTE'  => 'Καθορίστε πότε να εκτελέστει αυτή η ροή ενεργειών', // TODO: Review
+	'LBL_SPECIFY_WHEN_TO_EXECUTE'  => 'Καθορίστε πότε να εκτελεστεί αυτή η ροή ενεργειών', // TODO: Review
 	'ON_FIRST_SAVE'                => 'Μόνο Κατά την Πρώτη Αποθήκευση', // TODO: Review
 	'ONCE'                         => 'Μέχρι την πρώτη φορά που η συνθήκη θα είναι αληθής', // TODO: Review
 	'ON_EVERY_SAVE'                => 'Κάθε φορά που η εγγραφή αποθηκεύεται', // TODO: Review
-	'ON_MODIFY'                    => 'Κάθε φορά που η εγγραφή τροποποιήται', // TODO: Review
+	'ON_MODIFY'                    => 'Κάθε φορά που η εγγραφή τροποποιείται', // TODO: Review
 	'MANUAL'                       => 'Σύστημα', // TODO: Review
-	'SCHEDULE_WORKFLOW'            => 'Πρόγραμματισμένη Ροή Ενεργειών', // TODO: Review
+	'SCHEDULE_WORKFLOW'            => 'Προγραμματισμένη Ροή Ενεργειών', // TODO: Review
 	'ADD_CONDITIONS'               => 'Προσθήκη Προϋποθέσεις', // TODO: Review
 	'ADD_TASKS'                    => 'Προσθήκη Εργασίες', // TODO: Review
 
