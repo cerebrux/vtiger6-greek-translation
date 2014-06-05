@@ -34,7 +34,7 @@ $languageStrings = array(
 	'LBL_BACK' => 'Πίσω',
 	'LBL_IMPORT' => 'Εισαγωγή',
 	'LBL_EXPORT' => 'Εξαγωγή',
-	'LBL_FIND_DUPLICATES' => 'Βρείτε αντίγραφα',
+	'LBL_FIND_DUPLICATES' => 'Βρείτε διπλότυπα',
 	'LBL_MORE' => 'Περισσότερα',
 	'LBL_ACTIONS' => 'Ενέργειες',
     'LBL_ADD' => 'Προσθέστε',
@@ -56,19 +56,19 @@ $languageStrings = array(
 	'LBL_CLEAR' => 'Καθαρισμός',
 	'LBL_YES' => 'Ναι',
 	'LBL_NO' => 'Όχι',
-	'LBL_SHOW_COMPLETE_DETAILS' => 'Πλήρες Λεπτομέρειες',
+	'LBL_SHOW_COMPLETE_DETAILS' => 'Πλήρης Λεπτομέρειες',
     'LBL_MASS_EDITING' => 'Μαζική Επεξεργασία',
 	'LBL_DESELECT_ALL_RECORDS' => 'Διαγράψτε όλες τις καταγραφές',
 	'LBL_QUICK_CREATE' => 'Γρήγορη δημιουργία',
 	'LBL_SEND_EMAIL' => 'Αποστολή Email',
 	//SEND EMAIL translations
-	'LBL_ALL_EMAILS' => 'Ολόι οι λογαριασμοί Ηλεκτρονικού Ταχυδρομείου',
-	'LBL_MUTIPLE_EMAIL_SELECT_ONE' => 'Παρακαλώ Επιλέξτε μία από τις παρακάτω επιλογές',
+	'LBL_ALL_EMAILS' => 'Όλοι οι λογαριασμοί Ηλ. Ταχυδρομείου',
+	'LBL_MUTIPLE_EMAIL_SELECT_ONE' => 'Παρακαλώ επιλέξτε μία από τις παρακάτω επιλογές',
 	//SEND EMAIL translations
-	'LBL_GO_TO_FULL_FORM' => 'Πηγαίνετε στην πλήρης φόρμα',
-	'LBL_SEND_SMS' => 'Αποστολη SMS',
+	'LBL_GO_TO_FULL_FORM' => 'Μετάβαση σε πλήρης φόρμα',
+	'LBL_SEND_SMS' => 'Αποστολή SMS',
 	'LBL_FOUND' => 'Βρέθηκε',
-	'LBL_CLICK_ADD' => 'Κλικ Προσθήκη',
+	'LBL_CLICK_ADD' => 'Προσθήκη',
 	'LBL_ADD_MORE_FIELDS' => 'Προσθέστε περισσότερα πεδία',
 	'LBL_ADD_NOTE' => 'Προσθέστε Αρχείο',
 	'LBL_CREATE_NEW' => 'Δημιουργία Νέου',
@@ -123,7 +123,7 @@ $languageStrings = array(
 	// Detail View
 	'LBL_UPDATES' => 'Ενημερώσεις',
 	'LBL_SHOW_FULL_DETAILS' => 'Πλήρες Λεπτομέρειες',
-	'LBL_SUMMARY_DETAILS' => 'Περιληπτικα Στοιχεία',
+	'LBL_SUMMARY_DETAILS' => 'Περιληπτικά Στοιχεία',
 	'LBL_ADD_NEW_COMMENT' =>'Προσθήκη Νέου Σχόλιου',
 	'LBL_NO_UPDATES' => 'Καμμία Ενημέρωση',
 	'LBL_ACTIVITIES' => 'Δραστηριότητες',
@@ -137,8 +137,8 @@ $languageStrings = array(
 	'LBL_TYPE_SEARCH' => 'Πληκτρολογήστε για Αναζήτηση',
 	'LBL_SEARCH_BUTTON' => 'Κουμπί Αναζήτησης',
 	'LBL_ADVANCE_SEARCH' => 'Σύνθετη',
-	'LBL_LOADING_PLEASE_WAIT' => 'Φορτώνει...Παρακαλώ Περιμένετε',
-	'LBL_PLEASE_SELECT_MODULE' => 'Παρακαλώ Επιλέξτε ένα άρθρωμα',
+	'LBL_LOADING_PLEASE_WAIT' => 'Φορτώνει...Παρακαλώ περιμένετε',
+	'LBL_PLEASE_SELECT_MODULE' => 'Παρακαλώ επιλέξτε ένα άρθρωμα',
 
 	//DropDown Category
 	'LBL_USERS' => 'Χρήστες',
@@ -184,7 +184,7 @@ $languageStrings = array(
 
 
 	//Basic String Translation
-	'LBL_ADD_RECORD' => 'Προσθήκη Καταγραφής',
+	'LBL_ADD_RECORD' => 'Προσθήκη Εγγραφής',
 	'LBL_RECENTLY_MODIFIED' => 'Τελευταία Τροποποίηση',
 	'LBL_RECORDS_LIST' => 'Λίστα Καταγραφών',
 	'LBL_RECORD_SUMMARY' => 'Σύνοψη Αρθρώματος',
@@ -196,7 +196,7 @@ $languageStrings = array(
 	// Global Search
 	'LBL_GLOBAL_SEARCH' => 'Πληκτρολογήστε μία Λέξη κλειδί και πατήστε enter',
 	'LBL_ALL_RECORDS' => 'Όλες οι Καταγραφές',
-	'LBL_NO_RECORDS_FOUND' => 'Δέν Βρέθηκε καμμία Καταγραφή',
+	'LBL_NO_RECORDS_FOUND' => 'Δεν Βρέθηκε καμμία Καταγραφή',
 
 	//Filters & Advance Filter
 	'LBL_AND' => 'και',
@@ -209,7 +209,7 @@ $languageStrings = array(
 	'LBL_STARTS_WITH' => 'Ξεκινάει με',
 	'LBL_ENDS_WITH' => 'Τελειώνει με',
 	'LBL_CONTAINS' => 'Περιέχει',
-	'LBL_DOES_NOT_CONTAIN' => 'Δέν περιέχει',
+	'LBL_DOES_NOT_CONTAIN' => 'Δεν περιέχει',
 	'LBL_LESS_THAN' => 'Λιγότερο Από',
 	'LBL_GREATER_THAN' => 'Περισσότερο Από',
 	'LBL_LESS_THAN_OR_EQUAL' => 'Λιγότερο ή Ίσο',
@@ -246,7 +246,7 @@ $languageStrings = array(
 	//Line Items
 	'LBL_ITEM_DETAILS'=> 'Λεπτομέρεις Αντικειμένου',
 	'LBL_CURRENCY' => 'Ισοτιμία',
-	'LBL_TAX_MODE' => 'Tax Mode',
+	'LBL_TAX_MODE' => 'ΦΠΑ',
 	'LBL_INDIVIDUAL' => 'Κλίμακα Φορολογίας',
 	'LBL_GROUP' => 'Ομάδα',
 	'LBL_TOOLS' => 'Εργαλεία',
@@ -303,11 +303,11 @@ $languageStrings = array(
 	'LBL_FROM' => 'Από',
 	'LBL_TO' => 'Πρός',
 	'LBL_to' => 'Πρός',
-	'LBL_ON' => 'on',
-	'LBL_OF' => 'από',
-	'LBL_BY' => 'by',
+	'LBL_ON' => 'στις',
+	'LBL_OF' => 'του',
+	'LBL_BY' => 'απο',
 	'LBL_ADDED' => 'Προστέθηκε',
-	'LBL_FOR' => 'for',
+	'LBL_FOR' => 'για',
 	'LBL_CREATED' => 'Δημιουργήθηκε',
 	'LBL_DELETED' => 'Διαγράφτηκε',
 	'LBL_RESTORED' => 'Επαναφέρθηκε',
@@ -331,7 +331,7 @@ $languageStrings = array(
 	'LBL_SECOND' => 'Δευτερόλεπτο',
 	'LBL_SECONDS' => 'Δευτερόλεπτα',
 	'LBL_JUSTNOW' => 'Μόλις Τώρα',
-	'LBL_CUSTOM_INFORMATION' => 'Custom Information',
+	'LBL_CUSTOM_INFORMATION' => 'Γενική Πληροφορία',
 	'LBL_NO_RECENT_UPDATES' => 'Καμμία Πρόσφατη Ενημέρωση',
 	'LBL_NO_DATA' => 'Κανένα Δεδομένο',
 	'LBL_PERMISSION_DENIED' => 'Άρνηση Έγκρισης',
@@ -342,7 +342,7 @@ $languageStrings = array(
 	'LBL_COMPLETED' => 'Ολοκληρώθηκαν',
 	'LBL_AGO' => 'Πρίν Από',
 	'LBL_CHANGED' => 'Αλλάχθηκαν',
-	'Single_Users' => 'Χρληστης',
+	'Single_Users' => 'Χρήστης',
 	'LBL_MATCHED_THIS_CRITERIA'=> 'Ταιριάζουν με τα Κριτήρια',
 	'LBL_NO_SCHEDULED_ACTIVITIES' => 'Καμμία Προγραμματισμένη Δραστηριότητα',
 	'LBL_NO_OVERDUE_ACTIVITIES' => 'Καμμία Εκπρόθεσμη Δραστηριότητα',
@@ -354,7 +354,7 @@ $languageStrings = array(
 	'LBL_LAST_SAVED_ON' => 'Τελευταία Αποθήκευση στο',
 	'Mini List' => 'Mini Λίστα',
 	'Notebook' => 'Σημειωματάριο',
-	'LBL_RESULT_FOR_THE_TAG' => 'Αποτέλεσμα για τήν Ετικέτα',
+	'LBL_RESULT_FOR_THE_TAG' => 'Αποτέλεσμα για την Ετικέτα',
 
 	// Basic Strings- custom view
 	'LBL_VIEW_NAME' => 'Δείτε το Όνομα',
@@ -375,7 +375,7 @@ $languageStrings = array(
 
 
 	//DateFilter Conditions
-	'LBL_CUSTOM' => 'Custom',
+	'LBL_CUSTOM' => 'Προσαρμοσμένο',
 	'LBL_PREVIOUS_FY' => 'Προηγούμενο FY',
 	'LBL_CURRENT_FY' => 'Τρέχων FY',
 	'LBL_NEXT_FY' => 'Επόμενο FY',
@@ -404,7 +404,7 @@ $languageStrings = array(
 	//advanced Filter Options
 	'LBL_NONE' => 'Κανένα',
 	'LBL_EQUALS' => ';ίσος',
-	'LBL_NOT_EQUAL_TO' => 'Δέν είναι ίσο με',
+	'LBL_NOT_EQUAL_TO' => 'Δεν είναι ίσο με',
 	'LBL_STARTS_WITH' => 'Ξεκινάει με',
 	'LBL_ENDS_WITH' => 'Τελειώνει με',
 	'LBL_CONTAINS' => 'Περιέχει',
@@ -420,8 +420,8 @@ $languageStrings = array(
 
 	//Detail view summary widgets
 	'LBL_OWNER' => 'Ιδιοκτήτης',
-	'LBL_CREATED_ON' => 'Δημιουργήθηκε στίς',
-	'LBL_MODIFIED_ON' => 'Τροποποιήθηκε στίς',
+	'LBL_CREATED_ON' => 'Δημιουργήθηκε στις',
+	'LBL_MODIFIED_ON' => 'Τροποποιήθηκε στις',
 	'LBL_MODIFIED' => 'Τροποποιήθηκε',
 	'LBL_COMMENTED' => 'Σχολιάστηκε',
 
@@ -433,45 +433,46 @@ $languageStrings = array(
 	'Upcoming Activities' => 'Προσεχής Δραστηριότητες',
 	'Overdue Activities' => 'Εκπρόθεσμες Δραστηριότητες',
 	'Funnel' => 'Χωνί',
-	'Potentials by Stage' => 'Ευκαρίες Ανά Επίπεδο',
-	'Pipelined Amount' => 'Sales Pipeline',
+	'Potentials by Stage' => 'Ευκαιρίες Ανά Επίπεδο',
+	'Pipelined Amount' => 'Pipeline Πωλήσεων',
 	'Total Revenue' => 'Συνολικά Έσοδα',
 	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
 	'Forecast' => 'Πρόγνωση',
-	'Leads Created' => 'Leads Created',
+	'Leads Created' => 'Εγγεγραμμένες Προοπτικές',
 	'Leads by Status' => 'Συστάσεις ανά Κατάσταση',
 	'Leads by Source' => 'Πηγές Συστάσεων',
 	'Leads by Industry' => 'Συστάσεις ανά Κλάδο',
-	'Tickets by Status' => 'Tickets by Status',
-	'Open Tickets' => 'Open Tickets',
-	'Funnel Amount' => 'Συνολικό Ποσό ανα Επίπεδο Πωλήσεων',
+	'Tickets by Status' => 'Δελτία ανά Κατάσταση',
+	'Open Tickets' => 'Άνοιγμα Δελτίου',
+	'Funnel Amount' => 'Συνολικό Ποσό ανά Επίπεδο Πωλήσεων',
 
 	//Exports strings
-	'LBL_EXPORT_ALL_DATA' => 'Εξαγωγή Όλων τών Δεδομένων',
+	'LBL_EXPORT_ALL_DATA' => 'Εξαγωγή Όλων των Δεδομένων',
 	'LBL_EXPORT_DATA_IN_CURRENT_PAGE' => 'Εξαγωγή Δεδομένων σε Αυτή την Σελίδα',
-	'LBL_EXPORT_SELECTED_RECORDS' => 'Εξαγωγή των Επιλεγμένων Καταγραφών',
-	'LBL_EXPORT_RECORDS' => 'Εξαγωγή Καταγραφών',
-	'LBL_NO_RECORD_SELECTED' => 'Καμμία Καταγραφή Δέν έχει Επιλεχθεί',
-	'LBL_CAN_NOT_REMOVE_DEFAULT_WIDGET' => 'Cannot remove default widget',
-	'LBL_CUSTOM_VIEW_NAME_DUPLICATES_EXIST' => 'Αυτό το Φίλτρο Υπάρχει Ήδη',
+	'LBL_EXPORT_SELECTED_RECORDS' => 'Εξαγωγή των Επιλεγμένων εγγραφών',
+	'LBL_EXPORT_RECORDS' => 'Εξαγωγή εγγραφών',
+	'LBL_NO_RECORD_SELECTED' => 'Καμία εγγραφή δεν έχει Επιλεχθεί',
+	'LBL_CAN_NOT_REMOVE_DEFAULT_WIDGET' => 'Το προεπιλεγμένο widget δεν αφαιρείται',
+	'LBL_CUSTOM_VIEW_NAME_DUPLICATES_EXIST' => 'Αυτό το φίλτρο υπάρχει ήδη',
 
-	'LBL_ADD_MANAGE_MODULES' => 'Προσθήκη / Διαχείρηση Modules',
+	'LBL_ADD_MANAGE_MODULES' => 'Προσθήκη / Διαχείριση Αρθρωμάτων',
 	'LBL_CUSTOMIZE_MAIN_MENU' => 'Εξατομίκευση του Μενού',
 
 	// Added Common Keys for all modules
-	'Account Name' => 'Ονομά Οργανισμού',
+	'Account Name' => 'Όνομα Οργανισμού',
 	'Add Comment' => 'Προσθήκη Σχόλιου',
 	'Adjustment' => 'Προσαρμογή',
 	'Annual Revenue' => 'Ετήσια Έσοδα',
 	'Apparel'=>'Εμφάνιση',
 	'Banking'=>'Τραπεζικός',
-	'Billing Address' => 'Διεύθυνση Πληρωμής ',
-	'Billing City' => 'Πόλη Πληρωμής',
-	'Billing Code' => 'Ταχ.Κώδικας Πληρωμής',
+	'Billing Address' => 'Διεύθυνση Χρέωσης ',
+	'Billing City' => 'Πόλη Χρέωσης',
+	'Billing Code' => 'Ταχ. Κώδικας Χρέωσης',
 	'Billing Country' => 'Χώρα Πληρωμής',
-	'Billing Po Box' => 'Billing PO Box',
-	'Billing State' => 'Πολιτεία Πληρωμής',
+	'Billing Po Box' => 'Τ.Θ. Χρέωσης',
+	'Billing State' => 'Νομός Χρέωσης',
 	'Biotechnology'=>'Βιοτεχνολογία',
+
 
 	//for SO PO and Quotes
 	'FedEx'=>'FedEx',
@@ -490,12 +491,12 @@ $languageStrings = array(
 	'Employee'=>'Υπάλληλος',
 	'Partner'=>'Συνέταιρος',
 	'Public Relations'=>'Δημόσιες Σχέσεις',
-	'Direct Mail'=>'Απευθείας Μήνυμα Ηλ.Ταχυδρομείου',
+	'Direct Mail'=>'Απευθείας Μήνυμα Ηλ. Ταχυδρομείου',
 	'Conference'=>'Συνεδρίαση',
 	'Trade Show'=>'Εμπορική Επίδειξη',
 	'Web Site'=>'Ιστοσελίδα',
-	'Word of mouth'=>'Απο Στόμα σε Στόμα',
-	'Other'=>'Αλλό',
+	'Word of mouth'=>'Δια Στόματος',
+	'Other'=>'Άλλο',
 
 	//for leads and accounts
 	'--None--'=>'--Κανένα--',
@@ -516,34 +517,34 @@ $languageStrings = array(
 	'Energy'=>'Ενέργεια',
 	'Engineering'=>'Μηχανική',
 	'Entertainment'=>'Διασκέδαση',
-	'Environmental'=>'Περιβαντολογική',
+	'Environmental'=>'Περιβαλλοντολογική',
 	'Finance'=>'Οικονομική',
 	'Food & Beverage'=>'Φαγητό και Αναψυκτικά',
-	'Government'=>'Κυβερνητική',
+	'Government'=>'Κρατική',
 	'Healthcare'=>'Υγεία',
 	'Hospitality'=>'Φιλοξενία',
 	'Insurance'=>'Ασφάλιση',
-	'Machinery'=>'Μηχανήματ',
+	'Machinery'=>'Μηχανήματά',
 	'Manufacturing'=>'Βιομηχανία',
 	'Media'=>'Μ.Μ.Ε',
 	'Not For Profit'=>'Μη Κερδοσκοπική',
 	'Recreation'=>'Μεταποίησης',
 	'Retail'=>'Λιανικής',
-	'Shipping'=>'Ναυτιλιακή',
+	'Shipping'=>'Μεταφορική',
 	'Technology'=>'Τεχνολογίας',
 	'Telecommunications'=>'Επικοινωνιών',
-	'Transportation'=>'Μεταφορών',
+	'Transportation'=>'Ταξιδιωτική',
 	'Utilities'=>'Παροχών',
 
 	'Contact Name' => 'Όνομα Επαφής',
-	'Conversion Rate' => 'Conversion Rate',
+	'Conversion Rate' => 'Ποσοστό μετατροπής',
 
 	'Shipping Address' => 'Διεύθυνση Αποστολής',
 	'Shipping City' => 'Πόλη Αποστολής',
-	'Shipping State' => 'Πολιτεία Αποστολής',
-	'Shipping Code' => 'Κωιδικός Αποστολής',
+	'Shipping State' => 'Νομός Αποστολής',
+	'Shipping Code' => 'Κωδικός Αποστολής',
 	'Shipping Country' => 'Χώρα Αποστολής',
-	'Shipping Po Box' => 'Ταχυδρομικός Κωδικας',
+	'Shipping Po Box' => 'Τ.Κ.',
 	'Country' => 'Χώρα',
 	'Description' => 'Περιγραφή',
 
@@ -555,7 +556,7 @@ $languageStrings = array(
 	'Currency' => 'Ισοτιμία',
 	'LBL_BASE_CURRENCY' => 'Βασική Ισοτιμία',
 
-	'Discount Percent' => 'Ποσοστό Έκπτωσης Επι τής %',
+	'Discount Percent' => 'Ποσοστό Έκπτωσης Επί της %',
 	'Discount Amount' => 'Ποσότητα Έκπτωσης',
 	'Item Discount Amount' => 'Ποσότητα Έκπτωσης Αντικειμένου',
 	'Item Discount Percent' => 'Ποσοστό Έκπτωσης Αντικειμένου',
@@ -564,12 +565,12 @@ $languageStrings = array(
 	'Due Date & Time' => 'Ημερομηνία Προθεσμίας',
 	'Email' => 'Πρωτεύον Email',
 	'Secondary Email' => 'Δευτερεύον Email',
-	'Other Email' => 'Αλλο Email',
-	'Email Opt Out' => 'Email Opt Out',
+	'Other Email' => 'Άλλο Email',
+	'Email Opt Out' => 'Εξαίρεση από Email',
 
 	'Expected Close Date' => 'Αναμενόμενη Ημερομηνία Περάτωσης',
 
-	'Fax' => 'Fax',
+	'Fax' => 'Φαξ',
 
 	'Last Name' => 'Επίθετο',
 	'First Name' => 'Όνομα',
@@ -582,13 +583,13 @@ $languageStrings = array(
 
 	'Subject' => 'Θέμα',
 	'Shipping Address'=>'Διεύθυνση Αποστολής',
-	'Shipping Po Box'=>'Ταχ.Κώδικας',
-	'Shipping City'=>'Πόλη Αποστολης',
+	'Shipping Po Box'=>'Τ.Κ.',
+	'Shipping City'=>'Πόλη Αποστόλης',
 	'Shipping State'=>'Νομός Αποστολής',
 	'Shipping Code'=>'Κωδικός Αποστολής',
 	'Shipping Country'=>'Χώρα Αποστολής',
 	'Terms & Conditions' => 'Όροι Και Προϋποθέσεις',
-	'Item Name' => 'Ονοασία Αντικειμένου',
+	'Item Name' => 'Ονομασία Αντικειμένου',
 	'Quantity' => 'Ποσότητα',
 	'List Price' => 'Λίστα Τιμών',
 	'Item Comment' => 'Σχολιασμός Αντικειμένου',
@@ -599,15 +600,15 @@ $languageStrings = array(
 	'Total' => 'Σύνολο',
 	'Sub Total' => 'Υποσύνολο',
 	'Tax Type' => 'Τύπος Φορολογίας',
-	'S&H Amount' => 'S&H Amount',
+	'S&H Amount' => 'Ποσόστωση ταχυδρόμησης ',
 	'Status' => 'Κατάσταση',
 	'Vendor Name'=>'Όνομα Προμηθευτή',
 
-	'LBL_ADDRESS_INFORMATION' => 'Πληροφοριίες Διεύθυνσης',
+	'LBL_ADDRESS_INFORMATION' => 'Πληροφορίες Διεύθυνσης',
 	'LBL_DESCRIPTION_INFORMATION' => 'Πληροφορίες Περιγραφής',
-	'LBL_TERMS_INFORMATION' => 'Όροι και Προϋποθεσεις',
+	'LBL_TERMS_INFORMATION' => 'Όροι και Προϋποθέσεις',
 	'LBL_PRICING_INFORMATION' => 'Πληροφορίες Τιμής',
-	'LBL_RELATED_PRODUCTS' => 'Σχετικά Προϊοντα',
+	'LBL_RELATED_PRODUCTS' => 'Σχετικά Προϊόντα',
 	'LBL_REMINDER_INFORMATION' => 'Πληροφορίες Υπενθύμισης',
 
 	'LBL_FOLDER_SAVED' => 'Ο Φάκελος Αποθηκεύτηκε',
@@ -617,13 +618,13 @@ $languageStrings = array(
 	'Lead Source' => 'Πηγή Συστάσεων',
 	'Mobile' => 'Κινητό Τηλέφωνο',
 
-	'Notify Owner' => 'Υπενθύμιση Διαχειρηστή',
+	'Notify Owner' => 'Υπενθύμιση Διαχειριστή',
 	'Other Phone' => 'Δευτερεύον Τηλ',
 	'Phone' => 'Πρωτεύον Τηλ',
 
 	'State' =>  'Νομός',
-	'Po Box' => 'Τ.Κ',
-	'Postal Code' => 'Ταχυδρομικός Κώδικας',
+	'Po Box' => 'Τ.Θ.',
+	'Postal Code' => 'Τ.Κ.',
 
 	'Potential Name' => 'Όνομα Ευκαιρίας',
 	'Priority'=>'Προτεραιότητα',
@@ -637,13 +638,14 @@ $languageStrings = array(
 	'Reviewed'=>'Ελέγχθηκε',
 	'Salutation' => 'Προσφώνηση',
 	'Street' => 'Οδός',
-	'Support Start Date' => 'Ημερομηνία Έναρξης Υποστήριξης',
-	'Support Expiry Date' => 'Ημερομηνία Λήξης Υποστήριξης',
-	'Sales Start Date'=>'Ημ.Έναρξης Πώλησης',
+	'Support Start Date' => 'Ημ. Έναρξης Υποστήριξης',
+	'Support Expiry Date' => 'Ημ. Λήξης Υποστήριξης',
+	'Sales Start Date'=>'Ημ. Έναρξης Πώλησης',
 	'Sales End Date'=>'Ημ.Λήξης Πώλησης',
 
+
 	//Dashboard list of widgets translation
-	'Open Tickets' => 'Ανοιχτά Εισητήρια',
+	'Open Tickets' => 'Ανοιχτά Δελτία',
 	'LBL_SELECT_STATUS' => 'Επιλέξτε Κατάσταση',
 	'LBL_BLANK' => '-Κενό-',
 
@@ -682,13 +684,13 @@ $languageStrings = array(
 	//Translations used in inventory modules for address
 	'SINGLE_Accounts' => 'Οργανισμός',
 	'SINGLE_Contacts' => 'Επαφή',
-	'HelpDesk' => 'Tickets',
-	'LBL_TAG_CLOUD' => 'Tag Cloud',
+	'HelpDesk' => 'Αιτήματα',
+	'LBL_TAG_CLOUD' => 'Ετικετοσύννεφο',
 
-	'LBL_NO_RECORDS' => 'Καμμία Καταγραφή',
+	'LBL_NO_RECORDS' => 'Καμία Εγγραφή',
 	'LBL_NO_RELATED' => 'Κανένας Συσχετισμός',
-	'LBL_GLOBAL_SEARCH_MAX_MESSAGE' => 'Only the first 100 results of all modules are shown below. For module specific results, please select respective module and search',
-	'LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE' => 'Only the first 100 results are shown below. Please do Advanced Search if you are not satisfied with the result',
+	'LBL_GLOBAL_SEARCH_MAX_MESSAGE' => 'Μόνο τα 100 πρώτα αποτελέσματα των αρθρωμάτων εμφανίζονται παρακάτω. Για σχετικά με ένα άρθρωμα αποτελέσματα παρακαλώ επιλέξτε το άρθρωμα για αναζήτηση',
+	'LBL_GLOBAL_SEARCH_MAX_MESSAGE_FOR_MODULE' => 'Μόνο τα 100 πρώτα αποτελέσματα εμφανίζονται παρακάτω. Παρακαλώ χρησιμοποιήστε την Προχωρημένη Αναζήτηση αν δεν ικανοποιήστε από το αποτέλεσμα',
 
 	// used in reports detail view
 	'LBL_ACTION' => 'Ενέργεια',
@@ -696,39 +698,38 @@ $languageStrings = array(
 	'LBL_SELECT_OPTION' => 'Επιλέξτε μία Επιλογή',
 
 	//Module Manager
-	'LBL_TOOLTIP' => 'Διαχείρηση Αναδυόμενης Βοήθειας',
-	'LBL_MODULE_SEQUENCE_NUMBERING' => 'Αρίθμηση Συχνότητας Module',
-	'LBL_CUSTOM_FIELD_MAPPING' => 'Εξατομίκευση Χαρτογράγησης Πεδίου',
-	'LBL_WEBFORMS' => 'WebForms',
+	'LBL_TOOLTIP' => 'Διαχείριση Αναδυόμενης Βοήθειας',
+	'LBL_MODULE_SEQUENCE_NUMBERING' => 'Αρίθμηση Σειράς αρθρώματος',
+	'LBL_CUSTOM_FIELD_MAPPING' => 'Εξατομίκευση Διασύνδεση Πεδίου',
+	'LBL_WEBFORMS' => 'Δικτυακή Φόρμα',
 
 	//Compose Email Strings
 	'SINGLE_Emails' => 'Email',
 	'Emails' => 'Ηλεκτρονικά Μηνύματα',
-	'LBL_SELECT_EMAIL_IDS' => 'Επιλογή Ηλ.Διεύθυνσης',
+	'LBL_SELECT_EMAIL_IDS' => 'Επιλογή Ηλ. Διεύθυνσης',
 	'LBL_SUBJECT' => 'Θέμα',
 	'LBL_ATTACHMENT' => 'Επισυναπτόμενο',
-	'LBL_BROWSE_CRM' => 'Browse CRM',
+	'LBL_BROWSE_CRM' => 'Περιήγηση CRM',
 	'LBL_SEND' => 'Αποστολή',
 	'LBL_SAVE_AS_DRAFT' => 'Αποθήκευση ως Πρόχειρο',
 	'LBL_GO_TO_PREVIEW' => 'Προεπισκόπηση',
 	'LBL_SELECT_EMAIL_TEMPLATE' => 'Επιλογή Σχεδίου Email',
-	'LBL_COMPOSE_EMAIL' => 'Σύνταξη Ηλ.Μηνύματος',
+	'LBL_COMPOSE_EMAIL' => 'Σύνταξη Ηλ. Μηνύματος',
  	'LBL_CC' => 'Cc',
    	'LBL_BCC' => 'Bcc',
    	'LBL_ADD_CC' => 'Προσθήκη Cc',
    	'LBL_ADD_BCC' => 'Προσθήκη Bcc',
 	'LBL_MAX_UPLOAD_SIZE' => 'Ανώτατο όριο ',
 	'LBL_EXCEEDED' => 'Υπερβαίνει',
-	'LBL_OPERATION_NOT_PERMITTED' => 'Η ενέργεια Δέν Επιτρέπετε',
+	'LBL_OPERATION_NOT_PERMITTED' => 'Η ενέργεια δεν Επιτρέπετε',
     'LBL_MERGE' => 'Συγχώνευση',
 	'LBL_MERGING_CRITERIA_SELECTION' => 'Επιλογή Κριτηρίων Συγχώνευσης',
 	'LBL_AVAILABLE_FIELDS' => 'Διαθέσιμα Πεδία',
-	'LBL_MERGE_RECORDS_DESCRIPTION' => 'The primary record will be retained after the merge. You can select the column to retain the values.
-										The other record will be deleted but the related information will be merged.',
-	'LBL_MERGE_RECORDS_IN' => 'Συγγχωνευμένες Καταγραφές στίς',
+	'LBL_MERGE_RECORDS_DESCRIPTION' => 'Η κύρια εγγραφή θα διατηρηθεί μετά τη συγχώνευση. Μπορείτε να επιλέξετε τη στήλη για να διατηρήσουν τις τιμές. Η άλλη εγγραφή θα διαγραφεί, αλλά οι σχετικές πληροφορίες θα συγχωνευθούν.',
+	'LBL_MERGE_RECORDS_IN' => 'Συγχωνευμένες Καταγραφές στις',
 	'LBL_FIELDS' => 'Πεδία',
 	'LBL_RECORD' => 'Καταγραφή',
-	'LBL_NO_DUPLICATED_FOUND' => 'Δέν Βρέθηκαν Διπλότυπτα',
+	'LBL_NO_DUPLICATED_FOUND' => 'Δεν βρέθηκαν διπλότυπα',
 	'LBL_MERGE_SELECT' => 'Συγχώνευση Επιλεγμένων',
 
 	//sbproducts translation
@@ -738,17 +739,17 @@ $languageStrings = array(
 	'Valid Date' => 'Έγκυρη Ημερομηνία',
 	'Phone: ' => 'Τηλ: ',
 	'Issued Date' => 'Ημερομηνία Έκδοσης',
-	'Shipping & Handling Charges' => 'Χρεώσεις Αποστολής και Μεταφοράς',
-	'Shipping & Handling Tax:' => 'Φόρος Αποστολής και Μεταφοράς:',
+	'Shipping & Handling Charges' => 'Χρεώσεις Ταχυδρόμησης',
+	'Shipping & Handling Tax:' => 'Φόρος Ταχυδρόμησης:',
 	'Discount'=>'Έκπτωση',
 	'Net Total' => 'Καθαρή Αξία',
-	'Product Code'=>'Κωδ.Προϊόντος',
+	'Product Code'=>'Κωδ. Προϊόντος',
 	'Customer Name'=>'Όνομα Πελάτη',
 	'Price'=>'Τιμή',
 	'Tax:' => 'Φ.Π.Α:',
 	'Contact Name' => 'Όνομα Επικοινωνίας',
 	'Grand Total:' => 'Γενικό Σύνολο:',
-	'Fax: ' => 'Fax: ',
+	'Fax: ' => 'Φαξ: ',
 	'Website: ' => 'Ιστοσελίδα: ',
 	'Tax' => 'Φόρος',
 	'LBL_ALPHABETS' => 'Α,Β,Γ,Δ,Ε,Ζ,Η,Θ,Ι,Κ,Λ,Μ,Ν,Ξ,Ο,Π,Ρ,Σ,Τ,Υ,Φ,Χ,Ψ,Ω,',
@@ -759,19 +760,19 @@ $languageStrings = array(
 	'Sales Order' => 'Διαταγή Πώλησης',
 	'Purchase Order' => 'Διαταγή Αγοράς',
 	'List and Campaigns' => 'Λίστα και Εκστρατείες',
-	'Project Tasks' => 'Εργασίες Project',
-	'Project Milestones' => 'Project Milestones',
+	'Project Tasks' => 'Εργασίες Έργου',
+	'Project Milestones' => 'Ορόσημα Έργου',
 
-	'Labels Editor' => 'Επεξεργαστής Ετικέτων',
-	'LBL_IGNORE_EMPTY_VALUES' =>'Παράβλέψη Κενών Τιμών',
+	'Labels Editor' => 'Επεξεργαστής Ετικετών',
+	'LBL_IGNORE_EMPTY_VALUES' =>'Παράβλεψη Κενών Τιμών',
 
 	//Related tabs of Products
-	'Product Bundles' => 'Product Bundles',
-	'Parent Product' => 'Parent Product',
+	'Product Bundles' => 'Δέμα Προϊόντων',
+	'Parent Product' => 'Γονικό Προϊόν',
 
-	'LBL_MANAGE_USERS' => 'Διαχείρηση Χρηστών',
+	'LBL_MANAGE_USERS' => 'Διαχείριση Χρηστών',
 	'LBL_TRANSFER_OWNERSHIP' => 'Μεταβίβαση Κυριότητας',
-	'LBL_SELECT_RELATED_MODULES' => 'Επιλέξτε Σχετικά Modules',
+	'LBL_SELECT_RELATED_MODULES' => 'Επιλέξτε Σχετικά Αρθρώματα',
 	'LBL_ASSIGNED_TO' => 'Ανατεθειμένα σε/στον',
 
 	//Report Detail View
@@ -784,25 +785,25 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_EMAIL_SERVER_CONFIGURATION' => 'Παρακαλώ Διαμορφώστε τίς Ρυθμίσεις του εξωτερικού server απο την Σελίδα ΡΥΘΜΙΣΕΙΣ',
-	'JS_SMS_SERVER_CONFIGURATION' => 'Παρακαλώ Διαμορφώστε τίς Ρυθμίσεις  τής Ειδοποίησης Μηνυμάτων(sms) απο την Σελίδα ΕΙΔΟΠΟΙΗΣΕΙΣ ΜΗΝΥΜΑΤΩΝ SMS',
+	'JS_EMAIL_SERVER_CONFIGURATION' => 'Παρακαλώ Διαμορφώστε τις Ρυθμίσεις του εξωτερικού server απο την Σελίδα ΡΥΘΜΙΣΕΙΣ',
+	'JS_SMS_SERVER_CONFIGURATION' => 'Παρακαλώ Διαμορφώστε τις Ρυθμίσεις  τής Ειδοποίησης Μηνυμάτων(sms) απο την Σελίδα ΕΙΔΟΠΟΙΗΣΕΙΣ ΜΗΝΥΜΑΤΩΝ SMS',
 	'JS_PLEASE_SELECT_ONE_RECORD' => 'Παρακαλώ Επιλέξτε Τουλάχιστον Μία Εγγραφή',
 
 	//Validation Error Message
-	'JS_PLEASE_ENTER_VALID_EMAIL_ADDRESS' => 'Παρακαλώ Εισάγετε Έναν Έγκυρο Ηλ.Λογαριασμό',
+	'JS_PLEASE_ENTER_VALID_EMAIL_ADDRESS' => 'Παρακαλώ Εισάγετε έναν Έγκυρο Ηλ. Λογαριασμό',
 	'JS_CONTAINS_ILLEGAL_CHARACTERS' => 'Περιέχει Άγνωστους Χαρακτήρες',
 	'JS_PHONE_NUMBER_LENGTH_EXCEEDED' => 'Υπέρβαση Ορίου Αριθμών Του Τηλεφωνικού Αριθμού',
 	'JS_ACCEPT_POSITIVE_NUMBER' => 'Επιτρέπονται Μόνο Θετικές Τιμές',
 	'JS_VALUE_SHOULD_BE_GREATER_THAN_ZERO' => 'Η τιμή Πρέπει να Είναι Μεγαλύτερη Του Μηδενός',
 	'JS_NUMBER_SHOULD_BE_LESS_THAN_32' => 'Ο Αριθμός Πρέπει Να Είναι Μικρότερος του 32',
 	'JS_PLEASE_ENTER_VALID_DATE' => 'Παρακαλώ Εισάγετε Μία Έγκυρη Ημερομηνία',
-	'JS_PLEASE_ENTER_VALID_TIME' => 'Παρακαλώ Εισάγετε Μία Έγκυρη Ωρα',
-	'JS_INVALID_PAGE_NUMBER' => 'Μή Έγκυρος Αρ.Σελίδος',
+	'JS_PLEASE_ENTER_VALID_TIME' => 'Παρακαλώ Εισάγετε Μία Έγκυρη Ώρα',
+	'JS_INVALID_PAGE_NUMBER' => 'Μη Έγκυρος Αρ. Σελίδας',
 
 
 	'INVALID_NUMBER_OF' => 'Μή Έγκυρος Αριθμός από',
 	'INVALID_NUMBER' => 'Μή Έγκυρος Αριθμός',
-	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Είστε Σίγουρος/η οτι Θέλετε Να Διαγράψετε;',
+	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Είστε Σίγουρος/η ότι Θέλετε Να Διαγράψετε;',
 
 	'OVERWRITE_EXISTING_MSG1' => 'Επανεγγραφή της Διευθύνσεως με την Επιλεγμένη; ',
 	'OVERWRITE_EXISTING_MSG2' => 'Στοιχεία Διευθύνσεως;',
@@ -813,13 +814,13 @@ $jsLanguageStrings = array(
 	'LBL_MASS_DELETE_CONFIRMATION' => 'Είστε Σίγουρος/η για την Διαγραφή των Επιλεγμένων Εγγραφών;',
 	'JS_LBL_SAVE' => 'Αποθήκευση',
 	'JS_LBL_CANCEL' => 'Ακύρωση',
-	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Το Όνομα του Όργανισμού Υπάρχει ήδη.Θέλετε να Δημιουργήσετε ένα Αντίγραφο;',
+	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Το Όνομα του Οργανισμού Υπάρχει ήδη.Θέλετε να Δημιουργήσετε ένα Αντίγραφο;',
 
-	'SHOULD_BE_LESS_THAN_TODAY' => 'Πρέπει να Συμβεί Πρίν Απο Το Σήμερα',
+	'SHOULD_BE_LESS_THAN_TODAY' => 'Πρέπει να Συμβεί Πριν Από Το Σήμερα',
 	'JS_PLEASE_SELECT_ATLEAST_ONE_OPTION' => 'Παρακαλώ Επιλέξτε Τουλάχιστον Μία Επιλογή',
-	'JS_SELECT_MODULE' => 'Παρακαλώ Επιλέξτε Module',
-	'JS_PLEASE_SELECT_ATLEAST_ONE_MANDATORY_FIELD' => 'Παρακαλώ Επιλέξτε Τουλάχιστο Ένα Υποχρεωτικό Πεδίο',
-	'JS_SELECT_MODULE' => 'Παρακαλώ Επιλέξτε Ένα Module',
+	'JS_SELECT_MODULE' => 'Παρακαλώ Επιλέξτε Άρθρωμα',
+	'JS_PLEASE_SELECT_ATLEAST_ONE_MANDATORY_FIELD' => 'Παρακαλώ Επιλέξτε Τουλάχιστο ένα Υποχρεωτικό Πεδίο',
+	'JS_SELECT_MODULE' => 'Παρακαλώ Επιλέξτε ένα Άρθρωμα',
 	'JS_PLEASE_ENTER_INTEGER_VALUE' => 'Παρακαλώ Εισάγετε  μια Ακέραιη Τιμή',
 	'JS_PLEASE_ENTER_DECIMAL_VALUE' => 'Παρακαλώ Εισάγετε μια Δεκαδική Τιμή',
 
@@ -827,29 +828,29 @@ $jsLanguageStrings = array(
 	'JS_SHOULD_BE_GREATER_THAN_CURRENT_DATE' => 'Πρέπει να είναι Μακρινότερη από την Σημερινή Ημερομηνία',
 	'JS_SHOULD_BE_GREATER_THAN_OR_EQUAL_TO' => 'Θα Πρέπει να είναι Μεγαλύτερο η Ίσο',
     'JS_SHOULD_BE_LESS_THAN_OR_EQUAL_TO' => 'Θα Πρέπει να είναι Μικρότερο η Ίσο',
-	'JS_PERCENTAGE_VALUE_SHOULD_BE_LESS_THAN_100' => 'Η Επί τίς Εκατό τιμή Θα Πρέπει να είναι Μικρότερη απο 100',
+	'JS_PERCENTAGE_VALUE_SHOULD_BE_LESS_THAN_100' => 'Η Επί τις Εκατό τιμή Θα Πρέπει να είναι Μικρότερη απο 100',
 	'JS_ACCEPT_ONLY_NUMBER' => 'Αποδεκτοί Μόνον Αριθμοί',
 	'JS_THIS_FILE_HAS_ALREADY_BEEN_SELECTED' => 'Αυτός ο Φάκελος έχει ήδη Επιλεχθεί',
-	'JS_MAX_FILE_UPLOAD_EXCEEDS' => 'Υπέρβαση Ορίου Μεγέθους Αρχείου πρός Ανέβασμα',
+	'JS_MAX_FILE_UPLOAD_EXCEEDS' => 'Υπέρβαση Ορίου Μεγέθους Αρχείου προς Ανέβασμα',
 	'JS_THIS_DOCUMENT_HAS_ALREADY_BEEN_SELECTED' => 'Αυτό το Έγγραφο έχει ήδη Επιλεγεί',
-	'JS_SHOULD_BE_GREATER_THAN_OR_EQUAL_TO' => 'Θα Πρέπει να Έινα Μεγαλύτερο η Ίσο με',
+	'JS_SHOULD_BE_GREATER_THAN_OR_EQUAL_TO' => 'Θα πρέπει να είναι Μεγαλύτερο η Ίσο με',
 
 
 	//Roles
-	'JS_FAILED_TO_SAVE' => 'Απέτυχε η Αποθήκευση στόν Server',
+	'JS_FAILED_TO_SAVE' => 'Απέτυχε η Αποθήκευση στον Server',
 
 	//Import Translations
-	'JS_IMPORT_FILE_CAN_NOT_BE_EMPTY' => 'Ο Φάκελος πρός Εισαγωγή Δέν μπορεί να είναι Κενός',
-	'JS_PLEASE_SELECT_ONE_FIELD_FOR_MERGE' => 'Επιλέηξτε Τουλάχιστον Ένα Πεδιό για την Συγχώνευση',
-	'JS_MAP_NAME_CAN_NOT_BE_EMPTY' => 'Ο Χάρτης Δέν Μπορεί Να Έιναι Κενός',
+	'JS_IMPORT_FILE_CAN_NOT_BE_EMPTY' => 'Ο Φάκελος προς Εισαγωγή δεν μπορεί να είναι Κενός',
+	'JS_PLEASE_SELECT_ONE_FIELD_FOR_MERGE' => 'Επιλέξτε τουλάχιστον ένα πεδίο για την Συγχώνευση',
+	'JS_MAP_NAME_CAN_NOT_BE_EMPTY' => 'Ο Χάρτης δεν Μπορεί να είναι Κενός',
 	'JS_MAP_NAME_ALREADY_EXISTS' => 'Το Όνομα του Χάρτη Υπάρχει ήδη',
-	'JS_SELECT_FILE_EXTENSION' => 'Παρακαλώ επιλέξτε ένα αρχείο με τήν παρακάτω επέκταση',
-	'JS_UPLOADED_FILE_SIZE_SHOULD_BE_LESS_THAN' => 'Το Μέγεθος του Αρχείου πρός Ανέβασμα Πρέπει να είναι Μικρότερο απο',
+	'JS_SELECT_FILE_EXTENSION' => 'Παρακαλώ επιλέξτε ένα αρχείο με την παρακάτω επέκταση',
+	'JS_UPLOADED_FILE_SIZE_SHOULD_BE_LESS_THAN' => 'Το Μέγεθος του Αρχείου προς Ανέβασμα Πρέπει να είναι Μικρότερο από',
 	'JS_UPLOADED_FILE_SIZE_EXCEEDS' => 'Το Ανεβασμένο Αρχείο Υπάρχει ήδη',
-	'JS_PLEASE_SPLIT_FILE_AND_IMPORT_AGAIN' => 'Παρακαλω Χωρίστε το Αρχείο σε Μικρότερα Κομμάτια και Εισάγετε Ξανά',
-	'JS_FIELD_MAPPED_MORE_THAN_ONCE' => 'Το Πεδίο Χαρτογραφήθηκε Παραπάνω απο Μία Φορά',
+	'JS_PLEASE_SPLIT_FILE_AND_IMPORT_AGAIN' => 'Παρακαλώ Χωρίστε το Αρχείο σε Μικρότερα Κομμάτια και Εισάγετε Ξανά',
+	'JS_FIELD_MAPPED_MORE_THAN_ONCE' => 'Το Πεδίο Χαρτογραφήθηκε Παραπάνω από Μία Φορά',
 	'JS_MAP_MANDATORY_FIELDS' => 'Παρακαλώ Χαρτογραφήστε τα Απαραίτητα Πεδία',
-	'JS_PLEASE_ENTER_SOME_VALUE' => 'Παρακαλω Εισάγετε Μία Τιμή Πρός Αναζήτηση',
+	'JS_PLEASE_ENTER_SOME_VALUE' => 'Παρακαλώ Εισάγετε Μία Τιμή Προς Αναζήτηση',
 
 	//Select2 elements validation message
 	'JS_YOU_CAN_SELECT_ONLY'=> 'Μπορείτε να Επιλέξετε Μόνο',
@@ -863,40 +864,40 @@ $jsLanguageStrings = array(
 	'JS_IS_ENABLED' => 'Είναι Ενεργό',
 	'JS_IS_DISABLED' => 'Είναι Ανενεργό',
 
-	'JS_PLEASE_ENTER_SOME_TEXT_FOR_COMMENT' => 'Παρακαλω Γράψτε Κάποιο Κείμενο για Σχολιασμό',
-	'JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY' => 'Η Τιμή Του Σχολιασμού Δέν Μπορεί να Είναι Κενή',
+	'JS_PLEASE_ENTER_SOME_TEXT_FOR_COMMENT' => 'Παρακαλώ Γράψτε Κάποιο Κείμενο για Σχολιασμό',
+	'JS_LBL_COMMENT_VALUE_CANT_BE_EMPTY' => 'Η Τιμή Του Σχολιασμού δεν Μπορεί να Είναι Κενή',
 	'JS_REQUIRED_FIELD' => '* Αυτό το Πεδίο είναι Απαραίτητο',
-	'JS_CAN_NOT_REMOVE_DEFAULT_WIDGET' => 'Δέν Μπορείτε να Αφαιρέσετε το Προεπιλεγμένο Widget',
-	'JS_SHOULD_BE_LESS_THAN_CURRENT_DATE' => 'Πρέπει να είναι Μικρότερη απο τήν Τρέχων Ημερομηνία',
-	'JS_NO_CREATE_OR_NOT_QUICK_CREATE_ENABLED' => 'No create permissions or not enabled for quick create',
+	'JS_CAN_NOT_REMOVE_DEFAULT_WIDGET' => 'Δεν Μπορείτε να αφαιρέσετε το προεπιλεγμένο Widget',
+	'JS_SHOULD_BE_LESS_THAN_CURRENT_DATE' => 'Πρέπει να είναι Μικρότερη από την Τρέχων Ημερομηνία',
+	'JS_NO_CREATE_OR_NOT_QUICK_CREATE_ENABLED' => 'Άρνηση δικαιώματος δημιουργίας ή ανενεργή δυνατότητα γρήγορης δημιουργίας',
 
 	//Image Action
 	'LBL_IMAGE_DELETED_SUCCESSFULLY' => 'Η Εικόνα Διαγράφηκε Επιτυχώς',
-	'LBL_IMAGE_NOT_DELETED' => 'Η Εικόνα Δέν Διαγράφηκε',
+	'LBL_IMAGE_NOT_DELETED' => 'Η Εικόνα δεν Διαγράφηκε',
 	'LBL_YES' => 'Ναι',
 	'LBL_NO' => 'Όχι',
 	'AM' => 'ΠΜ',
 	'PM' => 'ΜΜ',
  	'JS_ERROR' => 'Λάθος',
 	'JS_INFORMATION' => 'Πληροφορία',
-	'JS_DO_NOT_HAVE_AN_EMAIL_ID' => 'Δέν έχει Διευ.Ηλεκτρονικού Ταχυδρομείου',
-	'NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT' => 'None of the field values are changed in Mass Edit',
+	'JS_DO_NOT_HAVE_AN_EMAIL_ID' => 'Δεν έχει Διευ. Ηλεκτρονικού Ταχυδρομείου',
+	'NONE_OF_THE_FIELD_VALUES_ARE_CHANGED_IN_MASS_EDIT' => 'Καμία από τις τιμές πεδίων δεν έχουν αλλάξει στην Μαζική Επεξεργασία',
 
 	//Notification messages for inventory module
 	'JS_PLEASE_SELECT_AN_ACCOUNT_TO_COPY_ADDRESS' => 'Παρακαλώ Επιλέξτε Έναν Οργανισμό για Αντιγραφή τής Διεύθυνσης',
 	'JS_PLEASE_SELECT_AN_CONTACT_TO_COPY_ADDRESS' => 'Παρακαλώ Επιλέξτε Μία Επαφή για Αντιγραφή τής Διεύθυνσης',
-	'JS_SELECTED_ACCOUNT_DOES_NOT_HAVE_AN_ADDRESS' => 'Ο Επιλεγμένος Οργανισμός Δέν Περιέχει Διεύθυνση για Αντιγραφή',
-	'JS_SELECTED_CONTACT_DOES_NOT_HAVE_AN_ADDRESS' => 'Η Επιλεγμένη Επαφή Δέν Περιέχει Διεύθυνση για Αντιγραφή',
+	'JS_SELECTED_ACCOUNT_DOES_NOT_HAVE_AN_ADDRESS' => 'Ο Επιλεγμένος Οργανισμός δεν Περιέχει Διεύθυνση για Αντιγραφή',
+	'JS_SELECTED_CONTACT_DOES_NOT_HAVE_AN_ADDRESS' => 'Η Επιλεγμένη Επαφή δεν Περιέχει Διεύθυνση για Αντιγραφή',
 	'JS_PLEASE_ENTER_PRIMARY_EMAIL_VALUE_TO_ENABLE_PORTAL_USER' => 'Παρακαλώ Εισάγετε το Πρωτεύον Email για την Ενεργοποίηση τής Πύλης Χρηστών',
-	'JS_PRIMARY_EMAIL_FIELD_DOES_NOT_EXISTS' => 'Το Πρωτεύον Email Δεν Υπάρχει για τήν Ενεργοποίηση της Πύλης Χρηστών.',
+	'JS_PRIMARY_EMAIL_FIELD_DOES_NOT_EXISTS' => 'Το Πρωτεύον Email Δεν Υπάρχει για την Ενεργοποίηση της Πύλης Χρηστών.',
 
 	//Tag Cloud validation messages
 	'JS_PLEASE_ENTER_A_TAG' => 'Παρακαλώ Εισάγετε μία Ετικέτα',
 	'JS_TAG_NAME_ALREADY_EXIST' => 'Το Όνομα της Ετικέτας Υπάρχει ήδη',
 	'JS_MAX_TAG_LENGTH_EXCEEDS' => 'Υπέρβαση Ορίου Χαρακτήρων Ετικέτας',
 
-	'JS_NO_VIEW_PERMISSION_AFTER_SAVE'=> 'Δεν θα έχετε το Δικαίωμα να δείτε την Καταγραφή μετά την Αποθήκευση. Επιθυμήτε να συνεχίσετε;',
-	'JS_NO_RECORDS_RELATED_TO_THIS_FILTER' => 'Καμμία Καταγραφή Δέν Σχετίζετε με Αυτό το Φίλτρο',
+	'JS_NO_VIEW_PERMISSION_AFTER_SAVE'=> 'Δεν θα έχετε το Δικαίωμα να δείτε την Καταγραφή μετά την Αποθήκευση. Επιθυμείτε να συνεχίσετε;',
+	'JS_NO_RECORDS_RELATED_TO_THIS_FILTER' => 'Καμία Καταγραφή δεν Σχετίζετε με Αυτό το Φίλτρο',
 
 	// Calendar Reminder popup
 	'JS_START_DATE_TIME' => 'Ημ.Έναρξης και Ώρα',
@@ -904,10 +905,10 @@ $jsLanguageStrings = array(
 	'JS_POSTPONE' => 'Αναβολή',
 	'JS_MESSAGE' => 'Μήνυμα',
 
-	'JS_NO_VIEW_PERMISSION_AFTER_SAVE'=> 'Δεν θα έχετε το Δικαίωμα να δείτε την Καταγραφή μετά την Αποθήκευση. Επιθυμήτε να συνεχίσετε;',
+	'JS_NO_VIEW_PERMISSION_AFTER_SAVE'=> 'Δεν θα έχετε το Δικαίωμα να δείτε την Καταγραφή μετά την Αποθήκευση. Επιθυμείτε να συνεχίσετε;',
 
 	//Settings page translations
-	'JS_SUCCESSFULLY_PINNED' => 'Η Συντόμευση Εισήχθει Επιτυχώς',
+	'JS_SUCCESSFULLY_PINNED' => 'Η Συντόμευση Εισήχθη Επιτυχώς',
 	'JS_SUCCESSFULLY_UNPINNED' => 'Η Συντόμευση Αφαιρέθηκε Επιτυχώς',
 	'JS_SHORTCUT_ALREADY_ADDED' => 'Αυτή η Συντόμευση Έχει Ήδη Εισαχθεί',
 	'JS_MESSAGE' => 'Μήνυμα',
@@ -917,24 +918,24 @@ $jsLanguageStrings = array(
 	'JS_MODULE_DISABLED' => 'Module Ανενεργό',
 
 	//Crom tasks
-	'JS_VALUE_SHOULD_NOT_BE_LESS_THAN' => 'Η διαμόρφωση της Συχνότητας τών Προγραμματισμένων Εργασίων Δεν Μπορεί να Είναι Μικρότερη απο',
+	'JS_VALUE_SHOULD_NOT_BE_LESS_THAN' => 'Η διαμόρφωση της Συχνότητας των Προγραμματισμένων Εργασιών δεν Μπορεί να είναι μικρότερη από',
 	'JS_MINUTES' => 'Λεπτά',
 
 	//PickList
-	'JS_ITEM_RENAMED_SUCCESSFULLY' => 'Το Αντικείμενο Μετανομάστηκε Επιτυχώς',
+	'JS_ITEM_RENAMED_SUCCESSFULLY' => 'Το Αντικείμενο Μετονομάστηκε Επιτυχώς',
 	'JS_ITEM_ADDED_SUCCESSFULLY' => 'Το Αντικείμενο Προστέθηκε Επιτυχώς',
 	'JS_NO_ITEM_SELECTED' => 'Κανένα Επιλεγμένο Αντικείμενο',
-	'JS_MORE_THAN_ONE_ITEM_SELECTED' => 'Περισσότερα απο Ένα Αντικείμενα Έχουν Επιλεχθεί',
+	'JS_MORE_THAN_ONE_ITEM_SELECTED' => 'Περισσότερα από ένα Αντικείμενα Έχουν Επιλεχθεί',
 	'JS_ITEMS_DELETED_SUCCESSFULLY' => 'Το Αντικείμενο Διαγράφτηκε Επιτυχώς',
 	'JS_DUPLIACATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Διπλότυπες Καταχωρήσεις Βρέθηκαν Για την Ίδια Τιμή',
 	'JS_SELECT_RECORDS_TO_MERGE_FROM_SAME_GROUP' => 'Πρέπει να Επιλέξετε Καταγραφές για Συγχώνευση Από την Ίδια Ομάδα',
 	'JS_SELECT_ATLEAST_TWO_RECORD_FOR_MERGING' => 'Επιλέξτε Τουλάχιστον Δύο Εγγραφές Για Συγχώνευση',
-	'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => 'Το Επιτρεπόμενο Ανώτατο Όριο Επιλογής Είναι Τρείς Εγγραφές',
+	'JS_ALLOWED_TO_SELECT_MAX_OF_THREE_RECORDS' => 'Το Επιτρεπόμενο Ανώτατο Όριο Επιλογής Είναι Τρεις Εγγραφές',
 	//Notification message for dashboard widget delete
 	'JS_ARE_YOU_SURE_TO_DELETE_WIDGET' => 'Είστε Σίγουροι ότι θέλετε να διαγράψετε το widget',
 	'JS_DUPLICATE_ENTRIES_FOUND_FOR_THE_VALUE' => 'Διπλότυπες εγγραφές Βρέθηκαν για την ίδια Τιμή',
 	'JS_TOTAL_RECORDS' => 'Συνολικές Εγγραφές',
-	'JS_PAGE_NOT_EXIST' => 'Η Σελίδα Δέν Υπάρχει ',
+	'JS_PAGE_NOT_EXIST' => 'Η Σελίδα δεν Υπάρχει ',
 	'JS_YOU_ARE_IN_PAGE_NUMBER' => 'Βρίσκεστε Στην Σελίδα Νούμερο',
 
 	//More currencies message
@@ -942,9 +943,9 @@ $jsLanguageStrings = array(
 	'JS_PLEASE_SELECT_BASE_CURRENCY_FOR_PRODUCT' => 'Παρακαλώ Επιλέξτε Την Βασική Ισοτιμία για το Προϊόν',
 
 	//Delete Records message
-	'JS_RECORDS_ARE_GETTING_DELETED' => 'Οι Καταγραφές Αρχίζουν Να Διαγράφονται',
+	'JS_RECORDS_ARE_GETTING_DELETED' => 'Οι Καταγραφές Αρχίζουν να Διαγράφονται',
 	'JS_RECORD_GETTING_DELETED' => 'Η Καταγραφή Αρχίζει να Διαγράφετε',
-	'JS_NO_RESULTS_FOUND' => 'Δέν Βρέθηκε Κανένα Αποτέλεσμα',
+	'JS_NO_RESULTS_FOUND' => 'Δεν Βρέθηκε Κανένα Αποτέλεσμα',
 
 	'JS_RECORDS TRANSFERRED SUCCESSFULLY' => 'Οι Καταγραφές Ιδιοκτησίας Μεταφέρθηκαν Επιτυχώς',
 
