@@ -21,7 +21,7 @@ $languageStrings = array(
 	//Basic Field Names
 	'WebForm Name' => 'Όνομα Δικτυακής Φόρμα',
 	'Public Id' => 'Δημόσιο Id',
-	'Enabled' => 'Κατάσταση',
+	'Enabled' => 'Ενεργό',
 	'Module' => 'Άρθρωμα',
 	'Return Url' => 'Url Επιστροφής',
 	'Post Url' => 'Url Προηγούμενο',
