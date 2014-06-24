@@ -55,7 +55,7 @@ $languageStrings = array(
 	
 	//Status picklist values
 	'Planned' => 'Προγραμματισμένο',
-	'Held' => 'Σε Αναμονή',
+	'Held' => 'Πραγματοποιήθηκε',
 	'Not Held' => 'Δεν πραγματοποιήθηκε',
 	
 	//Reminder Labels
