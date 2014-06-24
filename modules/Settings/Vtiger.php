@@ -150,7 +150,7 @@ $languageStrings = array(
 	'LBL_EDIT_TAX' => 'Επεξεργασία Φόρου',
 	'LBL_TAX_NAME' =>  'Όνομα Φόρου',
 	'LBL_TAX_VALUE' => 'Ποσοστό Φόρου',
-	'LBL_STATUS' => 'Κατάσταση',
+	'LBL_STATUS' => 'Κατάσταση Φόρου',
 	'LBL_TAX_STATUS_DESC' => 'Ενεργοποιείστε κουτάκι για να καταστεί η φορολογία ενεργή',
 	'LBL_ENTER_TAX_NAME' => 'Εισαγωγή Ονομασίας Φόρου',
 	'LBL_ENTER_TAX_VALUE' => 'Εισαγωγή Ποσοστού Φόρου',
@@ -181,7 +181,7 @@ $languageStrings = array(
 					  Για περισσότερες οδηγίες σχετικά με τη ρύθμιση των SPF εγγραφών, στείλτε email στο od-support@vtiger.com.",
 	'LBL_MAIL_SERVER_SMTP'=>'Ρυθμίσεις Mail Server (SMTP)',
 	'LBL_OUTGOING_SERVER_FROM_FIELD'=>'ΣΗΜΕΙΩΣΗ: Αν το πεδίο "Απο Email" είναι κενό τότε θα χρησιμοποιηθεί το Email του Χρήστη.',
-	'LBL_TESTMAILSTATUS'=>'Έλεγχος κατάσταση Mail : ',
+	'LBL_TESTMAILSTATUS'=>'Έλεγχος κατάστασης Mail : ',
 	'LBL_MAILSENDERROR'=>'Το Mail δεν μπορεί να αποσταλεί στον χρήστη admin. Παρακαλώ ελέγξτε τις ρυθμίσεις emailid/Server του admin χρήστη',
 	
 	//Configuration Editor
@@ -261,7 +261,7 @@ $languageStrings = array(
 	'LBL_USER_IP_ADDRESS'=> 'Διεύθυνση IP του Χρήστη', 
 	'LBL_LOGIN_TIME' => 'Ώρα Εισόδου',
 	'LBL_LOGGED_OUT_TIME' => '΄Ώρα Εξόδου', 
-	'LBL_STATUS' => 'Κατάσταση',
+	'LBL_STATUS' => 'Κατάσταση Ιστορικού',
 	'LBL_LOGIN_HISTORY_DETAILS' => 'Ιστορικό Σύνδεσης',
 	'LBL_LOGIN_HISTORY_DESCRIPTION' => 'Πληροφορίες Ιστορικού Σύνδεσης',
 	'LBL_CONFIG_EDITOR_DESCRIPTION' => 'Ενημέρωση αρχείου ρυθμίσεων της εφαρμογής',
