@@ -73,7 +73,7 @@ $languageStrings = array(
 	'LBL_TASK' => 'Εργασία',
 	'LBL_TASKS' => 'Εργασίες',
 
-	'LBL_RECORDS_LIST' => 'Λίστα',
+	'LBL_RECORDS_LIST' => 'Λίστα Γεγονότων/Εργασιών',
 	'LBL_CALENDAR_VIEW' => 'Το Ημερολόγιό Μου',
 	'LBL_SHARED_CALENDAR' => 'Κοινό Ημερολόγιο',
 
