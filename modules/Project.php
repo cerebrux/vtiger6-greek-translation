@@ -47,7 +47,7 @@ $languageStrings = array(
 	'LBL_MILESTONES' => 'Ορόσημα',
 	'LBL_TASKS' => 'Εργασίες',
 	'LBL_STATUS_IS' => 'Η Κατάσταση είναι',
-	'LBL_STATUS' => 'Κατάσταση',
+	'LBL_STATUS' => 'Κατάσταση Έργου',
 	'LBL_TICKET_PRIORITY' => 'Προτεραιότητα',
 	'LBL_MORE' => 'Περισσότερα',
 	
