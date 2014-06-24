@@ -403,7 +403,7 @@ $languageStrings = array(
 
 	//advanced Filter Options
 	'LBL_NONE' => 'Κανένα',
-	'LBL_EQUALS' => ';ίσος',
+	'LBL_EQUALS' => 'Ισο με',
 	'LBL_NOT_EQUAL_TO' => 'Δεν είναι ίσο με',
 	'LBL_STARTS_WITH' => 'Ξεκινάει με',
 	'LBL_ENDS_WITH' => 'Τελειώνει με',
