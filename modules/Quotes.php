@@ -20,7 +20,7 @@ $languageStrings = array(
 	//DetailView Actions
 	'SINGLE_Quotes'=> 'Προσφορά', 
 	'LBL_EXPORT_TO_PDF'=> 'Εξαγωγή σε PDF', 
-	'LBL_SEND_MAIL_PDF'=> 'Αποστολή PDF με Email', // TODO: Review
+	'LBL_SEND_MAIL_PDF'=> 'Αποστολή PDF με Email',
 
 	//Basic strings
 	'LBL_ADD_RECORD'=> 'Προσθήκη Προσφοράς', 
