@@ -6,6 +6,15 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
+ * 
+ * Greek Translation Project initiated : 13 February 2014
+ * Repository : https://github.com/cerebrux/vtiger6-greek-translation
+ * Author(s):
+ *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
+ *  -- Mathias Stavrou (http://mstavrou.com/)
+ *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
+ *  -- Dimitris Anagnostou
+ *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	'HTTP_ERROR' => 'Η ιστοσελίδα που προσπαθείτε να ανοίξετε δεν είναι ασφαλής και δεν μπορεί να ανοίξει. Εάν εξακολουθείτε να θέλετε να δείτε την ιστοσελίδα τοτε μπορείτε να κάνετε κλικ στον αποκλεισμό περιεχομένου στη γραμμή διευθύνσεων για να επιτρέψετε την προβολή.',
