@@ -9,20 +9,20 @@
  ************************************************************************************/
 
 $languageStrings = Array(
-    'LBL_ADD_FEED_SOURCE' => 'Add Feed Source',
-    'LBL_ENTER_FEED_SOURCE' => 'Enter Feed Source',
-    'LBL_FEEDS_LIST_FROM' => 'Feeds List From',
-    'LBL_FEED_SOURCE' => 'Feed Source',
-	'LBL_RSS_FEED_SOURCES' => 'Rss Feed Sources',
-    'LBL_SENDER' => 'Sender',
-    'LBL_SET_AS_DEFAULT' => 'Set As Default',
-    'SINGLE_Rss' => 'Rss Feed',
+    'LBL_ADD_FEED_SOURCE' => 'Προσθέστε ροές',
+    'LBL_ENTER_FEED_SOURCE' => 'Προσθέστε πηγή ροών',
+    'LBL_FEEDS_LIST_FROM' => 'Λίστα από ροή',
+    'LBL_FEED_SOURCE' => 'Πηγή ροής',
+	'LBL_RSS_FEED_SOURCES' => 'Πηγές ροής',
+    'LBL_SENDER' => 'Αποστολέας',
+    'LBL_SET_AS_DEFAULT' => 'Ορισμός ως Προεπιλογή',
+    'SINGLE_Rss' => 'Ροή',
 );
 
 $jsLanguageStrings = array(
-    'JS_INVALID_RSS_URL' => 'Invalid Rss Url',
-    'JS_RSS_MADE_AS_DEFAULT' => 'Rss Made as Default',
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss Successfully saved',
+    'JS_INVALID_RSS_URL' => 'Άκυρη Ροή Διεύθυνσης',
+    'JS_RSS_MADE_AS_DEFAULT' => 'Η ροή είναι ως προεπιλογή',
+	'JS_RSS_SUCCESSFULLY_SAVED' => 'Η ροή αποθηκεύτηκε επιτυχώς',
 
 );
 
