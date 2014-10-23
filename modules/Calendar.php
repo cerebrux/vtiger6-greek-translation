@@ -19,15 +19,15 @@
 $languageStrings = array(
 	// Basic Strings
 	'SINGLE_Calendar' => 'Ημερολόγιο',
-	'SINGLE_Events' => 'Γεγονός',
+	'SINGLE_Events' => 'Συμβάν',
 	'LBL_ADD_TASK' => 'Προσθήκη Εργασίας',
-	'LBL_ADD_EVENT' => 'Προσθήκη Γεγονότος',
+	'LBL_ADD_EVENT' => 'Προσθήκη Συμβάντος',
 	'LBL_RECORDS_LIST' => 'Λίστα Ημερολογίου',
-	'LBL_EVENTS' => 'Γεγονότα',
+	'LBL_EVENTS' => 'Συμβάντα',
 	'LBL_TODOS' => 'Προς εκτέλεση',
 	'LBL_CALENDAR_SETTINGS' => 'Ρυθμίσεις Ημερολογίου',
 	'LBL_CALENDAR_SHARING' => 'Κοινή χρήση Ημερολογίου',
-	'LBL_DEFAULT_EVENT_DURATION' => 'Προεπιλεγμένη Διάρκεια Γεγονότος',
+	'LBL_DEFAULT_EVENT_DURATION' => 'Προεπιλεγμένη Διάρκεια Συμβάντος',
 	'LBL_CALL' => 'Τηλεφώνησε',
 	'LBL_OTHER_EVENTS' => 'Άλλα Συμβάντα',
 	'LBL_MINUTES' => 'Λεπτά',
@@ -69,11 +69,11 @@ $languageStrings = array(
 
 	'LBL_CHANGE_OWNER' => 'Αλλαγή Ιδιοκτήτη',
 
-	'LBL_EVENT' => 'Γεγονός',
+	'LBL_EVENT' => 'Συμβάν',
 	'LBL_TASK' => 'Εργασία',
 	'LBL_TASKS' => 'Εργασίες',
 
-	'LBL_RECORDS_LIST' => 'Λίστα Γεγονότων/Εργασιών',
+	'LBL_RECORDS_LIST' => 'Λίστα Συμβάντων/Εργασιών',
 	'LBL_CALENDAR_VIEW' => 'Το Ημερολόγιό Μου',
 	'LBL_SHARED_CALENDAR' => 'Κοινό Ημερολόγιο',
 
@@ -112,7 +112,7 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Γεγονότος/Εργασίας',
+	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Συμβάντος/Εργασίας',
 	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Η Εργασία έχει προστεθεί επιτυχώς στο Ημερολόγιό σας',
     'LBL_SYNC_BUTTON' => 'Συγχρονισμός Τώρα',
     'LBL_SYNCRONIZING' => 'Συγχρονισμός....',
