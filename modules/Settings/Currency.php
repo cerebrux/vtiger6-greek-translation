@@ -17,9 +17,9 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
+	'LBL_ADD_NEW_CURRENCY' => 'Προσθήκη νέας ισοτιμίας',	
 	'LBL_ADD_RECORD' => 'Προσθήκη ισοτιμίας',
 	'LBL_EDIT_CURRENCY' => 'Τροποποίηση ισοτιμίας',
-	'LBL_ADD_NEW_CURRENCY' => 'Προσθήκη νέας ισοτιμίας',
 	'LBL_CURRENCY_NAME' => 'Τίτλος ισοτιμίας',
 	'LBL_CURRENCY_CODE' => 'Κωδικός ισοτιμίας',
 	'LBL_CURRENCY_SYMBOL' => 'Σύμβολο',
@@ -28,9 +28,10 @@ $languageStrings = array(
 	'LBL_CURRENCY_STATUS_DESC' => 'Ενεργοποίηση ισοτιμίας',
 	'LBL_TRANSFER_CURRENCY' => 'Μεταφορά ισοτιμίας',
 	'LBL_CURRENT_CURRENCY' => 'Ισοτιμία',
-        'LBL_BASE_CURRENCY' => 'Ισοτιμία βάσης',
+    // 'LBL_BASE_CURRENCY' => 'Ισοτιμία βάσης', removed from 6.1
 	
 	//currency names
+	'Afghanistan, Afghanis' => 'Afghanistan, Afghanis',
 	'Albania, Leke' 		=> 'Albania, Leke',
 	'Argentina, Pesos' 		=> 'Argentina, Pesos',
 	'Aruba, Guilders' 		=> 'Aruba, Guilders',
@@ -43,16 +44,16 @@ $languageStrings = array(
 	'Belize, Dollars' 		=> 'Belize, Dollars',
 	'Bermuda, Dollars' 		=> 'Bermuda, Dollars',
 	'Bolivia, Bolivianos' 	=> 'Bolivia, Bolivianos',
-	'Convertible Marka'		=> 'Convertible Marka',
+	'Brazil, Reais' 		=> 'Brazil, Reais',	
 	'Botswana, Pulas' 		=> 'Botswana, Pulas',
 	'Bulgaria, Leva' 		=> 'Bulgaria, Leva',
-	'Brazil, Reais' 		=> 'Brazil, Reais',
 	'Great Britain Pounds' 	=> 'Great Britain Pounds',
 	'Brunei Darussalam, Dollars' => 'Brunei Darussalam, Dollars',
 	'Canada, Dollars' 		=> 'Canada, Dollars',
 	'Cayman Islands, Dollars' => 'Cayman Islands, Dollars',
 	'Chile, Pesos' 			=> 'Chile, Pesos',
 	'Colombia, Pesos' 		=> 'Colombia, Pesos',
+	'Convertible Marka'		=> 'Convertible Marka',	
 	'Costa Rica, Colón' 	=> 'Costa Rica, Colón',
 	'Croatia, Kuna' 		=> 'Croatia, Kuna',
 	'Cuba, Pesos' 			=> 'Cuba, Pesos',
@@ -97,10 +98,12 @@ $languageStrings = array(
 	'Lithuania, Litai' 		=> 'Lithuania, Litai',
 	'Macedonia, Denars' 	=> 'Macedonia, Denars',
 	'Malaysia, Ringgits' 	=> 'Malaysia, Ringgits',
+	'Malawi, kwacha'		=> 'Malawi, kwacha',
 	'Malta, Liri'			=> 'Malta, Liri',
 	'Mauritius, Rupees' 	=> 'Mauritius, Rupees',
 	'Mexico, Pesos' 		=> 'Mexico, Pesos',
 	'Mongolia, Tugriks' 	=> 'Mongolia, Tugriks',
+	'Moroccan, Dirham'		=> 'Moroccan, Dirham',
 	'Mozambique, Meticais' 	=> 'Mozambique, Meticais',
 	'Namibia, Dollars' 		=> 'Namibia, Dollars',
 	'Nepal, Rupees' 		=> 'Nepal, Rupees',
@@ -137,6 +140,7 @@ $languageStrings = array(
 	'Taiwan, New Dollars' 	=> 'Taiwan, New Dollars',
 	'Thailand, Baht' 		=> 'Thailand, Baht',
 	'Trinidad and Tobago, Dollars' => 'Trinidad and Tobago, Dollars',
+	'Tunisian, Dinar'		=> 'Tunisian, Dinar',
 	'Turkey, New Lira' 		=> 'Turkey, New Lira',
 	'Turkey, Liras' 		=> 'Turkey, Liras',
 	'Tuvalu, Dollars' 		=> 'Tuvalu, Dollars',
@@ -159,12 +163,10 @@ $languageStrings = array(
 	'United Republic of Tanzania, Shilling' => 'United Republic OF Tanzania, Shilling',
 	'Yemen, Rials'			=> 'Yemen, Rials',
 	'Zambia, Kwacha'		=> 'Zambia, Kwacha',
-	'Malawi, kwacha'		=> 'Malawi, kwacha',
-	'Tunisian, Dinar'		=> 'Tunisian, Dinar',
-	'Moroccan, Dirham'		=> 'Moroccan, Dirham',
+	'Zimbabwe Dollars' 		=> 'Zimbabwe Dollars',	
 );
 
 $jsLanguageStrings = array(
-	'JS_CURRENCY_DETAILS_SAVED' => 'Τα στοιχεία τις ισοτιμίας αποθηκεύτηκαν',
 	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Η ισοτιμία διεγράφη με επιτυχία',
+	'JS_CURRENCY_DETAILS_SAVED' => 'Τα στοιχεία τις ισοτιμίας αποθηκεύτηκαν',
 );
