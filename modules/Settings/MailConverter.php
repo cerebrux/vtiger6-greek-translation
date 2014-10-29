@@ -83,7 +83,7 @@ $languageStrings = array(
 	'LBL_UPDATE_FOLDERS'           => 'Ενημέρωση Φακέλου',
 
 	//Rule Fields
-        'fromaddress'                  => 'από',
+    'fromaddress'                  => 'από',
 	'toaddress'                    => 'να',
 	'subject'                      => 'αντικείμενο',
 	'body'                         => 'σώμα',

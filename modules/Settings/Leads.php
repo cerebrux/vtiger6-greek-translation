@@ -29,7 +29,6 @@ $languageStrings = array(
 	'LBL_OPPURTUNITIES' => 'Ευκαιρίες',
 	'LBL_ADD_MAPPING'=> 'Προσθήκη Αντιστοίχησης',
 	'LBL_NONE'=> 'Κανένα',
-	
 	'phone' => 'Τηλέφωνο', 
 	'picklist'  => 'Λίστα επιλογής',
 	'email' => 'Email', 
@@ -46,14 +45,13 @@ $languageStrings = array(
 	'percent'=> 'Ποσοστό', 
 	'skype'=> 'Skype', 
 );
+
 $jsLanguageStrings = array(
 	'JS_NONE' => 'Κανένα',
 	'JS_IS_ALREADY_BEEN_MAPPED' => 'έχει ήδη διασυνδεθεί',
 	'JS_CANT_MAP' => 'Δεν μπορεί να διασυνδεθεί',
 	'JS_WITH' => 'με',
 	'JS_MAPPING_DELETED_SUCCESSFULLY' => 'Η διασύνδεση διαγράφηκε επιτυχώς',
-	
-	//JS Field Type Translation
 	'JS_phone' => 'Τηλέφωνο',
 	'JS_picklist' => 'Λίστα επιλογών',
 	'JS_email' => 'Email',

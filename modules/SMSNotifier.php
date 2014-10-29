@@ -34,7 +34,7 @@ $languageStrings = array(
 	'message'                      => 'Μήνυμα',
 
 	//Blocks
-	'LBL_SMSNOTIFIER_INFORMATION'  => 'Πληροφορίες Μηνύματος',
-	'SINGLE_SMSNotifier'           => 'Ειδοποίηση Μηνύματος', 
-	'SMSNotifier' => 'Ειδοποίηση Μηνύματος', //added by mstavrou for menu SMSNotifier
+	'LBL_SMSNOTIFIER_INFORMATION'  => 'Πληροφορίες SMS',
+	'SINGLE_SMSNotifier'           => 'Ειδοποίηση SMS', 
+	'SMSNotifier' => 'Ειδοποίηση SMS', //added by mstavrou for menu SMSNotifier
 );

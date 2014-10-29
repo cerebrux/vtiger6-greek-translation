@@ -17,6 +17,13 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
+	'Calendar' => 'To Do',
+	'Checkbox' => 'Κουτάκι ελέγχου',
+	'Currency'=>'Νόμισμα',
+	'Date'=>'Ημερομηνία',
+	'Decimal'=>'Δεκαδικό',
+	'Email'=>'Email',
+	'Integer'=>'Ακέραιος',
 	'LayoutEditor' => 'Επιμέλεια Διάταξης',
 	'LBL_FIELDS_AND_LAYOUT_EDITOR' => 'Επιμέλεια Διάταξης',
 	'LBL_CREATE_CUSTOM_FIELD'      => 'Δημιουργία προσαρμοσμένου πεδίου', 
@@ -58,20 +65,12 @@ $languageStrings = array(
 	'LBL_WRONG_FIELD_TYPE'         => 'Λάθος Τύπος πεδίου' ,
 	'LBL_ROLE_BASED_PICKLIST'      => 'Λίστα επιλογών Βασισμένος σε Ρόλους',
 	'LBL_CLICK_HERE_TO_EDIT' => 'Κλικ Εδώ για Επεξεργασία',
-
-	//Field Types
 	'Text'=>'Κείμενο',
-	'Decimal'=>'Δεκαδικό',
-	'Integer'=>'Ακέραιος',
 	'Percent'=>'Ποσοστό',
-	'Currency'=>'Νόμισμα',
-	'Date'=>'Ημερομηνία',
-	'Email'=>'Email',
 	'Phone'=>'Τηλέφωνο',
 	'PickList'=>'Λίστα Επιλογών',
 	'MultiSelectCombo'=>'Πλαίσιο Πολλαπλών Επιλογών',
 	'URL' => 'URL',
-	'Checkbox' => 'Κουτάκι Ελεχου',
 	'TextArea' => 'Περιοχή Κειμένου',
 	'Skype'=>'Skype',
 	'Time'=>'Ώρα',

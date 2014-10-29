@@ -27,8 +27,7 @@ $languageStrings = array(
 	'LBL_ROLEANDSUBORDINATE' => 'Ρόλοι και υφιστάμενοι',
 	'RoleAndSubordinates' => 'Ρόλοι και υφιστάμενοι',
 	'LBL_DUPLICATES_EXIST' => 'Υπάρχει ήδη ομάδα με αυτό το όνομα',
-    // 'Creating new Group' => "Δημιουργία νέας ομάδας", removed from 610
-);
+   );
 
 $jsLanguageStrings = array(
 	'JS_PLEASE_SELECT_ATLEAST_ONE_MEMBER_FOR_A_GROUP' => 'Παρακαλώ επιλέξτε τουλάχιστον ένα μέλος για την ομάδα',
