@@ -65,15 +65,15 @@ $languageStrings = array(
 	'LBL_WRONG_FIELD_TYPE'         => 'Λάθος Τύπος πεδίου' ,
 	'LBL_ROLE_BASED_PICKLIST'      => 'Λίστα επιλογών Βασισμένος σε Ρόλους',
 	'LBL_CLICK_HERE_TO_EDIT' => 'Κλικ Εδώ για Επεξεργασία',
-	'Text'=>'Κείμενο',
-	'Percent'=>'Ποσοστό',
+	'MultiSelectCombo'=>'Πλαίσιο Πολλαπλών Επιλογών',	
+	'Percent'=>'Ποσοστό',	
 	'Phone'=>'Τηλέφωνο',
 	'PickList'=>'Λίστα Επιλογών',
-	'MultiSelectCombo'=>'Πλαίσιο Πολλαπλών Επιλογών',
-	'URL' => 'URL',
-	'TextArea' => 'Περιοχή Κειμένου',
 	'Skype'=>'Skype',
+	'TextArea' => 'Περιοχή Κειμένου',
+	'Text'=>'Κείμενο',
 	'Time'=>'Ώρα',
+	'URL' => 'URL',
 );
 
 $jsLanguageStrings = array(
