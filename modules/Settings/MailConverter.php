@@ -17,6 +17,8 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
+	'ADD_RULES'					   => 'Add Rules',	
+	'After Scan'                   => 'After Scan'                  ,
 	'MailConverter'                => 'Μετατροπέας Ηλεκτρονικού Ταχυδρομείου',
 	'MailConverter_Description'    => 'Μετατρέψει τα ηλεκτρονικά ταχυδρομεία με τις αντίστοιχες εγγραφές',
 	'MAILBOX'                      => 'Γραμματοκιβώτιο',
@@ -30,75 +32,61 @@ $languageStrings = array(
 	'LBL_CREATE_MAILBOX'           => 'Δημιουργία Γραμματοκιβωτίου',
 	'LBL_BACK_TO_MAILBOXES'        => 'Πίσω στο Γραμματοκιβώτιο',
 	'LBL_MARK_MESSAGE_AS'          => 'Επισήμανση μηνύματος ως',
-	
-	//Server Messages
 	'LBL_MAX_LIMIT_ONLY_TWO'       => 'Μπορείτε να ρυθμίσετε μόνο δύο γραμματοκιβώτια',
 	'LBL_IS_IN_RUNNING_STATE'      => 'βρίσκεται σε κατάσταση λειτουργίας',
 	'LBL_SAVED_SUCCESSFULLY'       => 'αποθηκεύτηκε με επιτυχία',
+	'LBL_ADDING_NEW_MAILBOX' => 'Adding New Mail Box',	
+	'LBL_CONNECTION_ERROR' => 'Connecting to Mailbox failed. Check network connection and try again.', 	
 	'LBL_CONNECTION_TO_MAILBOX_FAILED' => 'Η Σύνδεση με το γραμματοκιβώτιο απέτυχε!',
 	'LBL_DELETED_SUCCESSFULLY'     => 'Διαγράφηκε με Επιτυχία',
+	'LBL_RULE' => 'Rule',	
 	'LBL_RULE_DELETION_FAILED'     => 'Άρθρο διαγραφή απέτυχε',
 	'LBL_RULES_SEQUENCE_INFO_IS_EMPTY' => 'Πληροφορίες Αλληλουχίας είναι άδειες',
 	'LBL_SEQUENCE_UPDATED_SUCCESSFULLY' => 'Ακολουθία ενημερώθηκε με επιτυχία',
 	'LBL_SCANNED_SUCCESSFULLY'     => 'σαρώθηκε με επιτυχία',
-
-	//Field Names
-	'scannername'                  => 'Όνομα σκαναρίσματος',
-	'server'                       => 'Όνομα διακομιστή',
-	'protocol'                     => 'Πρωτόκολλο',
-	'username'                     => 'Όνομα Χρήστη',
-	'password'                     => 'Κωδικός',
-	'ssltype'                      => 'Τύπος SSL',
-	'sslmethod'                    => 'Μέθοδος SSL',
+	'LBL_CONDITIONS' => 'Conditions',	
+	'Scanner Name'                  => 'Όνομα σκαναρίσματος',
+	'Server'                       => 'Όνομα διακομιστή',
+	'Protocol'                     => 'Πρωτόκολλο',
+	'Password'                     => 'Κωδικός',
 	'connecturl'                   => 'Σύνδεση Url',
 	'searchfor'                    => 'Ψάξε για',
-	'markas'                       => 'Μετά σάρωσης',
-
-	//Field values & Messages
-        'LBL_ENABLE'                   => 'Ενεργό',
+	'markas'                       => 'Μετά την σάρωση',
+	'LBL_CREATE_MAILBOX_NOW'	   => 'Δημιουργία Γραμματοκ. τώρα',
+	'LBL_MAILBOX' 				   => 'Γραμματοκυβότιο',    
+	'LBL_ENABLE'                   => 'Ενεργό',
 	'LBL_DISABLE'                  => 'Ανενεργό',
 	'LBL_STATUS_MESSAGE'           => 'Ελέγξτε για να γίνει ενεργό',
 	'LBL_VALIDATE_SSL_CERTIFICATE' => 'Έγκυρο SSL Πιστοποιητικό',
 	'LBL_DO_NOT_VALIDATE_SSL_CERTIFICATE' => 'Μην Επικυρώσετε το SSL Πιστοποιητικό',
+	'LBL_FINISH'	               => 'Τέλος',
 	'LBL_ALL_MESSAGES_FROM_LAST_SCAN' => 'Όλα τα μηνύματα από την τελευταία σάρωση',
 	'LBL_UNREAD_MESSAGES_FROM_LAST_SCAN' => 'Μη αναγνωσμένων μηνυμάτων από την τελευταία σάρωση',
+	'LBL_MAILCONVERTER_DESCRIPTION' => "Mail Converter enables you to configure your mailbox to scan your emails and create appropriate entities in Vtiger CRM.<br />You'll also need to define rules to specify what actions should be performed on your emails.<br />Your emails are scanned automatically, unless you've disabled Mail Scanner task in Scheduler. <br /><br /><br />",
+	'LBL_FOLDERS_SCANNED'	       => 'Σαρώθηκαν οι φάκελοι',
 	'LBL_MARK_MESSAGES_AS_READ'    => 'Σήμανση μηνυμάτων ως αναγνωσμένα',
 	'LBL_I_DONT_KNOW'              => 'Δεν Γνωρίζω',
-
- 	//Mailbox Actions
-        'LBL_SCAN_NOW'                 => 'Σάρωση τώρα',
+    'LBL_SCAN_NOW'                 => 'Σάρωση τώρα',
+	'LBL_NEXT'			           => 'Επόμενο',
 	'LBL_RULES_LIST'               => 'Λίστα Κανόνων',
 	'LBL_SELECT_FOLDERS'           => 'Επιλογή Φακέλου',
-
-	//Action Messages
 	'LBL_DELETED_SUCCESSFULLY' => 'Η διαγραφή έγινε επιτυχώς',
 	'LBL_RULE_DELETION_FAILED'     => 'Η διαγραφή του κανόνα απέτυχε',
 	'LBL_SAVED_SUCCESSFULLY' => 'αποθηκεύτηκε με επιτυχία',
 	'LBL_SCANED_SUCCESSFULLY' => 'Σαρώθηκε με επιτυχία',
-	'LBL_IS_IN_RUNNING_STATE' => 'βρίσκεται σε κατάσταση λειτουργίας',
 	'LBL_FOLDERS_INFO_IS_EMPTY' => 'Οι Πληροφορίες φακέλου είναι άδειες',
 	'LBL_RULES_SEQUENCE_INFO_IS_EMPTY' => 'Οι Πληροφορίες Αλληλουχίας είναι άδειες',
-
-	//Folder Actions
 	'LBL_UPDATE_FOLDERS'           => 'Ενημέρωση Φακέλου',
-
-	//Rule Fields
     'fromaddress'                  => 'από',
 	'toaddress'                    => 'να',
 	'subject'                      => 'αντικείμενο',
 	'body'                         => 'σώμα',
 	'matchusing'                   => 'ταιριάζει',
 	'action'                       => 'ενέργεια',
-
-	//Rules List View labels
 	'LBL_PRIORITY'                 => 'προτεραιότητα',
 	'PRIORITISE_MESSAGE'           => 'Σύρετε το μπλοκ για να δοθεί προτεραιότητα ',
-
-	//Rule Field values & Messages
 	'LBL_ALL_CONDITIONS'           => 'Όλες οι προϋποθέσεις',
 	'LBL_ANY_CONDITIOn'            => 'κάθε Κατάσταση',
-
-	//Rule Conditions
 	'Contains'                     => 'Περιέχει',
 	'Not Contains'                 => 'δεν Περιέχει',
 	'Equals'                       => 'ίσο ',
@@ -106,20 +94,17 @@ $languageStrings = array(
 	'Begins With'                  => 'αρχίζει',
 	'Ends With'                    => 'τελειώνει',
 	'Regex'                        => 'Regex',
-
-	//Rule Actions
 	'CREATE_HelpDesk_FROM'         => 'Δημιουργία Δελτίου Τ.Υ',
 	'UPDATE_HelpDesk_SUBJECT'      => 'Ενημέρωση Δελτίου Τ.Υ',
 	'LINK_Contacts_FROM'           => 'Προσθήκη στην Επαφή [ΑΠΟ]',
 	'LINK_Contacts_TO'             => 'Προσθήκη στην Επαφή [TO]',
 	'LINK_Accounts_FROM'           => 'Προσθήκη στο Πελάτη [ΑΠΟ]',
 	'LINK_Accounts_TO'             => 'Προσθήκη στο Πελάτη [TO]',
-    
-	    //Select Folder
+	'LINK_Leads_FROM' => 'Add to Lead [FROM]',
+	'LINK_Leads_TO' => 'Add to Lead [TO]',	
 	'LBL_UPDATE_FOLDERS' => 'Ενημέρωση Φακέλλων',
+	'Look For'                     => 'Look For'	
 	'LBL_UNSELECT_ALL'             => 'Αποεπιλογή Όλων',
-	
-	//Setup Rules
 	'LBL_CONVERT_EMAILS_TO_RESPECTIVE_RECORDS' => 'Μετατρέψει τα ηλεκτρονικά ταχυδρομεία με τις αντίστοιχες εγγραφές',
 	'LBL_DRAG_AND_DROP_BLOCK_TO_PRIORITISE_THE_RULE' => 'Σύρετε ουτοσώστε να δοθεί προτεραιότητα του κράτους',
 	'LBL_ADD_RULE'                 => 'Προσθήκη Κανόνα',
@@ -129,8 +114,16 @@ $languageStrings = array(
 	'LBL_MATCH'                    => 'Ταιριάζει',
 	'LBL_ACTION'                   => 'Ενέργεια',
 	'LBL_FROM'                     => 'Από',
+	'SELECT_FOLDERS' => 'Select Folders',	
+	'SSL Method'                   => 'Μέθοδος SSL',	
+	'SSL Type'                     => 'Τύπος SSL',	
+	'Time Zone'                    => 'Time Zone',	
+	'TO_CHANGE_THE_FOLDER_SELECTION_DESELECT_ANY_OF_THE_SELECTED_FOLDERS' => 'To change the folder selection deselect any of the selected folders',	
+	'User Name'	                   => 'Όνομα Χρήστη'                   , 	
+	'Validate SSL Certificate'     => 'Validate SSL Certificate',
 );
+
 $jsLanguageStrings = array(
-        'JS_MAILBOX_DELETED_SUCCESSFULLY' => 'Το Γραμματοκιβώτιο διαγράφηκε με επιτυχία',
+    'JS_MAILBOX_DELETED_SUCCESSFULLY' => 'Το Γραμματοκιβώτιο διαγράφηκε με επιτυχία',
 	'JS_MAILBOX_LOADED_SUCCESSFULLY' => 'Το Γραμματοκιβώτιο Φορτώθηκε με επιτυχία',
 );	
