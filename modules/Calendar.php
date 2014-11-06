@@ -17,14 +17,14 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'SINGLE_Calendar' => 'Ημερολόγιο',
 	'SINGLE_Events' => 'Συμβάν',
 	'LBL_ADD_TASK' => 'Προσθήκη Εργασίας',
 	'LBL_ADD_EVENT' => 'Προσθήκη Συμβάντος',
+	'LBL_ADD_CALENDAR_VIEW' => 'Προσθήκη προβολής Ημερολογίου',
 	'LBL_RECORDS_LIST' => 'Λίστα Ημερολογίου',
 	'LBL_EVENTS' => 'Συμβάντα',
-	'LBL_TODOS' => 'Προς εκτέλεση',
+	'LBL_TODOS' => 'Εργασίες',
 	'LBL_CALENDAR_SETTINGS' => 'Ρυθμίσεις Ημερολογίου',
 	'LBL_CALENDAR_SHARING' => 'Κοινή χρήση Ημερολογίου',
 	'LBL_DEFAULT_EVENT_DURATION' => 'Προεπιλεγμένη Διάρκεια Συμβάντος',
@@ -32,52 +32,43 @@ $languageStrings = array(
 	'LBL_OTHER_EVENTS' => 'Άλλα Συμβάντα',
 	'LBL_MINUTES' => 'Λεπτά',
 	'LBL_SELECT_USERS' => 'Επιλογή Χρηστών',
-	'LBL_EVENT_OR_TASK' => 'Γεγονός / Εργασία',
-
-	// Blocks
+	'LBL_EVENT_OR_TASK' => 'Συμβάν / Εργασία',
 	'LBL_TASK_INFORMATION' => 'Λεπτομέρειες Εργασίας',
-
-	//Fields
 	'Subject' => 'Θέμα',
 	'Start Date & Time' => 'Ημερομηνία & Ώρα Έναρξης',
 	'Activity Type'=>'Τύπος Δραστηριότητας',
 	'Send Notification'=>'Αποστολή Ειδοποίησης',
 	'Location'=>'Τοποθεσία',
 	'End Date & Time' => 'Ημερομηνία Λήξης & Ώρα',
-
-	//Side Bar Names
 	'LBL_ACTIVITY_TYPES' => 'Τύποι Δραστηριοτήτων',
 	'LBL_CONTACTS_SUPPORT_END_DATE' => 'Ημερομηνία Λήξης Υποστήριξης',
 	'LBL_CONTACTS_BIRTH_DAY' => 'Γενέθλια',
 	'LBL_ADDED_CALENDARS' => 'Προστεθειμένα Ημερολόγια',
-
-
-	//Activity Type picklist values
 	'Call' => 'Τηλέφωνο',
 	'Meeting' => 'Συνάντηση',
 	'Task' => 'Εργασία',
-
-	//Status picklist values
+	'LBL_DEFAULT_STATUS_TYPE' => 'Προεπιλεγμένη κατάσταση και τύπος',	
+	'LBL_DELETE_CALENDAR' => 'Διαγραφή ημερολογίου',	
+	'LBL_EDIT_COLOR' => 'Επεξεργασία χρώματος',	
+	'LBL_EDITING_CALENDAR_VIEW' => 'Επεξεργασία προβολής Ημερολογίου',	
 	'Planned' => 'Προγραμματισμένο',
+	'LBL_EVENT_INFORMATION'=> 'Λεπτομέριες Συμβάντος',	
 	'Completed' => 'Ολοκληρώθηκε',
 	'Pending Input' => 'Αναμονή Πρόσθετης Πληροφορίας',
 	'Not Started' => 'Δεν Ξεκίνησε',
 	'Deferred' => 'Αναβλήθηκε',
-
-	//Priority picklist values
 	'Medium' => 'Μεσαία',
-
 	'LBL_CHANGE_OWNER' => 'Αλλαγή Ιδιοκτήτη',
-
 	'LBL_EVENT' => 'Συμβάν',
 	'LBL_TASK' => 'Εργασία',
 	'LBL_TASKS' => 'Εργασίες',
-
 	'LBL_RECORDS_LIST' => 'Λίστα Συμβάντων/Εργασιών',
+	'LBL_SELECT_ACTIVITY_TYPE' => 'Επιλογή είδους Δραστηριότητας',	
+	'LBL_SELECT_CALENDAR_COLOR' => 'Επιλογή χρώματος Ημερολογίου',	
+	'LBL_SELECT_USER_CALENDAR' => 'Επιλογή Χρήστη ημερολγίου',	
 	'LBL_CALENDAR_VIEW' => 'Το Ημερολόγιό Μου',
 	'LBL_SHARED_CALENDAR' => 'Κοινό Ημερολόγιο',
-
-	//Repeat Lables - used by getTranslatedString
+	'LBL_STATUS' => 'Κατάσταση',	
 	'LBL_DAY0' => 'Κυριακή',
 	'LBL_DAY1' => 'Δευτέρα',
 	'LBL_DAY2' => 'Τρίτη',
@@ -85,48 +76,42 @@ $languageStrings = array(
 	'LBL_DAY4' => 'Πέμπτη',
 	'LBL_DAY5' => 'Παρασκευή',
 	'LBL_DAY6' => 'Σάββατο',
-
 	'first' => 'Πρώτη',
 	'last' => 'Τελευταία',
+	'LBL_TYPE' => 'Είδος',	
 	'LBL_DAY_OF_THE_MONTH' => 'ημέρα του μήνα',
 	'LBL_ON' => 'στις',
-
 	'Daily'=>'Ημέρα(ες)',
 	'Weekly'=>'Εβδομάδα(ες)',
 	'Monthly'=>'Μήνας(ες)',
 	'Yearly'=>'Έτος',
-	
-	//Import and Export Labels
 	'LBL_IMPORT_RECORDS' => 'Εισαγωγή Εγγραφών',
 	'LBL_RESULT' => 'Αποτέλεσμα',
 	'LBL_FINISH' => 'Τέλος',
 	'LBL_TOTAL_TASKS_IMPORTED' => 'Αρ. Επιτυχημένης Εισαγωγής Εργασιών ',
-	'LBL_TOTAL_TASKS_SKIPPED' => 'Αρ. Εργασιών που παραλείφθηκαν, καθώς έλειπαν μία ή περισσότερες από τα απαιτούμενα πεδία ',
+	'LBL_TOTAL_TASKS_SKIPPED' => 'Αρ. Εργασιών που αγνοήθηκαν, καθώς έλειπαν μία ή περισσότερες από τα απαιτούμενα πεδία ',
 	'LBL_TOTAL_EVENTS_IMPORTED' => 'Αρ. Επιτυχημένης Εισαγωγής Συμβάντων ',
-	'LBL_TOTAL_EVENTS_SKIPPED' => 'Αρ. Γεγονότων που παραλείφθηκαν, καθώς έλειπαν μία ή περισσότερες από τα απαιτούμενα πεδία ',
-	
+	'LBL_TOTAL_EVENTS_SKIPPED' => 'Αρ. Γεγονότων που αγνοήθηκαν, καθώς έλειπαν μία ή περισσότερες από τα απαιτούμενα πεδία ',
 	'ICAL_FORMAT' => 'Τύπος iCal',
 	'LBL_LAST_IMPORT_UNDONE'=>'Τελευταία σας Εισαγωγή έχει αναιρεθεί',
 	'LBL_UNDO_LAST_IMPORT' => 'Αναίρεση Τελευταίας Εισαγωγής'
-
 );
 
 $jsLanguageStrings = array(
-	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Συμβάντος/Εργασίας',
-	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Η Εργασία έχει προστεθεί επιτυχώς στο Ημερολόγιό σας',
-    'LBL_SYNC_BUTTON' => 'Συγχρονισμός Τώρα',
-    'LBL_SYNCRONIZING' => 'Συγχρονισμός....',
-    'LBL_NOT_SYNCRONIZED' => 'Δεν έχετε συγχρονίσει ακόμα',
-    'LBL_FIELD_MAPPING' => 'Χαρτογράφηση πεδίου',
-    'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Δεν είναι δυνατή η επιλογή των σχετικών Επαφών ως Προοπτικές',
+	'JS_CALENDAR_VIEW_ADDED_SUCCESSFULLY' => 'Προστέθηκε επιτυχώς η προβολή Ημερολογίου',
+	'JS_CALENDAR_VIEW_COLOR_UPDATED_SUCCESSFULLY' => 'Η αλλαγή χρώματος του Ηεμρολογίου ενημερώθηκε επιτυχώς',
+	'JS_CALENDAR_VIEW_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την προβολή Ημερολογίου;',
+	'JS_CALENDAR_VIEW_DELETED_SUCCESSFULLY' => 'H προβολή ημερολογίου διαγράφηκε επιτυχώς',
+	'JS_EDIT_CALENDAR' => 'Επεξεργασία ημερολογίου',
     'JS_FUTURE_EVENT_CANNOT_BE_HELD' => 'Δεν μπορεί να θεωρηθεί Ολοκληρωμένο στο μέλλον',
-	
-	//Calendar view label translation
+	'JS_NO_CALENDAR_VIEWS_TO_ADD' => 'Καμία προβολή Ημερολογίου για προσθήκη',
+	'LBL_CANT_SELECT_CONTACT_FROM_LEADS' => 'Δεν είναι δυνατή η επιλογή των σχετικών Επαφών ως Προοπτικές',
+	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Η Εργασία έχει προστεθεί επιτυχώς στο Ημερολόγιό σας',
+	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Συμβάντος/Εργασίας',
 	'LBL_MONTH' => 'Μήνας',
 	'LBL_TODAY' => 'Σήμερα',
 	'LBL_DAY' => 'Ημέρα',
 	'LBL_WEEK' => 'Εβδομάδα',
-	
 	'LBL_SUNDAY' => 'Κυριακή',
 	'LBL_MONDAY' => 'Δευτέρα',
 	'LBL_TUESDAY' => 'Τρίτη',
@@ -134,7 +119,6 @@ $jsLanguageStrings = array(
 	'LBL_THURSDAY' => 'Πέμπτη',
 	'LBL_FRIDAY' => 'Παρασκευή',
 	'LBL_SATURDAY' => 'Σάββατο',
-	
 	'LBL_SUN' => 'Κυρ',
 	'LBL_MON' => 'Δευ',
 	'LBL_TUE' => 'Τρι',
@@ -142,7 +126,6 @@ $jsLanguageStrings = array(
 	'LBL_THU' => 'Πεμ',
 	'LBL_FRI' => 'Παρ',
 	'LBL_SAT' => 'Σαβ',
-	
 	'LBL_JANUARY' => 'Ιανουάριος',
 	'LBL_FEBRUARY' => 'Φεβρουάριος',
 	'LBL_MARCH' => 'Μάρτιος',
@@ -155,7 +138,6 @@ $jsLanguageStrings = array(
 	'LBL_OCTOBER' => 'Οκτώβριος',
 	'LBL_NOVEMBER' => 'Νοέμβριος',
 	'LBL_DECEMBER' => 'Δεκέμβριος',
-	
 	'LBL_JAN' => 'Ιαν',
 	'LBL_FEB' => 'Φεβ',
 	'LBL_MAR' => 'Μαρ',
@@ -168,7 +150,6 @@ $jsLanguageStrings = array(
 	'LBL_OCT' => 'Οκτ',
 	'LBL_NOV' => 'Νοέ',
 	'LBL_DEC' => 'Δεκ',
-	
 	'LBL_ALL_DAY' => 'Ολοήμερο',
-	//End
+	'Mobile Call' => 'Κλήση Κινητού τηλ.',
 );

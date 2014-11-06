@@ -17,7 +17,7 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'SINGLE_Emails' => 'Email',
+	'Date & Time Sent' => 'Ημερομ. και Ώρα Αποστολής',	
 	'Emails' => 'Emails',
 	'LBL_SELECT_EMAIL_IDS' => 'Επιλογή Διευθύνσεων Email',
 	'LBL_SUBJECT' => 'Θέμα',
@@ -27,7 +27,11 @@ $languageStrings = array(
 	'LBL_SAVE_AS_DRAFT' => 'Αποθήκευση ως πρόχειρο',
 	'LBL_GO_TO_PREVIEW' => 'Πηγαίνετε στην Προεπισκόπηση',
 	'LBL_SELECT_EMAIL_TEMPLATE' => 'Επιλέξτε Πρότυπο Email',
-	'LBL_COMPOSE_EMAIL' => 'Συντάξτε Email',
+	'LBL_MAIL_DATE'  => 'Ημερομ. Email',	
+	'LBL_COMPOSE_EMAIL' => 'Συντάξη Email',
+	'LBL_DRAFT'=>'Πρόχειρο',	
+	'LBL_ATTACHED'=>'Συνημμένο',	
+	'LBL_EMAIL_INFORMATION' => 'Πληροφορίες Email',	
 	'LBL_TO' => 'Προς',
  	'LBL_CC' => 'Cc',
    	'LBL_BCC' => 'Bcc',
@@ -35,8 +39,6 @@ $languageStrings = array(
    	'LBL_ADD_BCC' => 'Προσθήκη Bcc',
 	'LBL_MAX_UPLOAD_SIZE' => 'Μέγιστο μέγεθος αρχείου αποστολής',
 	'LBL_EXCEEDED' => 'Υπερέβη',
-	
-	//Button Names translation
 	'LBL_FORWARD' => 'Προώθηση',
 	'LBL_PRINT' => 'Εκτύπωση',
 	'LBL_DESCRIPTION' => 'Περιγραφή',
@@ -45,6 +47,6 @@ $languageStrings = array(
 	'LBL_DRAFTED_ON' => 'Πρόχειρο απο τις',
 	'LBL_SENT_ON' => 'Απεστάλη στις',
 	'LBL_OWNER' => 'Ιδιοκτήτης',
-	
-	'Date & Time Sent' => 'Ημερομ. και Ώρα Αποστολής',
+	'SINGLE_Emails' => 'Email',
+	'Time Start' => 'Time Sent',
 );

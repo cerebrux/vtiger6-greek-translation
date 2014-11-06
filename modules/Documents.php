@@ -17,18 +17,13 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'SINGLE_Documents' => 'Αρχείο',
 	'Documents' => 'Αρχεία',
 	'LBL_ADD_RECORD' => 'Προσθήκη εγγράφου',
 	'LBL_RECORDS_LIST' => 'Λίστα εγγράφων',
-
-	// Blocks
 	'LBL_NOTE_INFORMATION' => 'Βασικές πληροφορίες',
 	'LBL_FILE_INFORMATION' => 'Πληροφορίες αρχείου',
 	'LBL_DESCRIPTION' => 'Περιγραφή',
-
-	//Field Labels
 	'Title' => 'Τίτλος',
 	'File Name' => 'Όνομα αρχείου',
 	'Note' => 'Σημείωση',
@@ -41,21 +36,13 @@ $languageStrings = array(
 	'Folder Name' => 'Όνομα φακέλου',
 	'Document No' => 'Αρ. αρχείου',
 	'Last Modified By' => 'Τελευταία τροποποίηση',
-
-	//Folder
 	'LBL_FOLDER_HAS_DOCUMENTS' => 'Παρακαλώ μετακινήστε τα αρχεία από το φάκελο πριν τη διαγραφή',
-
-	//DetailView Actions
 	'LBL_DOWNLOAD_FILE' => 'Λήψη αρχείου',
 	'LBL_CHECK_FILE_INTEGRITY' => 'Έλεγχος ακεραιότητας αρχείου',
 	'LBL_EMAIL_FILE_AS_ATTACHMENT' => 'Αποστολή αρχείου με email ως συνημμένο',
-
-	//EditView
 	'LBL_INTERNAL' => 'Εσωτερικό',
 	'LBL_EXTERNAL' => 'Εξωτερικό',
 	'LBL_MAX_UPLOAD_SIZE' => 'Μέγεθος μέγεθος αρχείου',
-
-	//ListView Actions
 	'LBL_MOVE' => 'Μετακίνηση',
 	'LBL_ADD_FOLDER' => 'Προσθήκη φακέλου',
 	'LBL_FOLDERS_LIST' => 'Λίστα φακέλων',
@@ -63,21 +50,16 @@ $languageStrings = array(
 	'LBL_DOCUMENTS_MOVED_SUCCESSFULLY' => 'Τα αρχεία μετακινήθηκαν με επιτυχία',
 	'LBL_DENIED_DOCUMENTS' => 'Η μετακίνηση απέτυχε',
 	'MB' => 'MB',
-
 	'LBL_ADD_NEW_FOLDER' => 'Προσθήκη φακέλου',
 	'LBL_FOLDER_NAME' => 'Όνομα φακέλου',
 	'LBL_FOLDER_DESCRIPTION' => 'Περιγραφή φακέλου',
-
-	//Check file integrity messages
 	'LBL_FILE_AVAILABLE' => 'Το αρχείο είναι διαθέσιμο για λήψη',
 	'LBL_FILE_NOT_AVAILABLE' => 'Το αρχείο δεν είναι διαθέσιμο για λήψη',
 );
 
 $jsLanguageStrings = array(
-	'JS_EXCEEDS_MAX_UPLOAD_SIZE' => 'Το μέγεθος του αρχείου ξεπερνά το μέγιστο επιτρεπτό',
 	'JS_NEW_FOLDER' => 'Νέος φάκελος',
 	'JS_MOVE_DOCUMENTS' => 'Μετακίνησε τα αρχεία',
-	//Move documents confirmation message
 	'JS_ARE_YOU_SURE_YOU_WANT_TO_MOVE_DOCUMENTS_TO' => 'Είστε σίγουροι ότι θέλετε να μετακινήσετε τα αρχεία στον',
 	'JS_FOLDER' => 'φάκελο',
 	'JS_OPERATION_DENIED' => 'Μη επιτρεπτή λειτουργία',

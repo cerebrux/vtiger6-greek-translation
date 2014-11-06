@@ -17,20 +17,15 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'Contacts' => 'Επαφές',
 	'SINGLE_Contacts' => 'Επαφή',
 	'LBL_ADD_RECORD' => 'Νέα Επαφή',
 	'LBL_RECORDS_LIST' => 'Λίστα Επαφών',
-
-	// Blocks
 	'LBL_CONTACT_INFORMATION' => 'Βασικές Πληροφορίες',
 	'LBL_CUSTOMER_PORTAL_INFORMATION' => 'Πληροφ. Δικτυακής Πύλης Πελάτη',
 	'LBL_IMAGE_INFORMATION' => 'Εικόνα του Προφίλ',
 	'LBL_COPY_OTHER_ADDRESS' => 'Αντιγραφή Άλλης Δ/νσης',
 	'LBL_COPY_MAILING_ADDRESS' => 'Αντιγραφή Δ/νσης Αλληλογραφίας',
-
-	//Field Labels
 	'Office Phone' => 'Τηλ. Γραφείου',
 	'Home Phone' => 'Τηλ. Οικίας',
 	'Title' => 'Τίτλος',
@@ -53,12 +48,15 @@ $languageStrings = array(
 	'Other State' => 'Άλλος Νομός',
 	'Other Zip' => 'Άλλος Τ.Κ.',
 	'Other Country' => 'Άλλη Χώρα',
-	'Other PO Box' => 'Άλλη Ταχ. Θυρ.',
+	'Other Pο Box' => 'Άλλη Ταχ. Θυρ.',
 	'Contact Image' => 'Φωτογραφία Επαφής',
 	'Other Phone' => 'Άλλο Τηλ.',
 	'Email' => 'Email',
 	'Secondary Email' => 'Άλλο Email',
+	'Support End Date'   => 'Support End Date',
+    'Support Start Date' => 'Support Start Date',
 	'Contact Id' => 'Id Επαφής',
+	'User List'=>Λίστα χρηστών',
 	
 	//Added for Picklist Values
 	'Mr.'=>'Κος.',
@@ -66,13 +64,7 @@ $languageStrings = array(
 	'Mrs.'=>'Κα.',
 	'Dr.'=>'Δρ.',
 	'Prof.'=>'Καθ.',
-	
-	'User List'=>'Λίστα Χρηστών',
 );
 
 $jsLanguageStrings = array(
-        'LBL_SYNC_BUTTON' => 'Συγχρόνισε τώρα',
-        'LBL_SYNCRONIZING' => 'Συγχρονισμός....',
-        'LBL_NOT_SYNCRONIZED' => 'Δεν Έχετε Συγχρονίσει Ακόμα',
-        'LBL_FIELD_MAPPING' => 'Χαρτογράφηση Πεδίου'
- );
+);
