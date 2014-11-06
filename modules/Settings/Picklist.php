@@ -17,6 +17,7 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
+	'Calendar' => 'Προς εκτέλεση',	
 	'LBL_SELECT_PICKLIST_IN' => 'Επιλέξτε Λίστα Επιλογών σε',
 	'LBL_ADD_VALUE' => 'Προσθήκη Τιμής',
 	'LBL_RENAME_VALUE' => 'Μετονομασία Τιμής',
@@ -48,8 +49,8 @@ $languageStrings = array(
     'NO_PICKLIST_FIELDS'=> 'δεν έχουν κανένα πεδίο λίστας επιλογών',
 	'LBL_NON_EDITABLE_PICKLIST_VALUES' => 'Μη επεξεργάσιμες Τιμές',
 );
+
 $jsLanguageStrings = array(
-	//PickList 
 	'JS_ITEM_RENAMED_SUCCESSFULLY' => 'Αντικείμενο Μετονομάστηκε με επιτυχία',
 	'JS_ITEM_ADDED_SUCCESSFULLY' => 'Αντικείμενο προστέθηκε με επιτυχία',
 	'JS_NO_ITEM_SELECTED' => 'Κανένα Αντικείμενο δεν επιλέχθηκε',
