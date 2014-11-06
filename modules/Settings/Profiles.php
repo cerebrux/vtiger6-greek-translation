@@ -17,7 +17,6 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'Profiles' => 'Προφίλ χρηστών',
 	'SINGLE_Profiles' => 'Προφίλ',
 	'LBL_ADD_RECORD' => 'Προσθήκη προφίλ',
@@ -33,25 +32,30 @@ $languageStrings = array(
 	'LBL_EDIT_RECORD' => 'Επεξεργασία',
 	'LBL_DUPLICATE_RECORD' => 'Αντιγραφή',
 	'LBL_DELETE_RECORD' => 'Διαγραφή',
-	
 	'LBL_VIEW_PRVILIGE' => 'Προβολή',
 	'LBL_EDIT_PRVILIGE' => 'Δημιουργία/Επεξεργασία',
 	'LBL_DELETE_PRVILIGE' => 'Διαγραφή',
 	'LBL_INIVISIBLE' => 'Μη ορατό',
 	'LBL_READ_ONLY' => 'Μόνο ανάγνωση',
 	'LBL_WRITE' => 'Εγγραφή',
-	
 	'LBL_DELETE_PROFILE' => 'Διαγραφή προφίλ',
 	'LBL_TRANSFER_ROLES_TO_PROFILE' => 'Μεταφορά ρόλων στο προφίλ',
 	'LBL_PROFILES' => 'Προφίλ',
 	'LBL_CHOOSE_PROFILES' => 'Επιλογή προφίλ',
-    
     'LBL_VIEW_ALL' => 'Προβολή όλων',
     'LBL_EDIT_ALL' => 'Επεξεργασία όλων',
     'LBL_VIEW_ALL_DESC' => 'Προβολή όλων των ενοτήτων',
     'LBL_EDIT_ALL_DESC' => 'Επεξεργασία όλων των ενοτήτων',
     'LBL_DUPLICATES_EXIST' => 'Υπάρχει ήδη προφίλ με το όνομα αυτό',
 	
+	'Import' => 'Εισαγωγή',
+        'Export' => 'Εξαγωγή',
+	'Merge'  => 'Συγχώνευση',
+        'ConvertLead' => 'Μετατροπή προοπτικής',
+        'DuplicatesHandling' => 'Διαχείρηση Διπλότυπων',
+        'ReceiveIncomingCalls' => 'Λήψη εισερχόμενων κλήσεων',
+        'MakeOutgoingCalls' => 'Κάντε Εξερχόμενες κλήσεις',
+        'Print' => 'Εκτύπωση',
 );
 
 $jsLanguageStrings = array(

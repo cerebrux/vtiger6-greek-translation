@@ -17,7 +17,6 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'Roles' => 'Ρόλοι',
 	'SINGLE_Roles' => 'Ρόλος',
 	'LBL_ADD_RECORD' => 'Προσθήκη Ρόλου',
@@ -28,8 +27,6 @@ $languageStrings = array(
 	'LBL_ASSIGN_ROLE' => 'Αρμοδιότητες Ρόλου',
 	'LBL_CHOOSE_PROFILES' => 'Επιλέξτε Προφίλ',
 	'LBL_COPY_PRIVILEGES_FROM' => 'Αντιγραφή Προνομίων από',
-	
-	//Edit View
 	'LBL_PROFILE' => 'Προφίλ',
 	'LBL_REPORTS_TO' => 'Αναφέρετε σε/στον',
 	'LBL_NAME' => 'Όνομα',
@@ -37,8 +34,6 @@ $languageStrings = array(
 	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'Ανάθεση Προνομίων από υπάρχων Προφίλ',
 	'LBL_PRIVILEGES' => 'Προνόμια',
 	'LBL_DUPLICATES_EXIST' => 'Διπλότυπο Υπάρχοντες Ρόλοι',
-	
-	//Assign Records to
 	'LBL_CAN_ASSIGN_RECORDS_TO' => 'Μπορούν να ανατεθούν καταγραφές σε/στον',
 	'LBL_ALL_USERS' => 'Όλοι οι Χρήστες',
 	'LBL_USERS_WITH_LOWER_LEVEL' => 'Χρήστες με Υφιστάμενο Ρόλου',
