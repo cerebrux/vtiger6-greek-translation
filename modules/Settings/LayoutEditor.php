@@ -17,7 +17,7 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Calendar' => 'To Do',
+	'Calendar' => 'Προς εκτέλεση',
 	'Checkbox' => 'Κουτάκι ελέγχου',
 	'Currency'=>'Νόμισμα',
 	'Date'=>'Ημερομηνία',
