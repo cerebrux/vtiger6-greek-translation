@@ -17,19 +17,12 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'Accounts' => 'Οργανισμοί',
 	'SINGLE_Accounts' => 'Οργανισμός',
 	'LBL_ADD_RECORD' => 'Προσθήκη Οργανισμού',
 	'LBL_RECORDS_LIST' => 'Λίστα Οργανισμών',
-
-	// Blocks
 	'LBL_ACCOUNT_INFORMATION' => 'Λεπτομέρειες Οργανισμού',
-
-	// Mass Action
 	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Ιεραρχία Οργανισμού',
-
-	//Field Labels
 	'industry' => 'Βιομηχανία',
 	'Account Name' => 'Όνομα Οργανισμού',
 	'Account No' => 'Αριθμός Οργανισμού',
@@ -43,9 +36,6 @@ $languageStrings = array(
 	'Other Phone' => 'Δευτερεύων Τηλ',
 	'Phone' => 'Τηλέφωνο',
 	'Email' => 'Email',
-	
-	//Added for existing picklist entries
-	
 	'Analyst'=>'Αναλυτής',
 	'Competitor'=>'Ανταγωνιστής',
 	'Customer'=>'Πελάτης',
@@ -56,8 +46,6 @@ $languageStrings = array(
 	'Reseller'=>'Μεταπωλητής',
 	'LBL_START_DATE' => 'Ημερομηνία Έναρξης',
 	'LBL_END_DATE' => 'Ημερομηνία Λήξης',
-	
-	//Duplication error message
 	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Οργάνωσης υπάρχει ήδη',
 	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης αποστολής',
 	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης χρέωσης',
