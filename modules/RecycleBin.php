@@ -24,9 +24,11 @@ $languageStrings = array(
 	'LBL_NO_PERMITTED_MODULES'     => 'Δεν επιτρέπονται διαθέσιμα Αρθρώματα', 
 	'LBL_RECORDS_LIST'             => 'Λίστα Κάδου Ανακύκλωσης', 
 	'LBL_NO_RECORDS_FOUND'         => 'Δεν βρέθηκαν εγγραφές επαναφοράς στα Αρθρώματα', 
-	'Recycle Bin' => 'Κάδος Ανακύκλωσης',
 );
+
 $jsLanguageStrings = array(
 	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε οριστικά όλα τα διαγραμμένα αρχεία από τη βάση δεδομένων σας?', 
 	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να επαναφέρετε τα αρχεία?', 
 );
+
+?>
