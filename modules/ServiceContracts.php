@@ -1,5 +1,4 @@
 <?php
-
 /* +***********************************************************************************
  * The contents of this file are subject to the vtiger CRM Public License Version 1.0
  * ("License"); You may not use this file except in compliance with the License
@@ -18,16 +17,12 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'ServiceContracts' => 'Συμβάσεις Υπηρεσιών',
 	'Service Contracts' => 'Συμβάσεις Υπηρεσιών',
 	'SINGLE_ServiceContracts' => 'Σύμβαση Υπηρεσιών',
 	'LBL_ADD_RECORD' => 'Προσθήκη Σύμβαση Υπηρεσιών',
 	'LBL_RECORDS_LIST' => 'Κατάλογος Σύμβασης Υπηρεσιών',
-	// Blocks
 	'LBL_SERVICE_CONTRACT_INFORMATION' => 'Πληροφορίες Σύμβασης Υπηρεσιών',
-	
-	//Field Labels
 	'Contract No' => 'Αρ Σύμβασης',
 	'Start Date' => 'Ημερομηνία Έναρξης',
 	'End Date' => 'Ημερομηνία Λήξης',
