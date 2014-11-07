@@ -17,15 +17,10 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	
 	'Asterisk' => 'Asterisk',
 	'PBXManager' => 'Διαχειριστής PBX',
 	'SINGLE_PBXManager' => 'Διαχειριστής PBX',
-	
-	//Blocks
 	'LBL_CALL_INFORMATION' => 'Λεπτομέριες Κλήσης',
-	
-	//Field Labels
 	'Call From'=>'Κλήση Από',
 	'Call To'=>'Κλήση Πρός',
 	'Time Of Call'=>'Ώρα Κλήσης',

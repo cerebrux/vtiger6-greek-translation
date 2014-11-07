@@ -17,17 +17,12 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'Potentials' => 'Ευκαιρίες',
 	'SINGLE_Potentials' => 'Ευκαιρία',
 	'LBL_ADD_RECORD' => 'Προσθήκη Ευκαιρίας',
 	'LBL_RECORDS_LIST' => 'Λίστα Ευκαιριών',
-
-	// Blocks
 	'LBL_OPPORTUNITY_INFORMATION' => 'Πληροφορίες Ευκαιρίας',
-
-	//Field Labels
-	'Potential No' => 'Νούμερο Ευκαιρίας',
+	'Potential No' => 'Αρ. Ευκαιρίας',
 	'Amount' => 'Πιθανότητα',
 	'Next Step' => 'Επόμενο Στάδιο',
 	'Sales Stage' => 'Στάδιο Πώλησης',
@@ -36,16 +31,11 @@ $languageStrings = array(
 	'Forecast Amount' => 'Πρόβλεψη Πιθανοτήτων',
 	'Related To' => 'Όνομα Οργανισμού',
 	'Contact Name' => 'Όνομα Επαφής',
-	
-	//Dashboard widgets
 	'Funnel' => 'Πωλήσεις Τύπου ΄΄Χωνί΄΄',
 	'Potentials by Stage' => 'Ευκαιρίες ανά Στάδιο',
 	'Total Revenue' => 'Έσοδα ανά Πωλητή',
 	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
 	'Forecast' => 'Πρόγνωση Πωλήσεων',
-
-	//Added for Existing Picklist Strings
-
 	'Prospecting'=>'Προοπτική',
 	'Qualification'=>'Αξιολόγηση',
 	'Needs Analysis'=>'Απαιτεί Ανάλυση',
@@ -56,13 +46,10 @@ $languageStrings = array(
 	'Negotiation/Review'=>'Διαπραγμάτευση/Επιθεώρηση',
 	'Closed Won'=>'Έκλεισε Επιτυχώς',
 	'Closed Lost'=>'Έκλεισε Ανεπιτυχώς',
-
 	'--None--'=>'--Κανένα--',
 	'Existing Business'=>'Υφιστάμενη Επιχείρηση',
 	'New Business'=>'Νέα Επιχείρηση',
 	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Αναμένεται να κλείσει στις',
-
-	//widgets headers
 	'LBL_RELATED_CONTACTS' => 'Σχετικές Επαφές',
 	'LBL_RELATED_PRODUCTS' => 'Σχετικά Προϊόντα',
 );

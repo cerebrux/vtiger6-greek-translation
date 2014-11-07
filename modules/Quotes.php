@@ -17,33 +17,21 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	//DetailView Actions
 	'SINGLE_Quotes'=> 'Προσφορά', 
 	'LBL_EXPORT_TO_PDF'=> 'Εξαγωγή σε PDF', 
 	'LBL_SEND_MAIL_PDF'=> 'Αποστολή PDF με Email',
-
-	//Basic strings
 	'LBL_ADD_RECORD'=> 'Προσθήκη Προσφοράς', 
 	'LBL_RECORDS_LIST'=> 'Λίστα Προσφορών', 
-
-	// Blocks
 	'LBL_QUOTE_INFORMATION'=> 'Πληροφορίες Προσφοράς',
-	
-	//Field Labels
 	'Quote No'=> 'Αριθμός Προσφοράς', 
 	'Quote Stage'=> 'Στάδιο Προσφοράς', 
 	'Valid Till'=> 'Ισχύει Μέχρι', 
 	'Inventory Manager'=> 'Διαχείριση Αποθεμάτων', 
-	//Added for existing Picklist Entries
-
 	'Accepted'=> 'Αποδεκτό', 
 	'Rejected'=> 'Απορρίφθηκε', 
-	
-	//Translation for product not found
 	'LBL_THIS' => 'This',
 	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'διαγράφηκε από το σύστημα, παρακαλώ αφαιρέστε ή αντικαταστήστε αυτό το στοιχείο',
 	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο έχει διαγραφεί από το σύστημα, παρακαλούμε να αφαιρέσετε αυτό το στοιχείο',
-
 );
 
 $jsLanguageStrings = array(

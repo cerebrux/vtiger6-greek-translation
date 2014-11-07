@@ -17,25 +17,19 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'Products' => 'Προϊόντα',
 	'SINGLE_Products' => 'Προϊόν',
 	'LBL_ADD_RECORD' => 'Προσθήκη Προϊόντων',
 	'LBL_RECORDS_LIST' => 'Λίστα Προϊόντων',
-
-	// Blocks
 	'LBL_PRODUCT_INFORMATION' => 'Πληροφορίες Προϊόντος',
 	'LBL_IMAGE_INFORMATION' => 'Φωτογραφία Προϊόντος',
 	'LBL_STOCK_INFORMATION' => 'Πληροφορίες Αποθέματος',
-	
 	'LBL_MORE_CURRENCIES' => 'Περισσότερες Ισοτιμίες', 
 	'LBL_PRICES' => 'Τιμές Προϊόντων',
 	'LBL_PRICE' => 'Τιμή',
 	'LBL_RESET_PRICE' => 'Επαναφορά Τιμής',
 	'LBL_RESET' => 'Επαναφορά',
 	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στον Τιμοκατάλογο',
-
-	//Field Labels
 	'Product No' => 'Αρ. Προϊόντος',
 	'Part Number' => 'Κωδικός Παρτίδας',
 	'Product Active' => 'Ενεργό Προϊόν',
@@ -59,15 +53,10 @@ $languageStrings = array(
 	'Unit Price'=>'Τιμή Μονάδος',
 	'Commission Rate'=>'Ποσοστό Προμήθειας',
 	'Qty/Unit'=>'Ποσότητα/Μονάδα',
-	
-	//Added for existing picklist entries
-
 	'--None--'=>'--Κανένα--',
-
 	'Hardware'=>'Υλικό',
 	'Software'=>'Λογισμικό',
 	'CRM Applications'=>'CRM Εφαρμογές',
-
 	'300-Sales-Software'=>'300-Πωλήσεις-Λογισμικό',
 	'301-Sales-Hardware'=>'301-Πωλήσεις-Υλικό',
 	'302-Rental-Income'=>'302-Μίσθωση-Έσοδα',
@@ -77,7 +66,6 @@ $languageStrings = array(
 	'306-Internet Sales'=>'306-Internet Πωλήσεις',
 	'307-Service-Hardware Labor'=>'307-Υποστήριξη- Εργασία Υλικού',
 	'308-Sales-Books'=>'308-Πωλήσεις-Βιβλία',
-
 	'Box'=>'Κιβώτιο',
 	'Carton'=>'Χαρτοκιβώτια',
 	'Caton'=>'Caton',
@@ -94,7 +82,6 @@ $languageStrings = array(
 	'Sheet'=>'Κατάλογοι',
 	'Spiral Binder'=>'Σπιράλ',
 	'Sq Ft'=>'Τ.Μ',
-	
 	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στους Τιμοκαταλόγους',
 	'LBL_CONVERSION_RATE' => 'Ποσοστό Μετατροπής',
 	'LBL_NOT_A_BUNDLE' => 'Δεν είναι Δεσμίδα',

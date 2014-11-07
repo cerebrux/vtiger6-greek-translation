@@ -17,17 +17,12 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
-	'HelpDesk' => 'Αιτήματα', // Το ticket ουσιαστικά είναι αίτημα που κάνει ο πελάτης η ο εργαζόμενος για κάποιο πρόβλημα η ζήτημα που πρέπει να επιλυθεί απο το Τμήμα Υποστήριξης 
+	'HelpDesk' => 'Αιτήματα',
 	'SINGLE_HelpDesk' => 'Αίτημα',
 	'LBL_ADD_RECORD' => 'Προσθήκη Αιτήματος',
 	'LBL_RECORDS_LIST' => 'Λίστα Αιτημάτων',
-
-	// Blocks
 	'LBL_TICKET_INFORMATION' => 'Πληροφορίες Αιτημάτων',
 	'LBL_TICKET_RESOLUTION' => 'Επίλυση Αιτήματος',
-
-	//Field Labels
 	'Ticket No' => 'Αρ. Αιτήματος',
 	'Severity' => 'Σοβαρότητα',
 	'Update History' => 'Ενημέρωση Ιστορικού',
@@ -38,31 +33,23 @@ $languageStrings = array(
 	'From Portal' => 'Από την Δικτυακή Πύλη',
 	'Related To' => 'Όνομα Οργανισμού',
 	'Contact Name' => 'Όνομα Επαφής',
-	//Added for existing picklist entries
-
 	'Big Problem'=>'Μεγάλο Πρόβλημα',
 	'Small Problem'=>'Μικρό Πρόβλημα',
 	'Other Problem'=>'Άλλο είδος Προβλήματος',
-
 	'Normal'=>'Κανονικό',
 	'High'=>'Υψηλό',
 	'Urgent'=>'Επείγον',
-
 	'Minor'=>'Ελάσσων',
 	'Major'=>'Μείζον',
 	'Feature'=>'Δυνατότητα',
 	'Critical'=>'Κρίσιμο',
-
-	'Open'=>'Ενεργό', // υπο την έννοια  οτι το αίτημα είναι ακόμα ανοιχτό-ενεργό και δεν έχει επιμεληθεί 
+	'Open'=>'Ενεργό', 
 	'Wait For Response'=>'Αναμονή για Απάντηση',
 	'Closed'=>'Έκλεισε',
 	'LBL_STATUS' => 'Κατάσταση Αιτήματος',
 	'LBL_SEVERITY' => 'Σοβαρότητα',
-	//DetailView Actions
-	'LBL_CONVERT_FAQ' => 'Μετατροπή σε FAQ', // το FAQ είναι διεθνώς αναγνωρίσιμος όρος του Συχνές Ερωτήσεις και δεν χρειάζεται να μεταφραστεί 
+	'LBL_CONVERT_FAQ' => 'Μετατροπή σε FAQ',
 	'LBL_RELATED_TO' => 'Σχετίζεται με',
-
-	//added to support i18n in ticket mails
 	'Ticket ID'=>'ID Αιτήματος',
 	'Hi' => 'Γεια σας',
 	'Dear'=> 'Αγαπητέ/η',
@@ -82,9 +69,7 @@ $languageStrings = array(
 	'The comments are' => 'Τα Σχόλια είναι',
 	'Ticket Title' => 'Τίτλος Αιτήματος',
 	'Re' => 'Απάντηση :', 
-
-	//This label for customerportal.
-	'LBL_STATUS_CLOSED' =>'Closed',//Μην το μεταφράζετε !!! Do not convert this label. This is used to check the status. If the status 'Closed' is changed in vtigerCRM server side then you have to change in customerportal language file also.
+	'LBL_STATUS_CLOSED' =>'Closed',// Do not convert this label. This is used to check the status. If the status 'Closed' is changed in vtigerCRM server side then you have to change in customerportal language file also.
 	'LBL_STATUS_UPDATE' => 'Η Κατάσταση Αιτήματος ενημερώθηκε ως',
 	'LBL_COULDNOT_CLOSED' => 'Το Αίτημα ήταν αδύνατον να κλειστεί',
 	'LBL_CUSTOMER_COMMENTS' => 'Η Πελάτης παρείχε τις παρακάτω επιπλέον πληροφορίες στην απάντησή σας:',

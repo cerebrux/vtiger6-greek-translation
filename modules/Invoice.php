@@ -17,19 +17,12 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	//DetailView Actions
 	'SINGLE_Invoice' => 'Τιμολόγιο',
 	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε PDF',
     'LBL_SEND_MAIL_PDF' => 'Αποστολή Email με PDF',
-
-	//Basic strings
 	'LBL_ADD_RECORD' => 'Προσθήκη Τιμολογίου',
 	'LBL_RECORDS_LIST' => 'Λίστα Τιμολογίων',
-
-	// Blocks
 	'LBL_INVOICE_INFORMATION' => 'Λεπτομέρειες Τιμολογίων',
-
-	//Field labels
 	'Sales Order' => 'Πωλήσεις',
 	'Customer No' => 'Αρ. Πελάτη',
 	'Invoice Date' => 'Ημερομηνία Τιμολογίου',
@@ -38,15 +31,11 @@ $languageStrings = array(
 	'Invoice No' => 'Αρ. Τιμολογίου',
 	'LBL_RECEIVED' => 'Ελήφθη',
 	'LBL_BALANCE' => 'Υπόλοιπο',
-	//Added for existing Picklist Entries
-
 	'Sent'=>'Απεστάλλει',
 	'Credit Invoice'=>'Πιστωτικό Τιμολόγιο',
 	'Paid'=>'Πληρωμένο',
 	'AutoCreated'=>'αυτοδημιουργήθηκε',
 	'Cancel' => 'Ακύρωση',
-	
-	//Translation for product not found
 	'LBL_THIS' => 'Αυτό',
 	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'διεγράφη από το σύστημα. παρακαλούμε να αφαιρέσετε ή να αντικαταστήσετε αυτό το στοιχείο',
 	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο γραμμής έχει διαγραφεί από το σύστημα, παρακαλούμε να καταργήσετε αυτό στοιχεία γραμμής',

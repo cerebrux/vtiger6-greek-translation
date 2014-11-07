@@ -20,7 +20,6 @@
 /* NOTE: Should be inline with Calendar language translation but few variations */
 
 $languageStrings = array(
-	// Basic Strings
 	'Events' => 'Γεγονότα',
 	'SINGLE_Events' => 'Γεγονός',
 	'LBL_ADD_RECORD' => 'Προσθήκη Γεγονότος',
@@ -28,13 +27,9 @@ $languageStrings = array(
 	'LBL_EVENTS' => 'Γεγονότα',
 	'LBL_TODOS' => 'Προς Εκτέλεση',
 	'LBL_HOLD_FOLLOWUP_ON' => 'Ενημέρωση Αναβληθέντων Ενεργή',
-	
-	// Blocks
 	'LBL_EVENT_INFORMATION' => 'Πληροφορίες Γεγονότων',
 	'LBL_RECURRENCE_INFORMATION' => 'Επανεμφάνιση Πληροφοριών',
     'LBL_RELATED_TO' => 'Σχετίζετε με',
-	
-	//Fields
 	'Start Date & Time'=>'Ημ.Έναρξης',
 	'Recurrence' => 'Επανεμφάνιση',
 	'Send Notification' => 'Αποστολή Ειδοποίησης',
@@ -44,33 +39,21 @@ $languageStrings = array(
 	'Activity Type'=>'Τύπος Δραστηριότητας',
 	'Visibility' => 'Ορατότητα',
 	'Recurrence' => 'Επανάληψη',
-	
-	//Visibility picklist values
 	'Private' => 'Ιδιωτικό',
 	'Public' => 'Δημόσιο',
-	
-	//Activity Type picklist values
 	'Call' => 'Τηλεφώνημα',
 	'Meeting' => 'Ραντεβού',
-	
-	//Status picklist values
 	'Planned' => 'Προγραμματισμένο',
 	'Held' => 'Πραγματοποιήθηκε',
 	'Not Held' => 'Δεν πραγματοποιήθηκε',
-	
-	//Reminder Labels
 	'LBL_DAYS' => 'Ημέρες',
 	'LBL_HOURS' => 'Ώρες',
-	
-	//Repeat Labels
 	'LBL_DAYS_TYPE' => 'Ημέρα/ες',
 	'LBL_WEEKS_TYPE' => 'Εβδομάδα/ες',
 	'LBL_MONTHS_TYPE' => 'Μήνας/ες',
 	'LBL_YEAR_TYPE' => 'Έτος',
-	
 	'LBL_FIRST' => 'Πρώτο',
 	'LBL_LAST' => 'Δεύτερο',
-	
 	'LBL_SM_SUN' => 'Κυρ',
 	'LBL_SM_MON' => 'Δευ',
 	'LBL_SM_TUE' => 'Τρι',
@@ -78,7 +61,6 @@ $languageStrings = array(
 	'LBL_SM_THU' => 'Πεμ',
 	'LBL_SM_FRI' => 'Παρ',
 	'LBL_SM_SAT' => 'Σαβ',
-	
 	'LBL_DAY0' => 'Κυριακή',
 	'LBL_DAY1' => 'Δεύτερα',
 	'LBL_DAY2' => 'Τρίτη',
@@ -86,22 +68,17 @@ $languageStrings = array(
 	'LBL_DAY4' => 'Πέμπτη',
 	'LBL_DAY5' => 'Παρασκευή',
 	'LBL_DAY6' => 'Σάββατο',
-	
 	'Daily'=>'Ημέρα/ες',
 	'Weekly'=>'Εβδομάδα/ες',
 	'Monthly'=>'Μήνας/ες',
 	'Yearly'=>'Έτος',
-	
 	'LBL_REPEATEVENT' => 'Επανάληψη κάθε φόρα που',
 	'LBL_UNTIL' => 'Μέχρι',
 	'LBL_DAY_OF_THE_MONTH' => 'Ημέρα του Μήνα',
 	'LBL_ON' => 'Ενεργό',
-	
 	'LBL_RECORDS_LIST' => 'Λίστα',
 	'LBL_CALENDAR_VIEW' => 'Ημερολόγιο',
-
     'LBL_INVITE_USER_BLOCK' => 'Πρόσκληση',
     'LBL_INVITE_USERS' => 'Πρόσκληση Χρηστών',
 	'INVITATION'=>' Πρόσκληση ',
-
 );

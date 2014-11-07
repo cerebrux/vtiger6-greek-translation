@@ -17,27 +17,19 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
+	'Answer'=>'Απάντηση',	
+	'Comments'=>'Σχόλια',
+	'Draft'=>'Πρόχειρο',
 	'Faq' => 'Συχνές Ερωτήσεις (FAQ)',
+	'General'=>'Γενικά',
 	'SINGLE_Faq' => 'FAQ',
 	'LBL_RECORDS_LIST' => 'Λίστα FAQ ',
 	'LBL_ADD_RECORD' => 'Προσθήκη FAQ',
-	
-	//Blocks
 	'LBL_FAQ_INFORMATION' => 'Πληροφορίες FAQ',
 	'LBL_COMMENT_INFORMATION' => 'Σχόλια',
-	
-	//Fields
 	'Question'=>'Ερώτηση',
-	'Answer'=>'Απάντηση',
-	'Comments'=>'Σχόλια',
 	'Faq No' => 'Αριθμός FAQ',
-	
-	//Added for existing Picklist Entries
-	'General'=>'Γενικά',
-	'Draft'=>'Πρόχειρο',
 	'Published'=>'Δημοσιεύθηκε',
 	'Obsolete'=>'Παρωχημένο',
-
-	//EditView
 	'LBL_SOLUTION' => 'Λύση',
 );

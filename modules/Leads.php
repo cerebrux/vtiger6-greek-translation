@@ -17,16 +17,11 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'Leads' => 'Προοπτικές',
 	'SINGLE_Leads' => 'Προοπτική',
 	'LBL_RECORDS_LIST' => 'Λίστα προοπτικών',
 	'LBL_ADD_RECORD' => 'Προσθήκη προοπτικής',
-
-	// Blocks
 	'LBL_LEAD_INFORMATION' => 'Πληροφορίες προοπτικής',
-
-	//Field Labels
 	'Lead No' => 'Αριθμός προοπτικής',
 	'Company' => 'Εταιρία',
 	'Designation' => 'Ονομασία προέλευσης ',
@@ -37,17 +32,12 @@ $languageStrings = array(
 	'Phone' => 'Τηλέφωνο',
 	'Secondary Email' => 'Δευτερεύον Email',
 	'Email' => 'Πρωτεύον Email',
-
-	//Added for Existing Picklist Entries
-
 	'--None--'=>'--Κενό--',
 	'Mr.'=>'Κ.',
 	'Ms.'=>'Δς.',
 	'Mrs.'=>'Κα.',
 	'Dr.'=>'Δρ.',
 	'Prof.'=>'Καθ.',
-
-	//Lead Status Picklist values
 	'Attempted to Contact'=>'Προσπάθεια επικοινωνίας',
 	'Cold'=>'Κρύο',
 	'Contact in Future'=>'Επικοινωνία στο μέλλον',
@@ -59,11 +49,7 @@ $languageStrings = array(
 	'Pre Qualified'=>'Προεπιλεγμένη',
 	'Qualified'=>'Πιστοποιημένη',
 	'Warm'=>'Ζεστή',
-
-	// Mass Action
 	'LBL_CONVERT_LEAD' => 'Μετατροπή προοπτικής',
-
-	//Convert Lead
 	'LBL_TRANSFER_RELATED_RECORD' => 'Μεταφορά σχετικών εγγραφών σε',
 	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε τους Οργανισμούς ή τις Επαφές για να μετατρέψετε την προοπτική',
 	'LBL_CONVERT_LEAD_ERROR_TITLE' => 'Οι ενότητες δεν είναι ενεργές',
@@ -72,11 +58,10 @@ $languageStrings = array(
 	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Η αντιστοίχιση των πεδίων είναι ημιτελής (Ρυθμίσεις > Διαχειριστής ενοτήτων > Προοπτικές > Αντιστοίχιση πεδίων προοπτικών)',
 	'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Τα υποχρεωτικά πεδία είναι κενά',
 	'LBL_LEADS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων προοπτικών',
-
-	//Leads Custom Field Mapping
 	'LBL_CUSTOM_FIELD_MAPPING'=> 'Τροποποίηση αντιστοίχισης πεδίων',
 	'LBL_WEBFORMS' => 'Εγκατάσταση δικτυακής φόρμας',
 );
+
 $jsLanguageStrings = array(
 	'JS_SELECT_CONTACTS' => 'Επιλογή επαφών για συνέχιση',
 	'JS_SELECT_ORGANIZATION' => 'Επιλογή οργανισμών για συνέχιση',
