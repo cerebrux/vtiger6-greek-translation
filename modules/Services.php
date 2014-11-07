@@ -17,25 +17,17 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'Services' => 'Υπηρεσίες',
 	'SINGLE_Services' => 'Υπηρεσία',
 	'LBL_ADD_RECORD' => 'Προσθήκη Υπηρεσίας',
 	'LBL_RECORDS_LIST' => 'Λίστα Υπηρεσιών',
-
-	// Blocks
 	'LBL_SERVICE_INFORMATION' => 'Λεπτομέρειες Υπηρεσίας',
-	
 	'LBL_MORE_CURRENCIES' => 'περισσότερα συναλλάγματα', 
 	'LBL_PRICES' => 'Τιμές Υπηρεσιών',
 	'LBL_PRICE' => 'Τιμή',
 	'LBL_RESET_PRICE' => 'Επαναφορά Τιμής',
 	'LBL_RESET' => 'Επαναφορά',
-	
-	//Services popup of pricebook
 	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στον Τιμοκατάλογο',
-
-	//Field Labels
 	'Service Name'=>'Όνομα Υπηρεσίας',
 	'Service Active'=>'Ενεργό',
 	'Service Category'=>'Κατηγορία',
@@ -47,7 +39,4 @@ $languageStrings = array(
 	'Usage Unit'=>'Μονάδα Χρήσης',
 	'Tax Class'=>'Κλάση Φόρου',
 	'Website'=>'Ιστοσελίδα',
-	
-	//Services popup of pricebook
-	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στον Τιμοκατάλογο',
 );
