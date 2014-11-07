@@ -17,26 +17,18 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	// Basic Strings
 	'Vendors' => 'Προμηθευτές',
 	'SINGLE_Vendors' => 'Προμηθευτής',
 	'LBL_ADD_RECORD' => 'Προσθήκη Προμηθευτή',
 	'LBL_RECORDS_LIST' => 'Λίστα Προμηθευτών',
-
-	// Blocks
 	'LBL_VENDOR_INFORMATION' => 'Πληροφορίες Προμηθευτή',
 	'LBL_VENDOR_ADDRESS_INFORMATION' => 'Πληροφορίες Διεύθυνσης',
-	
-	//Field Labels
 	'Vendor Name' => 'Όνομα Προμηθευτή',
 	'Vendor No' => 'Αρ. Προμηθευτή',
 	'Website' => 'Ιστοσελίδα',
 	'GL Account' => 'Λογαριασμός Γεν. Λογιστικής',
 	'Phone' => 'Τηλέφωνο',
 	'Email' => 'Email',
-	
-	//Added for existing Picklist entries
-
 	'300-Sales-Software'=>'300-Πωλήσεις-Software',
 	'301-Sales-Hardware'=>'301-Πωλήσεις-Hardware',
 	'302-Rental-Income'=>'302-Έσοδα-Ενοίκια',

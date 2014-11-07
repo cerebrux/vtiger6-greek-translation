@@ -17,9 +17,23 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
+	'Summary' => 'Συνοπτική',
+	'Detail' => 'Λεπτομέρης',
+	'LBL_USER_LIST_DETAILS' => 'Λεπτομέρειες',
+	'LBL_OLD_PASSWORD' => 'Παλίος Κωδικός',
+	'LBL_CHANGE_PASSWORD' => 'Αλλαγή Κωδικού',
+	'LBL_NEW_PASSWORD' => 'Νέος Κωδικός',
+	'LBL_CONFIRM_PASSWORD' => 'Επιβεβαίωση Κωδικού',
+	'LBL_TO_CRM' => 'Σύνδεση στο Vtiger CRM',
+	'LBL_INVALID_USER_OR_PASSWORD' => 'Μη Έγκυρο ΄Ονομα η Κωδικός Χρήστη.',
+	'LBL_INVALID_USER_OR_EMAIL' => 'Μη Έγκυρο Όνομα Χρήστη η Ηλεκτρονική Διευθυνσή.',
+	'LBL_EMAIL_SEND' => 'Σάς Έχουμε Αποστείλει Email για την Ανάκτηση του Κωδικόυ Πρόσβασης σας.',
+	'ForgotPassword' => 'Ξεχάσατε τον Κωδικό σας',
+	'LBL_CONNECT_WITH_US' => 'Επικοινωνήστε Μαζί μας',
+	'LBL_GET_MORE' => 'Αποκτήστε περισσότερα από το Vtiger',
+	'LBL_TRANSFER_RECORDS_TO_USER' => 'Μεταφορά εγγραφών στον Χρήστη',
+	'LBL_USER_TO_BE_DELETED' => 'Ο Χρήστης Πρόκειται να Διαγραφεί',	
 	'LBL_ADD_RECORD' => 'Προσθήκη Χρήστη',
-
-	//MyPreference Blocks
 	'LBL_MY_PREFERENCES'  =>  'Οι Προτιμήσεις Μου',
 	'LBL_MORE_INFORMATION'  =>  'Περισσότερες Πληροφορίες',
 	'LBL_USERLOGIN_ROLE'  =>  'Όνομα Χρήστη και Ρόλος',
@@ -30,8 +44,6 @@ $languageStrings = array(
 	'Asterisk Configuration'  =>  'Διαμόρφωση Αστερίσκου',
 	'LBL_HOME_PAGE_COMPONENTS' => 'Στοιχεία Αρχικής Σελίδας',
 	'LBL_TAG_CLOUD_DISPLAY' => 'Εμφάνιση Ετικετοσύννεφο', // Tag Cloud - Συννεφάκι με λέξεις κλειδιά
-
-	//MyPreference Fields
 	'Role' => 'Ρόλος',
 	'Admin' => 'Διαχειριστής',
 	'User Name' => 'Όνομα Χρήστη',
@@ -181,30 +193,11 @@ $languageStrings = array(
     'Pacific/Auckland'  =>  '(UTC+12:00) Auckland',
     'Asia/Magadan'  =>  '(UTC+12:00) Magadan',
     'Pacific/Tongatapu'  =>  '(UTC+13:00) Nukualofa',
-
-	'Summary' => 'Συνοπτική',
-	'Detail' => 'Λεπτομέρης',
-	'LBL_USER_LIST_DETAILS' => 'Λεπτομέρειες',
-	
-	'LBL_OLD_PASSWORD' => 'Παλίος Κωδικός',
-	'LBL_CHANGE_PASSWORD' => 'Αλλαγή Κωδικού',
-	'LBL_NEW_PASSWORD' => 'Νέος Κωδικός',
-	'LBL_CONFIRM_PASSWORD' => 'Επιβεβαίωση Κωδικού',
-	
-	//Login strings
-	'LBL_TO_CRM' => 'Σύνδεση στο Vtiger CRM',
-	'LBL_INVALID_USER_OR_PASSWORD' => 'Μη Έγκυρο ΄Ονομα η Κωδικός Χρήστη.',
-	'LBL_INVALID_USER_OR_EMAIL' => 'Μη Έγκυρο Όνομα Χρήστη η Ηλεκτρονική Διευθυνσή.',
-	'LBL_EMAIL_SEND' => 'Σάς Έχουμε Αποστείλει Email για την Ανάκτηση του Κωδικόυ Πρόσβασης σας.',
-	'ForgotPassword' => 'Ξεχάσατε τον Κωδικό σας',
-	'LBL_CONNECT_WITH_US' => 'Επικοινωνήστε Μαζί μας',
-	'LBL_GET_MORE' => 'Αποκτήστε περισσότερα από το Vtiger',
-	
-	'LBL_TRANSFER_RECORDS_TO_USER' => 'Μεταφορά εγγραφών στον Χρήστη',
-	'LBL_USER_TO_BE_DELETED' => 'Ο Χρήστης Πρόκειται να Διαγραφεί',
 );
 
 $jsLanguageStrings = array(
+	//Curency seperator validation messages
+	'JS_DECIMAL_SEPERATOR_AND_GROUPING_SEPERATOR_CANT_BE_SAME' => 'To Δεκαδικό διαχωριστικό και το διαχωριστικό Ομαδοποίησης δεν μπορούν να είναι ίδια',
 	'JS_ENTER_OLD_PASSWORD'=>'Παρακαλώ Εισάγετε τον Παλίο σας Κωδικό Πρόσβασης.',
 	'JS_ENTER_NEW_PASSWORD'=>'Παρακαλώ Πληκτρολογήστε τον Νέο σας Κωδικό Πρόσβασης.',
 	'JS_ENTER_CONFIRMATION_PASSWORD'=>'Παρακαλώ Εισάγετε τον Κωδικό Επιβεβαίωσης.',
