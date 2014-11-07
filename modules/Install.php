@@ -74,7 +74,7 @@ $languageStrings = array(
 	'MSG_DB_ROOT_USER_NOT_AUTHORIZED' => 'Μήνυμα: ο Root χρήστης της βάση δεδομένων που έχετε ορίσει, δεν έχει άδεια για να δημιουργήσει τη βάση δεδομένων ή το όνομα βάσης δεδομένων έχει ειδικούς χαρακτήρες. Δοκιμάστε να αλλάξετε τις ρυθμίσεις της βάσης δεδομένων',
 	'MSG_DB_USER_NOT_AUTHORIZED' => 'ο συγκεκριμένος χρήστης της βάσης δεδομένων δεν έχει πρόσβαση για να συνδεθείτε στο διακομιστή της βάσης δεδομένων από τον κεντρικό υπολογιστή',
 	'MSG_LIST_REASONS' => 'Αυτό μπορεί να οφείλεται στους εξής λόγους',
-	    'LBL_MYSQLI_CONNECT_SUPPORT'=>'mysqli support',
-        'LBL_OPEN_SSL'=>'openssl support',
-        'LBL_CURL'=>'cURL support',
+	    'LBL_MYSQLI_CONNECT_SUPPORT'=>'υποστήριξη για mysqli',
+        'LBL_OPEN_SSL'=>'υποστήριξη για openssl',
+        'LBL_CURL'=>'υποστήριξη για cURL',
 );
