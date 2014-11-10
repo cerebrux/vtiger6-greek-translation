@@ -24,7 +24,7 @@ Vtiger6 Ελληνική Μετάφραση
 Εγκατάσταση
 ------------
 
-Για το vTiger 6.1.0 η μετάφραση είναι διαθέσιμη μέσα απο το marketplace του vTiger (https://marketplace.vtiger.com) [7]
+Για το vTiger 6.1.0 η μετάφραση είναι διαθέσιμη μέσα απο το marketplace του vTiger [https://marketplace.vtiger.com] [7]
 
 Εάν έχετε την έκδοση vTiger 6.0.0 ακολουθήστε τα παρακάτω βήματα:
 
