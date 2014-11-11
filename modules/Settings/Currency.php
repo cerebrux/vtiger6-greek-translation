@@ -17,19 +17,19 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_NEW_CURRENCY' => 'Προσθήκη νέας ισοτιμίας',	
+	'LBL_ADD_NEW_CURRENCY' => 'Προσθήκη νέας ισοτιμίας', 
 	'LBL_ADD_RECORD' => 'Προσθήκη ισοτιμίας',
-	'LBL_EDIT_CURRENCY' => 'Τροποποίηση ισοτιμίας',
-	'LBL_CURRENCY_NAME' => 'Τίτλος ισοτιμίας',
-	'LBL_CURRENCY_CODE' => 'Κωδικός ισοτιμίας',
-	'LBL_CURRENCY_SYMBOL' => 'Σύμβολο',
 	'LBL_CONVERSION_RATE' => 'Ρυθμός μετατροπής',
-	'LBL_ENTER_CONVERSION_RATE' => 'Εισαγωγή ρυθμού μετατροπής',
+	'LBL_CURRENCY_CODE' => 'Κωδικός ισοτιμίας',
+	'LBL_CURRENCY_NAME' => 'Τίτλος ισοτιμίας',
 	'LBL_CURRENCY_STATUS_DESC' => 'Ενεργοποίηση ισοτιμίας',
-	'LBL_TRANSFER_CURRENCY' => 'Μεταφορά ισοτιμίας',
+	'LBL_CURRENCY_SYMBOL' => 'Σύμβολο',
 	'LBL_CURRENT_CURRENCY' => 'Ισοτιμία',
-    
-		//currency names
+	'LBL_EDIT_CURRENCY' => 'Τροποποίηση ισοτιμίας',
+	'LBL_ENTER_CONVERSION_RATE' => 'Εισαγωγή ρυθμού μετατροπής',
+	'LBL_TRANSFER_CURRENCY' => 'Μεταφορά ισοτιμίας',
+	
+	//currency names
 	'Afghanistan, Afghanis' => 'Afghanistan, Afghanis',
 	'Albania, Leke' 		=> 'Albania, Leke',
 	'Argentina, Pesos' 		=> 'Argentina, Pesos',
