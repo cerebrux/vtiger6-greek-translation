@@ -18,7 +18,7 @@
  *************************************************************************************/
 $languageStrings = array(
 	'LBL_IMPORT_MODULE_FROM_FILE' => 'Εισαγωγή Αρθρώματος απο Αρχείο',
-	'LBL_VTIGER_EXTENSION_STORE' => 'Vtiger App Store', // Αφήνουμε αμετάφραστο λόγο Ονομασίας
+	'LBL_VTIGER_EXTENSION_STORE' => 'Κατάστημα επεκτάσεων Vtiger',
 	'LBL_PUBLISHER' => 'Εκδότης',
 	'LBL_LICENSE' => 'Άδεια',
 	'LBL_PUBLISHED_ON' => 'Εκδόθηκε στις',
@@ -27,7 +27,6 @@ $languageStrings = array(
 	'LBL_VERSION' => 'Έκδοση',
 	'LBL_DECLINE' => 'Άρνηση',
 	'LBL_ACCEPT_AND_INSTALL' => 'Αποδοχή και Εγκατάσταση',
-	'LBL_ALREADY_EXISTS' => 'Ήδη υπάρχει',
 	'LBL_OK' => 'OK',
 	'LBL_EXTENSION_NOT_COMPATABLE' => 'Η επέκταση δεν είναι συμβατή με το Vtiger',
 	'LBL_INVALID_FILE' => 'Μη έγκυρο Αρχείο',
@@ -46,14 +45,33 @@ $languageStrings = array(
 	'LBL_VERSION_NOT_SUPPORTED' => 'Η έκδοση του Αρθρώματος δεν είναι συμβατή με την έκδοση του Vtiger',
 	'LBL_FINISH' => 'Τέλος',
 	'LBL_IMPORT_ZIP' => 'Εγκατάσταση από αρχείο',
-	'LBL_IMPORT_MODULE' => 'Εγκατάσταση απο Vtiger',
-	'LBL_NOT_FOUND' => "Συγνώμη, καμία επέκταση δεν είναι διαθέσιμη για την έκδοση του CRM που διαθέτετε",
-	'LBL_INVALID_IMPORT_TRY_AGAIN' => ' παρέχεται απο την εισαγωγή του αρθρώματος! Δοκιμάστε Ξανά.',
+	'LBL_INVALID_IMPORT_TRY_AGAIN' => ' παρέχεται για εισαγωγή αρθρώματος! Δοκιμάστε ξανά.',
 	'LBL_IMPORTED_MODULE' => ' το άρθρωμα εισήχθη επιτυχώς.',
-	'LBL__IMPORTING_MODULE' => 'Εισαγωγή Αρθρώματος',
+	'LBL__IMPORTING_MODULE' => 'Εισαγωγή Αρθρώματος',	
+ 		'LBL_EXTENSION_STORE' => 'Κατάστημα επεκτάσεων',
+        'LBL_ACCEPT_WITH_THE_DISCLAIMER' => 'Δέχομαι με ευθύνη και θα ήθελα να προχωρήσει',
+        'LBL_INSTALL_FROM_ZIP' => 'Εγκατάσταση μέσω ZIP αρχείου',
 	
 	'LBL_UPDATE_MODULE_FROM_FILE' => 'Ενημέρωση Αρθρώματος από το Αρχείο',
 	'LBL_UPDATED_MODULE' => ' το άρθρωμα ενημερώθηκε επιτυχώς.',
 	'LBL__UPDATING_MODULE' => 'Ενημέρωση Αρθρώματος',
-	
+		'LBL_PHP_EXTENSION_LOADER_IS_NOT_AVAIABLE' => 'Παρακαλείσθε να εγκαταστήσετε το φορτωτή επεκτάσεων',
+        'LBL_IMPORT_MODULE_FROM_ZIP' => 'Εισαγωγή μέσω ZIP αρχείου',
+        'LBL_UPDATE_NOW' => 'Ενημέρωση Τώρα',
+        'LBL_IMPORT_NOW' => 'Εισαγωγή Τώρα',
+        'LBL_DISCLAIMER_FOR_IMPORT_FROM_ZIP' => '<b> Αποποίηση Ευθυνών - Τα προσαρμοσμένα αρχεία θα μπορούσαν να θέσουν το CRM σας σε κίνδυνο</b> <br>  
+                                                 Αυτή η λειτουργία έχει διατεθεί για τους προγραμματιστές να δοκιμάσουν νέα αρθρώματα.
+                                                    Αν κάνετε την εγκατάσταση από ένα αρχείο που παρέχεται απο εξωτερικό πάροχο, παρακαλούμε να προχωρήσετε μόνο εάν εμπιστεύεστε τον εκδότη του αρχείου. Τα προσαρμοσμένα αρθρώματα θα μπορούσαν να εκμεταλλευτούν τα τρωτά σημεία της ασφάλειας και να αντικαταστήσουν τα αρχεία του συστήματος σας και βάζοντας σε κίνδυνο το  CRM σας. Το άρθρωμα που πρόκειται να εγκαταστήσετε δεν έχει επιθεωρηθεί από την Vtiger.',
+);
+$jsLanguageStrings = array(
+  'JS_ON' => 'στο',
+  'JS_PLEASE_INSTALL_EXTENSION_LOADER_TO_INSTALL_THIS_EXTENSION_FROM_BELOW_LINK' => 'Παρακαλώ εγκαταστήστε τον φορτωτή επέκτασης για την εγκατάσταση αυτής της επέκτασης από τον παρακάτω σύνδεσμο',
+  'JS_EXTENSION_STORE_IS_NOT_SUPPOTED_WOULD_YOU_LIKE_TO_INSTALL' => 'Η επέκταση αυτή δεν υποστηρίζεται επίσημα, Θέλετε να την εγκαταστήσετε;',
+  'JS_PHP_EXTENSION_LOADER_NOT_INSTALLED' => 'Ο φορτωτής επέκτασης PHP δεν είναι εγκατεστημένος',
+  'JS_CLICK_HERE' => 'Κάντε κλικ εδω ',
+  'JS_FOR_INSTALLATION' => 'για εγκατάσταση',
+  'JS_IMPORT_SUCCESSFULL' => 'Η εισαγωγή ήταν επιτυχής',
+  'JS_IMPORTED_MODULE' => ' το άρθρωμα εισήχθη με επιτυχία.',
+  'JS_UPDATE_SUCCESSFULL' => 'Ενημέρωση επιτυχής',
+  'JS_UPDATED_MODULE' => 'μονάδα ενημερώθηκε με επιτυχία',
 );
