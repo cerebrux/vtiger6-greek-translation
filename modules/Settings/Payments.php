@@ -23,6 +23,6 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
+	'JS_DELETED_SUCCESSFULLY' => 'Διεγραφή Επιτυχής'	
 	'JS_SAVED_SUCCESSFULLY' => 'Επιτυχής Αποθήκευση',
-	'JS_DELETED_SUCCESSFULLY' => 'Διεγραφή Επιτυχής'
 );	
