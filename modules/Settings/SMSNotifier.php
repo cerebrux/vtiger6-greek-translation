@@ -17,19 +17,19 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Νέα Διαμόρφωση',
-	'SMSNotifier' => 'Διαμόρφωση Παρόχου SMS',
+	'isactive' => 'Ενεργό',
 	'LBL_ADD_CONFIGURATION' => 'Νέα Διαμόρφωση',
+	'LBL_ADD_RECORD' => 'Νέα Διαμόρφωση',
 	'LBL_EDIT_CONFIGURATION' => 'Επεξεργασία Διαμόρφωσης',
 	'LBL_SELECT_ONE' => 'Επιλογή Ενός',
-	'providertype' => 'Πάροχος',
-	'isactive' => 'Ενεργό',
-	'username' => 'Όνομα Χρήστη',
 	'password' => 'Κωδικός',
+	'providertype' => 'Πάροχος',
+	'SMSNotifier' => 'Διαμόρφωση Παρόχου SMS',
+	'username' => 'Όνομα Χρήστη',
 );
 
 $jsLanguageStrings = array(
-	'LBL_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την Διαμόρφωση του SMSNotifier',
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Ο Πάροχος SMS διαγράφτηκε επιτυχώς',
 	'JS_CONFIGURATION_SAVED' => 'Η Διαμόρφωση του Παρόχου SMS αποθηκεύτηκαν',
-);
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Ο Πάροχος SMS διαγράφτηκε επιτυχώς',
+	'LBL_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την Διαμόρφωση του SMSNotifier',
+);  
