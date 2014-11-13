@@ -17,17 +17,16 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_SEND_SMS_TO_SELECTED_NUMBERS' => 'SMS',
-	'LBL_STEP_1'                   => 'Βήμα 1',
-	'LBL_STEP_2'                   => 'Βήμα 2',
+	'LBL_ADD_MORE_FIELDS' => 'Προσθέστε περισσότερα πεδία',
+	'LBL_CHECK_STATUS' => 'Ελέγξτε την κατάσταση',
 	'LBL_SELECT_THE_PHONE_NUMBER_FIELDS_TO_SEND' => 'Επιλέξτε τα πεδία αριθμών τηλεφώνου για την αποστολή',
-	'LBL_TYPE_THE_MESSAGE'         => 'Πληκτρολογήστε το μήνυμα',
-	'LBL_WRITE_YOUR_MESSAGE_HERE'  => 'γράψτε το μήνυμα σας εδώ',
-	'LBL_ADD_MORE_FIELDS'          => 'Προσθέστε περισσότερα πεδία',
-	'LBL_SERVER_CONFIG'           => 'Ρύθμιση παραμέτρων διακομιστή',
-	'LBL_CHECK_STATUS'             => 'Ελέγξτε την κατάσταση',
-	'message'                      => 'Μήνυμα',
-	'LBL_SMSNOTIFIER_INFORMATION'  => 'Πληροφορίες SMS',
-	'SINGLE_SMSNotifier'           => 'Ειδοποίηση SMS', 
-	'SMSNotifier' => 'Ειδοποίηση SMS', //added by mstavrou for menu SMSNotifier
+	'LBL_SEND_SMS_TO_SELECTED_NUMBERS' => 'Στείλτε SMS στους επιλεγμένους αριθμούς',
+	'LBL_SERVER_CONFIG' => 'Ρύθμιση παραμέτρων διακομιστή',
+	'LBL_SMSNOTIFIER_INFORMATION' => 'Πληροφορίες SMS',
+	'LBL_STEP_1' => 'Βήμα 1',
+	'LBL_STEP_2' => 'Βήμα 2',
+	'LBL_TYPE_THE_MESSAGE' => 'Πληκτρολογήστε το μήνυμα',
+	'LBL_WRITE_YOUR_MESSAGE_HERE' => 'γράψτε το μήνυμα σας εδώ',
+	'message' => 'Μήνυμα',
+	'SINGLE_SMSNotifier' => 'Ειδοποίηση SMS',
 );
