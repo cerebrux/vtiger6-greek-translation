@@ -18,11 +18,11 @@
  *************************************************************************************/
 $languageStrings = array(
 	'Asterisk' => 'Asterisk',
-	'PBXManager' => 'Διαχειριστής PBX',
-	'SINGLE_PBXManager' => 'Διαχειριστής PBX',
-	'LBL_CALL_INFORMATION' => 'Λεπτομέριες Κλήσης',
 	'Call From'=>'Κλήση Από',
 	'Call To'=>'Κλήση Πρός',
-	'Time Of Call'=>'Ώρα Κλήσης',
+	'LBL_CALL_INFORMATION' => 'Λεπτομέριες Κλήσης',
 	'PBXManager ID'=>'ID Διαχειριστή PBX',
+	'PBXManager' => 'Διαχειριστής PBX',
+	'SINGLE_PBXManager' => 'Διαχειριστής PBX',
+	'Time Of Call'=>'Ώρα Κλήσης',
 );
