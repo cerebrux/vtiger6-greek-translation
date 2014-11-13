@@ -34,7 +34,7 @@ $languageStrings = array(
 	'Read Only' => 'Ανάγνωση μόνο',
 	'Read Write' => 'Ανάγνωση/Εγγραφή',
 	'SINGLE_Groups' => 'Ομάδα',
-	'SINGLE_RoleAndSubordinates' => 'RoleAndSubordinate', // Μεταβλητή; Δεν μεταφράζεται;
+	'SINGLE_RoleAndSubordinates' => 'RoleAndSubordinate',
 	'SINGLE_Roles' => 'Ρόλος',
 );
 
