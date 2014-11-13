@@ -17,18 +17,19 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'RecycleBin'                   => 'Κάδος Ανακύκλωσης',
-	'LBL_SELECT_MODULE'            => 'Επιλογή Αρθρώματος', 
-	'LBL_EMPTY_RECYCLEBIN'         => 'Άδειος Κάδος Ανακύκλωσης', 
-	'LBL_RESTORE'                  => 'Επαναφορά',
-	'LBL_NO_PERMITTED_MODULES'     => 'Δεν επιτρέπονται διαθέσιμα Αρθρώματα', 
-	'LBL_RECORDS_LIST'             => 'Λίστα Κάδου Ανακύκλωσης', 
-	'LBL_NO_RECORDS_FOUND'         => 'Δεν βρέθηκαν εγγραφές επαναφοράς στα Αρθρώματα', 
+	'LBL_EMPTY_RECYCLEBIN' => 'Άδειος Κάδος Ανακύκλωσης', 
+	'LBL_NO_PERMITTED_MODULES' => 'Κανένα απο τα επιτρεπόμενα Αρθρώματα δεν είναι διαθέσιμα', 
+	'LBL_NO_RECORDS_FOUND' => 'Δεν βρέθηκαν εγγραφές για επαναφορά στο Αρθρώμα', 
+	'LBL_RECORDS_LIST' => 'Λίστα Κάδου Ανακύκλωσης', 
+	'LBL_RESTORE' => 'Επαναφορά',
+	'LBL_SELECT_MODULE' => 'Επιλογή Αρθρώματος', 
+	'RecycleBin' => 'Κάδος Ανακύκλωσης', 
 );
 
 $jsLanguageStrings = array(
-	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε οριστικά όλα τα διαγραμμένα αρχεία από τη βάση δεδομένων σας?', 
-	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να επαναφέρετε τα αρχεία?', 
+	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να επαναφέρετε τις εγγραφές;',
+	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε οριστικά όλες τις διαγραμμένες εγγραφές από τη βάση δεδομένων σας;',
+	'JS_RESTORING_RECORDS' => 'Επαναφορά εγγραφών',
 );
 
 ?>
