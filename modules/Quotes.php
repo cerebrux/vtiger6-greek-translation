@@ -17,21 +17,21 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'SINGLE_Quotes'=> 'Προσφορά', 
-	'LBL_EXPORT_TO_PDF'=> 'Εξαγωγή σε PDF', 
-	'LBL_SEND_MAIL_PDF'=> 'Αποστολή PDF με Email',
-	'LBL_ADD_RECORD'=> 'Προσθήκη Προσφοράς', 
-	'LBL_RECORDS_LIST'=> 'Λίστα Προσφορών', 
-	'LBL_QUOTE_INFORMATION'=> 'Πληροφορίες Προσφοράς',
-	'Quote No'=> 'Αριθμός Προσφοράς', 
-	'Quote Stage'=> 'Στάδιο Προσφοράς', 
-	'Valid Till'=> 'Ισχύει Μέχρι', 
-	'Inventory Manager'=> 'Διαχείριση Αποθεμάτων', 
-	'Accepted'=> 'Αποδεκτό', 
-	'Rejected'=> 'Απορρίφθηκε', 
-	'LBL_THIS' => 'This',
+	'Accepted'=> 'Αποδεκτό',
+	'Inventory Manager'=> 'Διαχείριση Αποθεμάτων',
+	'LBL_ADD_RECORD'=> 'Προσθήκη Προσφοράς',
+	'LBL_EXPORT_TO_PDF'=> 'Εξαγωγή σε PDF',
 	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'διαγράφηκε από το σύστημα, παρακαλώ αφαιρέστε ή αντικαταστήστε αυτό το στοιχείο',
+	'LBL_QUOTE_INFORMATION'=> 'Πληροφορίες Προσφοράς',
+	'LBL_RECORDS_LIST'=> 'Λίστα Προσφορών',
+	'LBL_SEND_MAIL_PDF'=> 'Αποστολή PDF με Email',
 	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο έχει διαγραφεί από το σύστημα, παρακαλούμε να αφαιρέσετε αυτό το στοιχείο',
+	'LBL_THIS' => 'Αυτό',
+	'Quote No'=> 'Αριθμός Προσφοράς',
+	'Quote Stage'=> 'Στάδιο Προσφοράς',
+	'Rejected'=> 'Απορρίφθηκε',
+	'SINGLE_Quotes'=> 'Προσφορά',
+	'Valid Till'=> 'Ισχύει Έως',
 );
 
 $jsLanguageStrings = array(
