@@ -56,7 +56,7 @@ $languageStrings = array(
 	'Support End Date' => 'Support End Date',
 	'Support Start Date' => 'Support Start Date',
 	'Title' => 'Τίτλος',
-	'User List'=>Λίστα χρηστών',
+	'User List'=>'Λίστα χρηστών',
 	
 	//Added for Picklist Values
 	'Dr.'=>'Δρ.',
