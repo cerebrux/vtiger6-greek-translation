@@ -19,10 +19,10 @@
  *************************************************************************************/
 
 $languageStrings = array(
-    'LBL_RIGHT_CLICK_COPY' => 'Δεξί κλικ και Αντιγραφή'
+    'LBL_RIGHT_CLICK_COPY' => 'Δεξί κλικ και Αντιγραφή',
 );
 
 $jsLanguageStrings = array(
-	'JS_DELETED_SUCCESSFULLY' => 'Διεγραφή Επιτυχής'	
+	'JS_DELETED_SUCCESSFULLY' => 'Διεγραφή Επιτυχής',
 	'JS_SAVED_SUCCESSFULLY' => 'Επιτυχής Αποθήκευση',
 );	
