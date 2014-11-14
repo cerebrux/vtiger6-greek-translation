@@ -37,6 +37,6 @@ $jsLanguageStrings = array(
 	'JS_DEPENDENCY_DELETED_SUEESSFULLY' => 'Η Εξάρτηση διαγράφηκε με επιτυχία',
 	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την εξάρτηση λίστας επιλογών;',
 	'JS_PICKLIST_DEPENDENCY_SAVED' => 'Αποθηκεύτηκε η Εξάρτηση Λίστας Επιλογών',
-	'JS_SELECT_SOME_VALUE' => 'Επιλέξτε κάποια τιμή'
+	'JS_SELECT_SOME_VALUE' => 'Επιλέξτε κάποια τιμή',
 	'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME' => 'Το πεδίο Πηγής και προορισμού δεν πρέπει αν είναι ίδιο',
 );
