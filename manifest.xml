@@ -6,7 +6,7 @@
   <prefix>el_gr</prefix>
   <version>6.2.0-2295</version>
   <dependencies>
-    <vtiger_version>6.*</vtiger_version>
+    <vtiger_version>6.2.0</vtiger_version>
 	<vtiger_max_version>6.*</vtiger_max_version>
   </dependencies>
   <license>
