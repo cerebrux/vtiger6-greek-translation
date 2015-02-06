@@ -17,13 +17,13 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Amount' => 'Πιθανότητα',
+	'Amount' => 'Ποσό',
 	'Campaign Source' => 'Πηγή Εκστρατείας',
 	'Closed Lost'=>'Έκλεισε Ανεπιτυχώς',
 	'Closed Won'=>'Έκλεισε Επιτυχώς',
 	'Contact Name' => 'Όνομα Επαφής',
 	'Existing Business'=>'Υφιστάμενη Επιχείρηση',
-	'Forecast Amount' => 'Πρόβλεψη Πιθανοτήτων',
+	'Forecast Amount' => 'Πρόγνωση Ποσού',
 	'Forecast' => 'Πρόγνωση Πωλήσεων',
 	'Funnel' => 'Πωλήσεις Τύπου ΄΄Χωνί΄΄',
 	'Id. Decision Makers'=>'Προσδιορισμός Υπευθύνων',
@@ -48,7 +48,7 @@ $languageStrings = array(
 	'Qualification'=>'Αξιολόγηση',
 	'Related To' => 'Όνομα Οργανισμού',
 	'Sales Stage' => 'Στάδιο Πώλησης',
-	'SINGLE_Potentials' => 'Ευκαιρία',
+	'SINGLE_Potentials' => 'Ευκαιρίαs',
 	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
 	'Total Revenue' => 'Έσοδα ανά Πωλητή',
 	'Value Proposition'=>'Πρόταση Εκτίμηση',
