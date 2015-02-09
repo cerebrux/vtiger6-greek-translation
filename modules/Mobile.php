@@ -16,7 +16,7 @@
  *  -- Dimitris Anagnostou
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
-$mod_strings = Array (
+$mod_strings = array (
 'Mobile' => 'Mobile',
 
 );

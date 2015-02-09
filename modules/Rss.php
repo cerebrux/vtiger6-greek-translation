@@ -17,7 +17,7 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  ************************************************************************************/
 
-$languageStrings = Array(
+$languageStrings = array(
     'LBL_ADD_FEED_SOURCE' => 'Προσθέστε ροές',
     'LBL_ENTER_FEED_SOURCE' => 'Προσθέστε πηγή ροών',
     'LBL_FEEDS_LIST_FROM' => 'Λίστα από ροή',

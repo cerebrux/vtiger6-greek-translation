@@ -17,7 +17,7 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 
-$languageStrings = Array (
+$languageStrings = array (
 	'MailManager' => 'Διαχείριση Email',
 	
 	// General translations
@@ -112,7 +112,7 @@ $languageStrings = Array (
 	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Πρόσθεσε σχόλιο ...'
 );
 
-$jsLanguageStrings = Array (
+$jsLanguageStrings = array (
 	'MailManager' => 'Διαχειριση email',
 	
 	// Translations for JS (please use the prefix JSLBL in key)
