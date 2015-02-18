@@ -17,16 +17,20 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Cron Job' => 'Εργασία',	
 	'CronTasks' => 'Προγραμματισμένες εργασίες',
-	'Frequency' => 'Συχνότητα',	
-	'Id' => 'Id',
-	'Last End' => 'Τελευταία λήξη',
+
+	//Basic Field Names
+	'Id' => 'Κωδ.',
+	'Cron Job' => 'Εργασία',
+	'Frequency' => 'Συχνότητα',
+	'Status' => 'Κατάσταση Πρ. Εργασίας',
 	'Last Start' => 'Τελευταία έναρξη',
-	'LBL_ACTIVE' => 'Ενεργή',
+	'Last End' => 'Τελευταία λήξη',
+	'Sequence' => 'Σειρά',
+
+	//Actions
 	'LBL_COMPLETED' => 'Ολοκληρώθηκε',
-	'LBL_INACTIVE' => 'Μη ενεργή',
 	'LBL_RUNNING' => 'Εκτελείται',
-	'Sequence' => 'Σειρά',	
-	'Status' => 'Κατάσταση Πρ. Εργασίας',	
+	'LBL_ACTIVE' => 'Ενεργή',
+	'LBL_INACTIVE' => 'Μη ενεργή',
 );

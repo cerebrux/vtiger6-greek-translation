@@ -20,17 +20,65 @@
 /* NOTE: Should be inline with Calendar language translation but few variations */
 
 $languageStrings = array(
-	'Activity Type'=>'Τύπος Δραστηριότητας',
-	'Busy' => 'Απασχολημένος',
-	'Call' => 'Τηλεφώνημα',
-	'Daily'=>'Ημέρα/ες',
-	'End Date & Time' => 'Ημερομηνία Περαίωσης',
+	// Basic Strings
 	'Events' => 'Γεγονότα',
-	'Held' => 'Πραγματοποιήθηκε',
-	'INVITATION'=>' Πρόσκληση ',
+	'SINGLE_Events' => 'Γεγονός',
 	'LBL_ADD_RECORD' => 'Προσθήκη Γεγονότος',
-	'LBL_CALENDAR_VIEW' => 'Ημερολόγιο',
-	'LBL_CREATE_FOLLOWUP_EVENT' => 'Δημιουργία Επαναληπτικού Συμβάντος',
+	'LBL_RECORDS_LIST' => 'Προβολή Λίστα',
+	'LBL_EVENTS' => 'Γεγονότα',
+	'LBL_TODOS' => 'Προς Εκτέλεση',
+	'LBL_HOLD_FOLLOWUP_ON' => 'Ενημέρωση Αναβληθέντων Ενεργή',
+	
+	// Blocks
+	'LBL_EVENT_INFORMATION' => 'Πληροφορίες Γεγονότων',
+	'LBL_RECURRENCE_INFORMATION' => 'Πληροφορίες Επανεμφάνισης',
+    'LBL_RELATED_TO' => 'Σχετίζετε με',
+	
+	//Fields
+	'Start Date & Time'=>'Ημ.Έναρξης',
+	'Recurrence' => 'Επανάληψη',
+	'Send Notification' => 'Αποστολή Ειδοποίησης',
+	'Location'=>'Τοποθεσία',
+	'Send Reminder' => 'Αποστολή Email πριν από',
+	'End Date & Time' => 'Ημερομηνία Περαίωσης',
+	'Activity Type'=>'Τύπος Δραστηριότητας',
+	'Visibility' => 'Ορατότητα',
+	'Recurrence' => 'Επανάληψη',
+	
+	//Visibility picklist values
+	'Private' => 'Ιδιωτικό',
+	'Public' => 'Δημόσιο',
+	
+	//Activity Type picklist values
+	'Call' => 'Τηλεφώνημα',
+	'Meeting' => 'Ραντεβού',
+	
+	//Status picklist values
+	'Planned' => 'Προγραμματισμένο',
+	'Held' => 'Πραγματοποιήθηκε',
+	'Not Held' => 'Δεν πραγματοποιήθηκε',
+	
+	//Reminder Labels
+	'LBL_DAYS' => 'Ημέρες',
+	'LBL_HOURS' => 'Ώρες',
+	
+	//Repeat Labels
+	'LBL_DAYS_TYPE' => 'Ημέρα/ες',
+	'LBL_WEEKS_TYPE' => 'Εβδομάδα/ες',
+	'LBL_MONTHS_TYPE' => 'Μήνας/ες',
+	'LBL_YEAR_TYPE' => 'Έτος',
+	
+	'LBL_FIRST' => 'Πρώτο',
+	'LBL_LAST' => 'Δεύτερο',
+	
+	'LBL_SM_SUN' => 'Κυρ',
+	'LBL_SM_MON' => 'Δευ',
+	'LBL_SM_TUE' => 'Τρι',
+	'LBL_SM_WED' => 'Τετ',
+	'LBL_SM_THU' => 'Πεμ',
+	'LBL_SM_FRI' => 'Παρ',
+	'LBL_SM_SAT' => 'Σαβ',
+	
 	'LBL_DAY0' => 'Κυριακή',
 	'LBL_DAY1' => 'Δεύτερα',
 	'LBL_DAY2' => 'Τρίτη',
@@ -38,47 +86,22 @@ $languageStrings = array(
 	'LBL_DAY4' => 'Πέμπτη',
 	'LBL_DAY5' => 'Παρασκευή',
 	'LBL_DAY6' => 'Σάββατο',
-	'LBL_DAY_OF_THE_MONTH' => 'Ημέρα του Μήνα',
-	'LBL_DAYS' => 'Ημέρες',
-	'LBL_DAYS_TYPE' => 'Ημέρα/ες',
-	'LBL_EVENT_INFORMATION' => 'Πληροφορίες Γεγονότων',
-	'LBL_EVENTS' => 'Γεγονότα',
-	'LBL_FIRST' => 'Πρώτο',
-	'LBL_HOLD_FOLLOWUP_ON' => 'Ενημέρωση Αναβληθέντων Ενεργή',
-	'LBL_HOURS' => 'Ώρες',
-	'LBL_INVITE_USER_BLOCK' => 'Πρόσκληση',
-	'LBL_INVITE_USERS' => 'Πρόσκληση Χρηστών',
-	'LBL_LAST' => 'Δεύτερο',
-	'LBL_MONTHS_TYPE' => 'Μήνας/ες',
-	'LBL_ON' => 'στις',
-	'LBL_RECORDS_LIST' => 'Προβολή Λίστα', //Duplicated key-value pair
-	'LBL_RECURRENCE_INFORMATION' => 'Πληροφορίες Επανεμφάνισης',
-	'LBL_RELATED_TO' => 'Σχετίζετε με',
-	'LBL_REPEATEVENT' => 'Επανάληψη κάθε',
-	'LBL_SM_FRI' => 'Παρ',
-	'LBL_SM_MON' => 'Δευ',
-	'LBL_SM_SAT' => 'Σαβ',
-	'LBL_SM_SUN' => 'Κυρ',
-	'LBL_SM_THU' => 'Πεμ',
-	'LBL_SM_TUE' => 'Τρι',
-	'LBL_SM_WED' => 'Τετ',
-	'LBL_TODOS' => 'Προς Εκτέλεση',
-	'LBL_UNTIL' => 'Μέχρι',
-	'LBL_WEEKS_TYPE' => 'Εβδομάδα/ες',
-	'LBL_YEAR_TYPE' => 'Έτος',
-	'Location'=>'Τοποθεσία',
-	'Meeting' => 'Ραντεβού',
-	'Monthly'=>'Μήνας/ες',
-	'Not Held' => 'Δεν πραγματοποιήθηκε',
-	'Planned' => 'Προγραμματισμένο',
-	'Private' => 'Ιδιωτικό',
-	'Public' => 'Δημόσιο',
-	'Recurrence' => 'Επανάληψη',  //Duplicated key-value pair
-	'Send Notification' => 'Αποστολή Ειδοποίησης',
-	'Send Reminder' => 'Αποστολή Email πριν από',
-	'SINGLE_Events' => 'Γεγονός',
-	'Start Date & Time'=>'Ημ.Έναρξης',
-	'Visibility' => 'Ορατότητα',
+	
+	'Daily'=>'Ημέρα/ες',
 	'Weekly'=>'Εβδομάδα/ες',
+	'Monthly'=>'Μήνας/ες',
 	'Yearly'=>'Έτος',
+	
+	'LBL_REPEATEVENT' => 'Επανάληψη κάθε',
+	'LBL_UNTIL' => 'Μέχρι',
+	'LBL_DAY_OF_THE_MONTH' => 'Ημέρα του Μήνα',
+	'LBL_ON' => 'στις',
+	
+	'LBL_RECORDS_LIST' => 'Προβολή Λίστα',
+	'LBL_CALENDAR_VIEW' => 'Ημερολόγιο',
+
+    'LBL_INVITE_USER_BLOCK' => 'Πρόσκληση',
+    'LBL_INVITE_USERS' => 'Πρόσκληση Χρηστών',
+	'INVITATION'=>' Πρόσκληση ',
+
 );

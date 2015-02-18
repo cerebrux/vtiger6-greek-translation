@@ -18,13 +18,16 @@
  *************************************************************************************/
 $languageStrings = array(
 	'LBL_ADD_RECORD' => 'Προσθέστε Πρότυπο Email',
-	'LBL_DESCRIPTION' => 'Περιγραφή',
-	'LBL_EMAIL_TEMPLATE' => 'Πρότυπο Email',
-	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Διαχείριση Προτύπων για το Άρθρωμα του Email',
+	'SINGLE_EmailTemplates' => 'Πρότυπο Email',
 	'LBL_EMAIL_TEMPLATES'=> 'Πρότυπα Email',
+	'LBL_EMAIL_TEMPLATE' => 'Πρότυπο Email',
+	
+	'LBL_TEMPLATE_NAME' => 'Όνομα Προτύπου',
+	'LBL_DESCRIPTION' => 'Περιγραφή',
+	'LBL_SUBJECT' => 'Θέμα',
 	'LBL_GENERAL_FIELDS' => 'Γενικά Πεδία',
 	'LBL_SELECT_FIELD_TYPE' => 'Επιλογή Τύπου Πεδίου',
-	'LBL_SUBJECT' => 'Θέμα',
-	'LBL_TEMPLATE_NAME' => 'Όνομα Προτύπου',
-	'SINGLE_EmailTemplates' => 'Πρότυπο Email',
+	
+	'LBL_EMAIL_TEMPLATE_DESCRIPTION'=>'Διαχείριση Προτύπων για το Άρθρωμα του Email',
+	
 );

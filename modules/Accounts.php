@@ -17,43 +17,55 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
+	// Basic Strings
+	'Accounts' => 'Οργανισμοί',
+	'SINGLE_Accounts' => 'Οργανισμός',
+	'LBL_ADD_RECORD' => 'Προσθήκη Οργανισμού',
+	'LBL_RECORDS_LIST' => 'Λίστα Οργανισμών',
+
+	// Blocks
+	'LBL_ACCOUNT_INFORMATION' => 'Λεπτομέρειες Οργανισμού',
+
+	// Mass Action
+	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Ιεραρχία Οργανισμού',
+
+	//Field Labels
+	'industry' => 'Βιομηχανία',
 	'Account Name' => 'Όνομα Οργανισμού',
 	'Account No' => 'Αριθμός Οργανισμού',
-	'Accounts' => 'Οργανισμοί',
+	'Website' => 'Ιστοσελίδα',
+	'Ticker Symbol' => 'Σύμβολο Μετοχής',
+	'Member Of' => 'Μέλος...',
+	'Employees' => 'Εργαζόμενοι',
+	'Ownership' => 'Κυριότητα',
+	'SIC Code' => 'ΑΦΜ',
+	'Other Email' => 'Δευτερεύων Email',
+	'Other Phone' => 'Δευτερεύων Τηλ',
+	'Phone' => 'Τηλέφωνο',
+	'Email' => 'Email',
+	
+	//Added for existing picklist entries
+	
 	'Analyst'=>'Αναλυτής',
 	'Competitor'=>'Ανταγωνιστής',
 	'Customer'=>'Πελάτης',
-	'Email' => 'Email',
-	'Employees' => 'Εργαζόμενοι',
-	'industry' => 'Βιομηχανία',
 	'Integrator'=>'Ενοποιητής',
 	'Investor'=>'Επενδυτής',
-	'LBL_ACCOUNT_INFORMATION' => 'Λεπτομέρειες Οργανισμού',
-	'LBL_ADD_RECORD' => 'Προσθήκη Οργανισμού',
-	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης χρέωσης',
-	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης αποστολής',
-	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Οργάνωσης υπάρχει ήδη',
-	'LBL_END_DATE' => 'Ημερομηνία Λήξης',
-	'LBL_RECORDS_LIST' => 'Λίστα Οργανισμών',
-	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Ιεραρχία Οργανισμού',
-	'LBL_START_DATE' => 'Ημερομηνία Έναρξης',
-	'Member Of' => 'Μέλος...',
-	'Other Email' => 'Δευτερεύων Email',
-	'Other Phone' => 'Δευτερεύων Τηλ',
-	'Ownership' => 'Κυριότητα',
-	'Phone' => 'Τηλέφωνο',
 	'Press'=>'Τύπος',
 	'Prospect'=>'Προοπτική',
 	'Reseller'=>'Μεταπωλητής',
-	'SIC Code' => 'ΑΦΜ',
-	'SINGLE_Accounts' => 'Οργανισμός',
-	'Ticker Symbol' => 'Σύμβολο Μετοχής',
-	'Website' => 'Ιστοσελίδα',
+	'LBL_START_DATE' => 'Ημερομηνία Έναρξης',
+	'LBL_END_DATE' => 'Ημερομηνία Λήξης',
+	
+	//Duplication error message
+	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Οργάνωσης υπάρχει ήδη',
+	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης αποστολής',
+	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης χρέωσης',
 );
 
 $jsLanguageStrings = array(
-	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Το όνομα του Οργανισμού υπάρχει ήδη. Θέλετε να δημιουργήσετε μια διπλότυπη εγγραφή;',
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε;',
 	'LBL_DELETE_CONFIRMATION' => 'Η διαγραφή αυτού του Οργανισμού θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε αυτόν τον Οργανισμό;',
 	'LBL_MASS_DELETE_CONFIRMATION' => 'Διαγραφή αυτού του Οργανισμού(ων) θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε τα επιλεγμένα στοιχεία;',
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε;',
+	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Το όνομα του Οργανισμού υπάρχει ήδη. Θέλετε να δημιουργήσετε μια διπλότυπη εγγραφή;',
 );

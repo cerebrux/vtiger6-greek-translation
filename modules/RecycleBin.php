@@ -27,9 +27,10 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να επαναφέρετε τις εγγραφές;',
 	'JS_MSG_EMPTY_RB_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε οριστικά όλες τις διαγραμμένες εγγραφές από τη βάση δεδομένων σας;',
+	'JS_LBL_RESTORE_RECORDS_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να επαναφέρετε τις εγγραφές;',
 	'JS_RESTORING_RECORDS' => 'Επαναφορά εγγραφών',
 );
+
 
 ?>

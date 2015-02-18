@@ -17,14 +17,17 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Προσθήκη Τιμοκαταλόγου',
-	'LBL_ADD_TO' => 'Προσθήκη σε',
-	'LBL_EDIT_LIST_PRICE' => 'Επεξεργασία Τιμοκαταλόγου',
-	'LBL_PRICEBOOK_INFORMATION' => 'Πληροφορίες Τιμοκαταλόγου',
-	'LBL_RECORDS_LIST' => 'Λίστα Τιμοκαταλόγων',
-	'LBL_UNIT_PRICE' => 'Τιμή μονάδας',
-	'Price Book Name' => 'Όνομα Τιμοκαταλόγου',
-	'PriceBook No' => 'Αριθμός Τιμοκαταλόγου',
+	// Basic Strings
 	'PriceBooks' => 'Τιμοκατάλογοι',
 	'SINGLE_PriceBooks' => 'Τιμοκατάλογος',
+	'LBL_ADD_RECORD' => 'Προσθήκη Τιμοκαταλόγου',
+	'LBL_RECORDS_LIST' => 'Λίστα Τιμοκαταλόγων',
+
+	// Blocks
+	'LBL_PRICEBOOK_INFORMATION' => 'Πληροφορίες Τιμοκαταλόγου',
+	'LBL_EDIT_LIST_PRICE' => 'Επεξεργασία Τιμοκαταλόγου',
+
+	//Field Labels
+	'Price Book Name' => 'Όνομα Τιμοκαταλόγου',
+	'PriceBook No' => 'Αρ. Τιμοκαταλόγου',
 );

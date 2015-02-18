@@ -17,39 +17,52 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Amount' => 'Ποσό',
-	'Campaign Source' => 'Πηγή Εκστρατείας',
-	'Closed Lost'=>'Έκλεισε Ανεπιτυχώς',
-	'Closed Won'=>'Έκλεισε Επιτυχώς',
-	'Contact Name' => 'Όνομα Επαφής',
-	'Existing Business'=>'Υφιστάμενη Επιχείρηση',
-	'Forecast Amount' => 'Πρόγνωση Ποσού',
-	'Forecast' => 'Πρόγνωση Πωλήσεων',
-	'Funnel' => 'Πωλήσεις Τύπου ΄΄Χωνί΄΄',
-	'Id. Decision Makers'=>'Προσδιορισμός Υπευθύνων',
-	'LBL_ADD_RECORD' => 'Προσθήκη Ευκαιρίας',
-	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Αναμένεται να κλείσει στις',
-	'LBL_OPPORTUNITY_INFORMATION' => 'Πληροφορίες Ευκαιρίας',
-	'LBL_RECORDS_LIST' => 'Λίστα Ευκαιριών',
-	'LBL_RELATED_CONTACTS' => 'Σχετικές Επαφές',
-	'LBL_RELATED_PRODUCTS' => 'Σχετικά Προϊόντα',
-	'Needs Analysis'=>'Απαιτεί Ανάλυση',
-	'Negotiation/Review'=>'Διαπραγμάτευση/Επιθεώρηση',
-	'New Business'=>'Νέα Επιχείρηση',
-	'Next Step' => 'Επόμενο Στάδιο',
-	'--None--'=>'--Κανένα--', 
-	'Perception Analysis'=>'Ανάλυση Αντίληψης',
-	'Potential No' => 'Αρ. Ευκαιρίας',
-	'Potentials by Stage' => 'Ευκαιρίες ανά Στάδιο',
+	// Basic Strings
 	'Potentials' => 'Ευκαιρίες',
+	'SINGLE_Potentials' => 'Ευκαιρίαs',
+	'LBL_ADD_RECORD' => 'Προσθήκη Ευκαιρίας',
+	'LBL_RECORDS_LIST' => 'Λίστα Ευκαιριών',
+
+	// Blocks
+	'LBL_OPPORTUNITY_INFORMATION' => 'Πληροφορίες Ευκαιρίας',
+
+	//Field Labels
+	'Potential No' => 'Αρ. Ευκαιρίας',
+	'Amount' => 'Ποσό',
+	'Next Step' => 'Επόμενο Στάδιο',
+	'Sales Stage' => 'Στάδιο Πώλησης',
 	'Probability' => 'Πιθανότητα',
-	'Proposal/Price Quote'=>'Προσφορά/Τιμολόγηση',
+	'Campaign Source' => 'Πηγή Εκστρατείας',
+	'Forecast Amount' => 'Πρόγνωση Ποσού',
+	'Related To' => 'Όνομα Οργανισμού',
+	'Contact Name' => 'Όνομα Επαφής',
+	
+	//Dashboard widgets
+	'Funnel' => 'Πωλήσεις Τύπου ΄΄Χωνί΄΄',
+	'Potentials by Stage' => 'Ευκαιρίες ανά Στάδιο',
+	'Total Revenue' => 'Έσοδα ανά Πωλητή',
+	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
+	'Forecast' => 'Πρόγνωση Πωλήσεων',
+
+	//Added for Existing Picklist Strings
+
 	'Prospecting'=>'Προοπτική',
 	'Qualification'=>'Αξιολόγηση',
-	'Related To' => 'Όνομα Οργανισμού',
-	'Sales Stage' => 'Στάδιο Πώλησης',
-	'SINGLE_Potentials' => 'Ευκαιρίαs',
-	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
-	'Total Revenue' => 'Έσοδα ανά Πωλητή',
+	'Needs Analysis'=>'Απαιτεί Ανάλυση',
 	'Value Proposition'=>'Πρόταση Εκτίμηση',
+	'Id. Decision Makers'=>'Προσδιορισμός Υπευθύνων',
+	'Perception Analysis'=>'Ανάλυση Αντίληψης',
+	'Proposal/Price Quote'=>'Προσφορά/Τιμολόγηση',
+	'Negotiation/Review'=>'Διαπραγμάτευση/Επιθεώρηση',
+	'Closed Won'=>'Έκλεισε Επιτυχώς',
+	'Closed Lost'=>'Έκλεισε Ανεπιτυχώς',
+
+	'--None--'=>'--Κανένα--',
+	'Existing Business'=>'Υφιστάμενη Επιχείρηση',
+	'New Business'=>'Νέα Επιχείρηση',
+	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Αναμένεται να κλείσει στις',
+
+	//widgets headers
+	'LBL_RELATED_CONTACTS' => 'Σχετικές Επαφές',
+	'LBL_RELATED_PRODUCTS' => 'Σχετικά Προϊόντα',
 );

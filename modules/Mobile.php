@@ -21,3 +21,4 @@ $mod_strings = array (
 
 );
 
+?>

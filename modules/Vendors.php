@@ -17,6 +17,26 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
+	// Basic Strings
+	'Vendors' => 'Προμηθευτές',
+	'SINGLE_Vendors' => 'Προμηθευτής',
+	'LBL_ADD_RECORD' => 'Προσθήκη Προμηθευτή',
+	'LBL_RECORDS_LIST' => 'Λίστα Προμηθευτών',
+
+	// Blocks
+	'LBL_VENDOR_INFORMATION' => 'Πληροφορίες Προμηθευτή',
+	'LBL_VENDOR_ADDRESS_INFORMATION' => 'Πληροφορίες Διεύθυνσης',
+	
+	//Field Labels
+	'Vendor Name' => 'Όνομα Προμηθευτή',
+	'Vendor No' => 'Αρ. Προμηθευτή',
+	'Website' => 'Ιστοσελίδα',
+	'GL Account' => 'Λογαριασμός Γεν. Λογιστικής',
+	'Phone' => 'Τηλέφωνο',
+	'Email' => 'Email',
+	
+	//Added for existing Picklist entries
+
 	'300-Sales-Software'=>'300-Πωλήσεις-Software',
 	'301-Sales-Hardware'=>'301-Πωλήσεις-Hardware',
 	'302-Rental-Income'=>'302-Έσοδα-Ενοίκια',
@@ -26,22 +46,10 @@ $languageStrings = array(
 	'306-Internet Sales'=>'306-Πωλήσεις-Internet',
 	'307-Service-Hardware Labor'=>'307-Service-Hardware-Εργασία',
 	'308-Sales-Books'=>'308-Πωλήσεις-Βιβλία',
-	'Email' => 'Email',
-	'GL Account' => 'Λογαριασμός Γεν. Λογιστικής',
-	'LBL_ADD_RECORD' => 'Προσθήκη Προμηθευτή',
-	'LBL_RECORDS_LIST' => 'Λίστα Προμηθευτών',
-	'LBL_VENDOR_ADDRESS_INFORMATION' => 'Πληροφορίες Διεύθυνσης',
-	'LBL_VENDOR_INFORMATION' => 'Πληροφορίες Προμηθευτή',
-	'Phone' => 'Τηλέφωνο',
-	'SINGLE_Vendors' => 'Προμηθευτής',
-	'Vendor Name' => 'Όνομα Προμηθευτή',
-	'Vendor No' => 'Αρ. Προμηθευτή',
-	'Vendors' => 'Προμηθευτές',
-	'Website' => 'Ιστοσελίδα',
 );
 
 $jsLanguageStrings = array(
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε;',
 	'LBL_DELETE_CONFIRMATION' => 'Η διαγραφή αυτού του Προμηθευτή θα αφαιρέσει σχετικές εντολές αγοράς της. Είστε σίγουροι ότι θέλετε να διαγράψετε αυτό το Προμηθευτή;',
 	'LBL_MASS_DELETE_CONFIRMATION' => 'Διαγραφή αυτού αυτού του Προμηθευτή (ων) θα αφαιρέσει σχετικές εντολές αγοράς της. Είστε σίγουροι ότι θέλετε να διαγράψετε τα επιλεγμένα αρχεία;',
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε;',
 );

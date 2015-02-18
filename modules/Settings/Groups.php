@@ -17,16 +17,16 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Προσθήκη ομάδας',
-	'LBL_ADD_USERS_ROLES' => 'Προσθήκη χρηστών, ρόλων, ...',
-	'LBL_DUPLICATES_EXIST' => 'Υπάρχει ήδη ομάδα με αυτό το όνομα',
-	'LBL_GROUP_MEMBERS' => 'Μέλη ομάδας',
-	'LBL_GROUP_NAME' => 'Όνομα ομάδας',
-	'LBL_ROLEANDSUBORDINATE' => 'Ρόλοι και υφιστάμενοι',
-	'LBL_TO_OTHER_GROUP' => 'Σε άλλη ομάδα ',
 	'LBL_TRANSFORM_OWNERSHIP' => 'Μεταφορά ιδιοκτησίας',
-	'RoleAndSubordinates' => 'Ρόλοι και υφιστάμενοι',
 	'SINGLE_Groups' => 'Ομάδας',
+	'LBL_TO_OTHER_GROUP' => 'Σε άλλη ομάδα ',
+	'LBL_ADD_RECORD' => 'Προσθήκη ομάδας',
+	'LBL_GROUP_NAME' => 'Όνομα ομάδας',
+	'LBL_GROUP_MEMBERS' => 'Μέλη ομάδας',
+	'LBL_ADD_USERS_ROLES' => 'Προσθήκη χρηστών, ρόλων, ...',
+	'LBL_ROLEANDSUBORDINATE' => 'Ρόλοι και υφιστάμενοι',
+	'RoleAndSubordinates' => 'Ρόλοι και υφιστάμενοι',
+	'LBL_DUPLICATES_EXIST' => 'Υπάρχει ήδη ομάδα με αυτό το όνομα',
 );
 
 $jsLanguageStrings = array(

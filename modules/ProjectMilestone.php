@@ -18,16 +18,16 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_ProjectMilestone'=> 'Ορόσημα Έργου', 
-	'LBL_ADD_RECORD'=> 'Προσθήκη Ορόσημα Έργου', 
-	'LBL_RECORDS_LIST'=> 'Λίστα Ορόσημων Έργου', 
+	'SINGLE_ProjectMilestone' => 'Ορόσημα Έργου',
+	'LBL_ADD_RECORD' => 'Προσθήκη Ορόσημα Έργου',
+	'LBL_RECORDS_LIST' => 'Λίστα Ορόσημων Έργου',
 
 	// Blocks
 	'LBL_PROJECT_MILESTONE_INFORMATION' => 'Πληροφορίες Ορόσημων Έργων',
 	
 	//Field Labels
-	'Project Milestone Name'=> 'Όνομα Ορόσημου Έργου', 
-	'Milestone Date'=> 'Ημερομηνία Ορόσημου Έργου', 
-	'Project Milestone No'=> 'Αριθμός Ορόσημο Έργο', 
+	'Project Milestone Name' => 'Όνομα Ορόσημου Έργου',
+	'Milestone Date' => 'Ημερομηνία Ορόσημου Έργου',
+	'Project Milestone No' => 'Αριθμός Ορόσημο Έργο',
 	
 );

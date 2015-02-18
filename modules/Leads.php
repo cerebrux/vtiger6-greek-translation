@@ -17,52 +17,68 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Attempted to Contact'=>'Προσπάθεια επικοινωνίας',
-	'CANNOT_CONVERT' => 'Δεν μπορεί να γίνει η μετατροπή',
-	'Cold'=>'Κρύο',
-	'Company' => 'Εταιρία',
-	'Contacted'=>'Έγινε επαφή',
-	'Contact in Future'=>'Επικοινωνία στο μέλλον',
-	'Designation' => 'Ονομασία προέλευσης ',
-	'Dr.'=>'Δρ.',
-	'Email' => 'Πρωτεύον Email',
-	'Hot'=>'Καυτό',
-	'Industry' => 'Βιομηχανία',
-	'Junk Lead'=>'Ανεπιθύμητη Προοπτική',
+	// Basic Strings
+	'Leads' => 'Προοπτικές',
+	'SINGLE_Leads' => 'Προοπτική',
+	'LBL_RECORDS_LIST' => 'Λίστα προοπτικών',
 	'LBL_ADD_RECORD' => 'Προσθήκη προοπτικής',
+
+	// Blocks
+	'LBL_LEAD_INFORMATION' => 'Πληροφορίες προοπτικής',
+
+	//Field Labels
+	'Lead No' => 'Αριθμός προοπτικής',
+	'Company' => 'Εταιρία',
+	'Designation' => 'Ονομασία προέλευσης ',
+	'Website' => 'Ιστοσελίδα',
+	'Industry' => 'Βιομηχανία',
+	'Lead Status' => 'Κατάσταση σύστασης',
+	'No Of Employees' => 'Αριθμός υπαλλήλων',
+	'Phone' => 'Τηλέφωνο',
+	'Secondary Email' => 'Δευτερεύον Email',
+	'Email' => 'Πρωτεύον Email',
+
+	//Added for Existing Picklist Entries
+
+	'--None--'=>'--Κενό--',
+	'Mr.'=>'Κ.',
+	'Ms.'=>'Δς.',
+	'Mrs.'=>'Κα.',
+	'Dr.'=>'Δρ.',
+	'Prof.'=>'Καθ.',
+
+	//Lead Status Picklist values
+	'Attempted to Contact'=>'Προσπάθεια επικοινωνίας',
+	'Cold'=>'Κρύο',
+	'Contact in Future'=>'Επικοινωνία στο μέλλον',
+	'Contacted'=>'Έγινε επαφή',
+	'Hot'=>'Καυτό',
+	'Junk Lead'=>'Ανεπιθύμητη Προοπτική',
+	'Lost Lead'=>'Χαμένη Προοπτική',
+	'Not Contacted'=>'Δεν έγινε επαφή',
+	'Pre Qualified'=>'Προεπιλεγμένη',
+	'Qualified'=>'Πιστοποιημένη',
+	'Warm'=>'Ζεστή',
+
+	// Mass Action
 	'LBL_CONVERT_LEAD' => 'Μετατροπή προοπτικής',
+
+	//Convert Lead
+	'LBL_TRANSFER_RELATED_RECORD' => 'Μεταφορά σχετικών εγγραφών σε',
 	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε τους Οργανισμούς ή τις Επαφές για να μετατρέψετε την προοπτική',
 	'LBL_CONVERT_LEAD_ERROR_TITLE' => 'Οι ενότητες δεν είναι ενεργές',
-	'LBL_CUSTOM_FIELD_MAPPING'=> 'Τροποποίηση αντιστοίχισης πεδίων',
+	'CANNOT_CONVERT' => 'Δεν μπορεί να γίνει η μετατροπή',
 	'LBL_FOLLOWING_ARE_POSSIBLE_REASONS' => 'Πιθανοί λόγοι:',
-	'LBL_LEAD_INFORMATION' => 'Πληροφορίες προοπτικής',
-	'LBL_LEADS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων προοπτικών',
 	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Η αντιστοίχιση των πεδίων είναι ημιτελής (Ρυθμίσεις > Διαχειριστής ενοτήτων > Προοπτικές > Αντιστοίχιση πεδίων προοπτικών)',
 	'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Τα υποχρεωτικά πεδία είναι κενά',
-	'LBL_RECORDS_LIST' => 'Λίστα προοπτικών',
-	'LBL_TRANSFER_RELATED_RECORD' => 'Μεταφορά σχετικών εγγραφών σε',
-	'Lead No' => 'Αριθμός προοπτικής',
-	'Lead Status' => 'Κατάσταση σύστασης',
-	'Leads' => 'Προοπτικές',
-	'Lost Lead'=>'Χαμένη Προοπτική',
-	'Mr.'=>'Κ.',
-	'Mrs.'=>'Κα.',
-	'Ms.'=>'Δς.',
-	'--None--'=>'--Κενό--',
-	'No Of Employees' => 'Αριθμός υπαλλήλων',
-	'Not Contacted'=>'Δεν έγινε επαφή',
-	'Phone' => 'Τηλέφωνο',
-	'Pre Qualified'=>'Προεπιλεγμένη',
-	'Prof.'=>'Καθ.',
-	'Qualified'=>'Πιστοποιημένη',
-	'Secondary Email' => 'Δευτερεύον Email',
-	'SINGLE_Leads' => 'Προοπτική',
-	'Warm'=>'Ζεστή',
-	'Website' => 'Ιστοσελίδα',
-);
+	'LBL_LEADS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων προοπτικών',
 
+	//Leads Custom Field Mapping
+	'LBL_CUSTOM_FIELD_MAPPING'=> 'Τροποποίηση αντιστοίχισης πεδίων',
+	'LBL_WEBFORMS' => 'Ρύθμιση Δικτυακής Φόρμας',
+);
 $jsLanguageStrings = array(
 	'JS_SELECT_CONTACTS' => 'Επιλογή επαφών για συνέχιση',
-	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Η μετατροπή απαιτεί επιλογή Επαφής ή Οργανισμού',
 	'JS_SELECT_ORGANIZATION' => 'Επιλογή οργανισμών για συνέχιση',
+	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Η μετατροπή απαιτεί επιλογή Επαφής ή Οργανισμού'
 );

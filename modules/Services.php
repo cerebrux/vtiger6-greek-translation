@@ -17,26 +17,37 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Commission Rate'=>'Ποσοστό Προμήθειας',
-	'LBL_ADD_RECORD' => 'Προσθήκη Υπηρεσίας',
-	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στον Τιμοκατάλογο',
-	'LBL_MORE_CURRENCIES' => 'περισσότερα συναλλάγματα', 
-	'LBL_PRICE' => 'Τιμή',
-	'LBL_PRICES' => 'Τιμές Υπηρεσιών',
-	'LBL_RECORDS_LIST' => 'Λίστα Υπηρεσιών',
-	'LBL_RESET' => 'Επαναφορά',
-	'LBL_RESET_PRICE' => 'Επαναφορά Τιμής',
-	'LBL_SERVICE_INFORMATION' => 'Λεπτομέρειες Υπηρεσίας',
-	'No of Units'=>'Αριθμός των Μεριδίων',
-	'Owner'=>'Ιδιοκτήτης',
-	'Price'=>'Τιμή',
-	'Service Active'=>'Ενεργό',
-	'Service Category'=>'Κατηγορία',
-	'Service Name'=>'Όνομα Υπηρεσίας',
-	'Service No'=>'Αρ. Υπηρεσίας',
+	// Basic Strings
 	'Services' => 'Υπηρεσίες',
 	'SINGLE_Services' => 'Υπηρεσία',
-	'Tax Class'=>'Κλάση Φόρου',
+	'LBL_ADD_RECORD' => 'Προσθήκη Υπηρεσίας',
+	'LBL_RECORDS_LIST' => 'Λίστα Υπηρεσιών',
+
+	// Blocks
+	'LBL_SERVICE_INFORMATION' => 'Λεπτομέρειες Υπηρεσίας',
+	
+	'LBL_MORE_CURRENCIES' => 'περισσότερα συναλλάγματα', 
+	'LBL_PRICES' => 'Τιμές Υπηρεσιών',
+	'LBL_PRICE' => 'Τιμή',
+	'LBL_RESET_PRICE' => 'Επαναφορά Τιμής',
+	'LBL_RESET' => 'Επαναφορά',
+	
+	//Services popup of pricebook
+	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στον Τιμοκατάλογο',
+
+	//Field Labels
+	'Service Name'=>'Όνομα Υπηρεσίας',
+	'Service Active'=>'Ενεργό',
+	'Service Category'=>'Κατηγορία',
+	'Service No'=>'Αρ. Υπηρεσίας',
+	'Owner'=>'Ιδιοκτήτης',
+	'No of Units'=>'Αριθμός των Μεριδίων',
+	'Commission Rate'=>'Ποσοστό Προμήθειας',
+	'Price'=>'Τιμή',
 	'Usage Unit'=>'Μονάδα Χρήσης',
+	'Tax Class'=>'Κλάση Φόρου',
 	'Website'=>'Ιστοσελίδα',
+	
+	//Services popup of pricebook
+	'LBL_ADD_TO_PRICEBOOKS' => 'Προσθήκη στον Τιμοκατάλογο',
 );

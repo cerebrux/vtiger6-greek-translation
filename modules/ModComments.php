@@ -18,19 +18,19 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'SINGLE_ModComments'=> 'Σχόλιο', 
-	'LBL_RECORDS_LIST'=> 'Λίστα Σχολίων', 
+	'SINGLE_ModComments' => 'Σχόλιο',
+	'LBL_RECORDS_LIST' => 'Λίστα Σχολίων',
 
 	// Blocks
-	'LBL_MODCOMMENTS_INFORMATION'=> 'Σχόλια Πληροφορίες', 
-	'LBL_OTHER_INFORMATION'=> 'Άλλες Πληροφορίες', 
+	'LBL_MODCOMMENTS_INFORMATION' => 'Σχόλια Πληροφορίες',
+	'LBL_OTHER_INFORMATION' => 'Άλλες Πληροφορίες',
 
-	'LBL_ADDING_COMMENT'=> 'Δημιουργία Σχολίου', 
-	'LBL_WRITE_YOUR_COMMENT_HERE'=> 'Εισάγετε σχόλια εδώ', 
+	'LBL_ADDING_COMMENT' => 'Δημιουργία Σχολίου',
+	'LBL_WRITE_YOUR_COMMENT_HERE' => 'Εισάγετε σχόλια εδώ',
 	
 	//Field Labels
-	'Comment'=> 'Σχόλιο', 
-	'Creator'=> 'Δημιουργός', 
-	'Related To Comments'=> 'Σχετικά Σχόλια', 
+	'Comment' => 'Σχόλιο',
+	'Creator' => 'Δημιουργός',
+	'Related To Comments' => 'Σχετικά Σχόλια',
 	
 );
