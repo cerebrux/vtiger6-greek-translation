@@ -942,6 +942,7 @@ $jsLanguageStrings = array(
 
 	//Delete Records message
 	'JS_RECORDS_ARE_GETTING_DELETED' => 'Οι Καταγραφές Αρχίζουν να Διαγράφονται',
+	'JS_CONFIRM_MARK_AS_HELD' => 'Θέλετε να καταγραφεί ως Πραγματοποιημένο;',	
 	'JS_RECORD_GETTING_DELETED' => 'Η Καταγραφή Αρχίζει να Διαγράφετε',
 	'JS_NO_RESULTS_FOUND' => 'Δεν Βρέθηκε Κανένα Αποτέλεσμα',
 
@@ -949,4 +950,7 @@ $jsLanguageStrings = array(
 
 	'JS_USER_EXISTS' => 'Αυτός Ο Χρήστης Υπάρχει ήδη',
 	'JS_REENTER_PASSWORDS' => 'Εισάγετε Ξανά τούς Κωδικούς',
+	'JS_TODO_MARKED_AS_COMPLETED' => 'H εργασία καταγράφηκε ως Πραγματοποιημένη;',
+	'JS_EVENT_MARKED_AS_HELD' => 'Το γεγονός καταγράφηκε ως Πραγματοποιημένο;',
+	'JS_VIEWNAME_ALERT' => 'Επιτρέπεται μέγιστο όριο 40 χαρακτήρων για όνομα φίλτρου',
 );
