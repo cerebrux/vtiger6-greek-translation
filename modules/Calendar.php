@@ -19,20 +19,20 @@
 $languageStrings = array(
 	// Basic Strings
 	'SINGLE_Calendar' => 'Ημερολόγιο',
-	'SINGLE_Events' => 'Συμβάν',
+	'SINGLE_Events' => 'Γεγονός',
 	'LBL_ADD_TASK' => 'Προσθήκη Εργασίας',
-	'LBL_ADD_EVENT' => 'Προσθήκη Συμβάντος',
+	'LBL_ADD_EVENT' => 'Προσθήκη Γεγονότος',
 	'LBL_RECORDS_LIST' => 'Λίστα Ημερολογίου',
-	'LBL_EVENTS' => 'Συμβάντα',
+	'LBL_EVENTS' => 'Γεγονότα',
 	'LBL_TODOS' => 'Εργασίες',
 	'LBL_CALENDAR_SETTINGS' => 'Ρυθμίσεις Ημερολογίου',
 	'LBL_CALENDAR_SHARING' => 'Κοινή χρήση Ημερολογίου',
-	'LBL_DEFAULT_EVENT_DURATION' => 'Προεπιλεγμένη Διάρκεια Συμβάντος',
+	'LBL_DEFAULT_EVENT_DURATION' => 'Προεπιλεγμένη Διάρκεια Γεγονότος',
 	'LBL_CALL' => 'Τηλεφώνησε',
-	'LBL_OTHER_EVENTS' => 'Άλλα Συμβάντα',
+	'LBL_OTHER_EVENTS' => 'Άλλα Γεγονότα',
 	'LBL_MINUTES' => 'Λεπτά',
 	'LBL_SELECT_USERS' => 'Επιλογή Χρηστών',
-	'LBL_EVENT_OR_TASK' => 'Συμβάν / Εργασία',
+	'LBL_EVENT_OR_TASK' => 'Γεγονός / Εργασία',
 
 	// Blocks
 	'LBL_TASK_INFORMATION' => 'Λεπτομέρειες Εργασίας',
@@ -69,7 +69,7 @@ $languageStrings = array(
 
 	'LBL_CHANGE_OWNER' => 'Αλλαγή Ιδιοκτήτη',
 
-	'LBL_EVENT' => 'Συμβάν',
+	'LBL_EVENT' => 'Γεγονός',
 	'LBL_TASK' => 'Εργασία',
 	'LBL_TASKS' => 'Εργασίες',
 
@@ -102,7 +102,7 @@ $languageStrings = array(
 	'LBL_FINISH' => 'Τέλος',
 	'LBL_TOTAL_TASKS_IMPORTED' => 'Αρ. Επιτυχημένης Εισαγωγής Εργασιών ',
 	'LBL_TOTAL_TASKS_SKIPPED' => 'Αρ. Εργασιών που αγνοήθηκαν, καθώς έλειπαν μία ή περισσότερες από τα απαιτούμενα πεδία ',
-	'LBL_TOTAL_EVENTS_IMPORTED' => 'Αρ. Επιτυχημένης Εισαγωγής Συμβάντων ',
+	'LBL_TOTAL_EVENTS_IMPORTED' => 'Αρ. Επιτυχημένης Εισαγωγής Γεγονότων ',
 	'LBL_TOTAL_EVENTS_SKIPPED' => 'Αρ. Γεγονότων που αγνοήθηκαν, καθώς έλειπαν μία ή περισσότερες από τα απαιτούμενα πεδία ',
 	
 	'ICAL_FORMAT' => 'Τύπος iCal',
@@ -112,7 +112,7 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Συμβάντος/Εργασίας',
+	'LBL_ADD_EVENT_TASK' => 'Προσθήκη Γεγονότος/Εργασίας',
 	'JS_TASK_IS_SUCCESSFULLY_ADDED_TO_YOUR_CALENDAR' => 'Η Εργασία έχει προστεθεί επιτυχώς στο Ημερολόγιό σας',
     'LBL_SYNC_BUTTON' => 'Synchronize Now',
     'LBL_SYNCRONIZING' => 'Synchronizing....',
