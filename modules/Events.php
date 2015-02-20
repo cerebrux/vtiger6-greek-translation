@@ -20,6 +20,7 @@
 /* NOTE: Should be inline with Calendar language translation but few variations */
 
 $languageStrings = array(
+	'LBL_CREATE_FOLLOWUP_EVENT' => 'Δημιουργία συνέχειας Γεγονότος',
 	// Basic Strings
 	'Events' => 'Γεγονότα',
 	'SINGLE_Events' => 'Γεγονός',
@@ -27,7 +28,7 @@ $languageStrings = array(
 	'LBL_RECORDS_LIST' => 'Προβολή Λίστα',
 	'LBL_EVENTS' => 'Γεγονότα',
 	'LBL_TODOS' => 'Προς Εκτέλεση',
-	'LBL_HOLD_FOLLOWUP_ON' => 'Ενημέρωση Αναβληθέντων Ενεργή',
+	'LBL_HOLD_FOLLOWUP_ON' => 'Παρακολούθηση συνέχειας στις',
 	
 	// Blocks
 	'LBL_EVENT_INFORMATION' => 'Πληροφορίες Γεγονότων',
