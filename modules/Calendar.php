@@ -65,7 +65,7 @@ $languageStrings = array(
 	'Deferred' => 'Αναβλήθηκε',
 
 	//Priority picklist values
-	'Medium' => 'Μεσαία',
+	'Μedium' => 'Μεσαία',
 
 	'LBL_CHANGE_OWNER' => 'Αλλαγή Ιδιοκτήτη',
 
