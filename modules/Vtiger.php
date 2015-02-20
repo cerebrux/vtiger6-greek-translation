@@ -21,7 +21,7 @@ $languageStrings = array(
 	'Key Metrics' => 'Δείκτες',
 	// Footer
 	'APPTITLE' => 'vtiger CRM',
-	'POWEREDBY'=> 'Powered by vtiger CRM',
+	'POWEREDBY'=> 'Βασισμένο στο vtiger CRM',
 	'LBL_READ_LICENSE' => 'Άδεια Χρήσης',
 	'LBL_PRIVACY_POLICY' => 'Πολιτική Προσωπικών Δεδομένων',
 
