@@ -41,11 +41,11 @@ $languageStrings = array(
 	//Added for Existing Picklist Entries
 
 	'--None--'=>'--Κενό--',
-	'Mr.'=>'Κ.',
-	'Ms.'=>'Δς.',
-	'Mrs.'=>'Κα.',
-	'Dr.'=>'Δρ.',
-	'Prof.'=>'Καθ.',
+	'Mr.'=>'κος.',
+	'Ms.'=>'δις.',
+	'Mrs.'=>'κα.',
+	'Dr.'=>'δρ.',
+	'Prof.'=>'καθ.',
 
 	//Lead Status Picklist values
 	'Attempted to Contact'=>'Προσπάθεια επικοινωνίας',

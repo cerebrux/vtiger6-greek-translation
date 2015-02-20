@@ -61,11 +61,11 @@ $languageStrings = array(
 	'Contact Id' => 'Αρ. Επαφής',
 	
 	//Added for Picklist Values
-	'Mr.'=>'Κος.',
-	'Ms.'=>'Δις.',
-	'Mrs.'=>'Κα.',
-	'Dr.'=>'Δρ.',
-	'Prof.'=>'Καθ.',
+	'Mr.'=>'κος.',
+	'Ms.'=>'δις.',
+	'Mrs.'=>'κα.',
+	'Dr.'=>'δρ.',
+	'Prof.'=>'καθ.',
 	
 	'User List'=>'Λίστα χρηστών',
 );
