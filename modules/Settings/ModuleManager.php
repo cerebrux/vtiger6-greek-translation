@@ -37,7 +37,7 @@ $languageStrings = array(
 	'LBL_SUCCESSFULL' => 'Επιτυχής',
 	'LBL_INSTALLATION_LOG' => 'Αρχείο καταγραφής Εγκατάστασης',
 	//Install From file labels
-	'LBL_INSTALL_FROM_ZIP' => 'Εγκατάσταση απο zip αρχείο'
+	'LBL_INSTALL_FROM_ZIP' => 'Εγκατάσταση απο zip αρχείο',
 	'LBL_VERIFY_IMPORT_DETAILS' => 'Βεβαιωθείτε για τις Λεπτομέρειες Εισαγωγής',
 	'LBL_MODULE_NAME' => 'Όνομα Αρθρώματος',
 	'LBL_REQ_VTIGER_VERSION' => 'Έκδοση Vtiger',
