@@ -44,6 +44,7 @@ $languageStrings = array(
 	'LBL_DESCRIPTION' => 'Περιγραφή',
 
 	// Other Strings
+	'LBL_INTEGRATION' => 'Διασύνδεση',
 	'LBL_USER_DESCRIPTION' => 'Διαχείριση Χρηστών πού έχουν Πρόσβαση στο vtiger CRM',
 	'LBL_ROLES' => 'Ρόλοι',
 	'LBL_ROLE_DESCRIPTION' => 'Δημιουργία Ιεραρχίας των Ρόλων και Ανάθεσης στους Χρήστες',
