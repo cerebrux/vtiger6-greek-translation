@@ -17,7 +17,7 @@
  *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Is Converted From Lead' => 'Μετατραπικε απο Προοπτική',
+	'Is Converted From Lead' => 'Μετετράπη απο Προοπτική',
 	// Footer
 	'APPTITLE' => 'vtiger CRM',
 	'POWEREDBY'=> 'Powered by vtiger CRM',
