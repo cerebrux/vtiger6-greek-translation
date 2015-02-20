@@ -19,6 +19,7 @@
 $languageStrings = array(
 	'Is Converted From Lead' => 'Μετετράπη απο Προοπτική',
 	'Key Metrics' => 'Δείκτες',
+	'Access Count' => 'Αρ. Προβολών',
 	// Footer
 	'APPTITLE' => 'vtiger CRM',
 	'POWEREDBY'=> 'Βασισμένο  vtiger CRM',
