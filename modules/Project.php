@@ -40,6 +40,10 @@ $languageStrings = array(
 	'LBL_TASKS_DUE' => 'Εργασίες Μέχρι',
 	'LBL_TASKS_COMPLETED' => 'Ολοκληρωμένες Εργασίες',
 	'LBL_PEOPLE' => 'Άνθρωποι',
+	'LBL_TASK_HIGH'=>'Υψηλής προτεραιότητας',
+	'LBL_TASK_LOW'=>'Χαμήλής προτεραιότητας',
+	'LBL_TASK_NORMAL'=>'Κανονικής προτεραιότητας',
+	'LBL_TASK_OTHER'=>'Άλλης προτεραιότητας',
 
 	//Related List
 	'LBL_CHARTS' => 'Γραφικές Παραστάσεις',
