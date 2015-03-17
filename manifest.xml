@@ -4,7 +4,7 @@
   <name>Greek</name>
   <label>Ελληνικά</label>
   <prefix>el_gr</prefix>
-  <version>6.2.0-2310</version>
+  <version>6.2.0-2311</version>
   <dependencies>
     <vtiger_version>6.2.0</vtiger_version>
 	<vtiger_max_version>6.*</vtiger_max_version>
@@ -20,7 +20,7 @@
  ********************************************************************************
  *  
  *  Language     : Greek
- *  Version      : 6.2.0-2310
+ *  Version      : 6.2.0-2311
  * 
  * Greek Translation Project initiated : 13 February 2014
  * Repository : https://github.com/cerebrux/vtiger6-greek-translation
