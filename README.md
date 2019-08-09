@@ -4,7 +4,13 @@ Vtiger7 Ελληνική Μετάφραση
 Καλώς ήρθατε στην μετάφραση του Vtiger 7
 
 * [Κέντρο Λήψης με όλες τις εκδόσεις μετάφρασης] [4]
-* [Ποσοστό Μετάφρασης (**100%**)] [5]
+* [Ποσοστό Μετάφρασης (**0%**)] [5]
+
+Vtiger:
+
+Console: https://community.vtiger.com/help/vtigercrm/developers/vtlib/console-tool.html
+Upstream Code: https://code.vtiger.com/vtiger/vtigercrm
+Administraton Guide: https://www.vtiger.com/docs/administrator-settings-guide
 
 Εγκατάσταση
 ------------
@@ -20,7 +26,7 @@ Vtiger7 Ελληνική Μετάφραση
 Χρησιμοποιήστε τη λειτουργία διαχείρισης αρθρωμάτων και κάντε εισαγωγή το δημιουργημένο αρχείο zip.
 Μετά την εγκατάσταση, η ελληνική γλώσσα θα είναι διαθέσιμη ως επιλογή από το μενού προτιμήσεων του χρήστη.
 
-Τεκμηρίωση Μετάφρασης
+--TO-DO-- Τεκμηρίωση Μετάφρασης
 --------------------
 * [Αρχική Σελίδα](https://github.com/utappia/vtiger7-greek-translation/wiki)
 * [Μεταφραζόμενα αρχεία](https://github.com/utappia/vtiger7-greek-translation/wiki/%CE%9C%CE%B5%CF%84%CE%B1%CF%86%CF%81%CE%B1%CE%B6%CF%8C%CE%BC%CE%B5%CE%BD%CE%B1-%CE%B1%CF%81%CF%87%CE%B5%CE%AF%CE%B1)
