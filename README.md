@@ -8,9 +8,9 @@ Vtiger7 Ελληνική Μετάφραση
 
 Vtiger:
 
-Console: https://community.vtiger.com/help/vtigercrm/developers/vtlib/console-tool.html
-Upstream Code: https://code.vtiger.com/vtiger/vtigercrm
-Administraton Guide: https://www.vtiger.com/docs/administrator-settings-guide
+* Console: https://community.vtiger.com/help/vtigercrm/developers/vtlib/console-tool.html
+* Upstream Code: https://code.vtiger.com/vtiger/vtigercrm
+* Administraton Guide: https://www.vtiger.com/docs/administrator-settings-guide
 
 Εγκατάσταση
 ------------
