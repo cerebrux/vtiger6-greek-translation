@@ -6,63 +6,69 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Potentials' => 'Ευκαιρίες',
-	'SINGLE_Potentials' => 'Ευκαιρίαs',
-	'LBL_ADD_RECORD' => 'Προσθήκη Ευκαιρίας',
-	'LBL_RECORDS_LIST' => 'Λίστα Ευκαιριών',
+	'Potentials' => 'Opportunities',
+	'SINGLE_Potentials' => 'Opportunity',
+	'LBL_ADD_RECORD' => 'Add Opportunity',
+	'LBL_RECORDS_LIST' => 'Opportunities List',
 
 	// Blocks
-	'LBL_OPPORTUNITY_INFORMATION' => 'Πληροφορίες Ευκαιρίας',
+	'LBL_OPPORTUNITY_INFORMATION' => 'Opportunity Details',
 
 	//Field Labels
-	'Potential No' => 'Αρ. Ευκαιρίας',
-	'Amount' => 'Ποσό',
-	'Next Step' => 'Επόμενο Στάδιο',
-	'Sales Stage' => 'Στάδιο Πώλησης',
-	'Probability' => 'Πιθανότητα',
-	'Campaign Source' => 'Πηγή Εκστρατείας',
-	'Forecast Amount' => 'Πρόγνωση Ποσού',
-	'Related To' => 'Όνομα Οργανισμού',
-	'Contact Name' => 'Όνομα Επαφής',
+	'Potential No' => 'Opportunity Number',
+	'Amount' => 'Amount',
+	'Next Step' => 'Next Step',
+	'Sales Stage' => 'Sales Stage',
+	'Probability' => 'Probability',
+	'Campaign Source' => 'Campaign Source',
+	'Forecast Amount' => 'Weighted Revenue',
+	'Related To' => 'Organization Name',
+	'Contact Name' => 'Contact Name',
+        'Type' => 'Type',
 	
 	//Dashboard widgets
-	'Funnel' => 'Πωλήσεις Τύπου ΄΄Χωνί΄΄',
-	'Potentials by Stage' => 'Ευκαιρίες ανά Στάδιο',
-	'Total Revenue' => 'Έσοδα ανά Πωλητή',
-	'Top Potentials' => 'Κορυφαίες Ευκαιρίες',
-	'Forecast' => 'Πρόγνωση Πωλήσεων',
+	'Funnel' => 'Sales Funnel',
+	'Potentials by Stage' => 'Opportunities by Stage',
+	'Total Revenue' => 'Revenue by Salesperson',
+	'Top Potentials' => 'Top Opportunities',
+	'Forecast' => 'Sales Forecast',
 
 	//Added for Existing Picklist Strings
 
-	'Prospecting'=>'Προοπτική',
-	'Qualification'=>'Αξιολόγηση',
-	'Needs Analysis'=>'Απαιτεί Ανάλυση',
-	'Value Proposition'=>'Πρόταση Εκτίμηση',
-	'Id. Decision Makers'=>'Προσδιορισμός Υπευθύνων',
-	'Perception Analysis'=>'Ανάλυση Αντίληψης',
-	'Proposal/Price Quote'=>'Προσφορά/Τιμολόγηση',
-	'Negotiation/Review'=>'Διαπραγμάτευση/Επιθεώρηση',
-	'Closed Won'=>'Έκλεισε Επιτυχώς',
-	'Closed Lost'=>'Έκλεισε Ανεπιτυχώς',
+	'Prospecting'=>'Prospecting',
+	'Qualification'=>'Qualification',
+	'Needs Analysis'=>'Needs Analysis',
+	'Value Proposition'=>'Value Proposition',
+	'Id. Decision Makers'=>'Identify Decision Makers',
+	'Perception Analysis'=>'Perception Analysis',
+	'Proposal/Price Quote'=>'Proposal/Quotation',
+	'Negotiation/Review'=>'Negotiation/Review',
+	'Closed Won'=>'Closed Won',
+	'Closed Lost'=>'Closed Lost',
 
-	'--None--'=>'--Κανένα--',
-	'Existing Business'=>'Υφιστάμενη Επιχείρηση',
-	'New Business'=>'Νέα Επιχείρηση',
-	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Αναμένεται να κλείσει στις',
+	'--None--'=>'--None--',
+	'Existing Business'=>'Existing Business',
+	'New Business'=>'New Business',
+	'LBL_EXPECTED_CLOSE_DATE_ON' => 'Expected to close on',
 
 	//widgets headers
-	'LBL_RELATED_CONTACTS' => 'Σχετικές Επαφές',
-	'LBL_RELATED_PRODUCTS' => 'Σχετικά Προϊόντα',
+	'LBL_RELATED_CONTACTS' => 'Related Contacts',
+	'LBL_RELATED_PRODUCTS' => 'Related Products',
+    
+    //Convert Potentials
+    'LBL_CONVERT_POTENTIAL' => 'Convert Opportunity',
+	'LBL_CREATE_PROJECT' => 'Create Project',
+    'LBL_POTENTIALS_FIELD_MAPPING' => 'Opportunities Field Mapping',
+    'LBL_CONVERT_POTENTIALS_ERROR' => 'You have to enable Project to convert the Opportunity',
+    'LBL_POTENTIALS_FIELD_MAPPING_INCOMPLETE' => 'Opportunities Field Mapping is incomplete(Settings > Module Manager > Opportunities > Opportunities Field Mapping)',
+    
+    //Potentials Custom Field Mapping
+	'LBL_CUSTOM_FIELD_MAPPING'=> 'Opportunity to Project mapping',
+);
+
+$jsLanguageStrings = array(
+	'JS_SELECT_PROJECT_TO_CONVERT_LEAD' => 'Conversion requires selection of Project',
 );

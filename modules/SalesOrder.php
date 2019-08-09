@@ -6,60 +6,52 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	//DetailView Actions
-	'SINGLE_SalesOrder' => 'Παραγγελίες πωλήσεων',
-	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε PDF',
-    'LBL_SEND_MAIL_PDF' => 'Αποστολή Email με PDF',
+	'SalesOrder'    =>  'Sales Orders',
+    //DetailView Actions
+	'SINGLE_SalesOrder' => 'Sales Order',
+	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
+    'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Προσθήκη Παραγγελίες Πωλήσεων',
-	'LBL_RECORDS_LIST' => 'Λίστα Παραγγελιών Πωλήσεων',
+	'LBL_ADD_RECORD' => 'Add Sales Order',
+	'LBL_RECORDS_LIST' => 'Sales Order List',
 
 	// Blocks
-	'LBL_SO_INFORMATION' => 'Πληροφορίες Παραγγελιών Πωλήσεων',
+	'LBL_SO_INFORMATION' => 'Sales Order Details',
 
 	//Field labels
-	'SalesOrder No'=>'Αρ. Παραγγελιών Πωλήσεων',
-	'Quote Name'=>'Όνομα Προσφοράς',
-	'Customer No' => 'Αρ. Πελάτη',
-	'Requisition No'=>'Αρ. Εντολής',
-	'Tracking Number'=>'Αρ. Παρακολούθησης',
-	'Sales Commission' => 'Προμήθεια Πώλησης',
-	'Purchase Order'=>'Εντολή Αγοράς',
-	'Vendor Terms'=>'Όροι Προμηθευτή',
-	'Pending'=>'Εκκρεμής',
-	'Enable Recurring' => 'Ενεργοποίηση Επανάληψης',
-	'Frequency' => 'Συχνότητα',
-	'Start Period' => 'Περίοδος Εκκίνησης',
-	'End Period' => 'Περίοδος Λήξης',
-	'Payment Duration' => 'Διάρκεια Πληρωμής',
-	'Invoice Status' => 'Κατάσταση Τιμολογίου',
+	'SalesOrder No'=>'Sales Order Number',
+	'Quote Name'=>'Quote Name',
+	'Customer No' => 'Customer No',
+	'Requisition No'=>'Requisition No',
+	'Tracking Number'=>'Tracking Number',
+	'Sales Commission' => 'Sales Commission',
+	'Purchase Order'=>'Purchase Order',
+	'Vendor Terms'=>'Vendor Terms',
+	'Pending'=>'Pending',
+	'Enable Recurring' => 'Enable Recurring',
+	'Frequency' => 'Frequency',
+	'Start Period' => 'Start Period',
+	'End Period' => 'End Period',
+	'Payment Duration' => 'Payment Duration',
+	'Invoice Status' => 'Invoice Status',
 
 	//Added for existing Picklist Entries
 
-	'Sub Total'=>'Μερικό Σύνολο',
-	'AutoCreated'=>'Αυτοδημιουργήθηκε',
-	'Sent'=>'Απεστάλη',
-	'Credit Invoice'=>'Πιστωτικό Τιμολόγιο',
-	'Paid'=>'Πληρωμένο',
+	'Sub Total'=>'Sub Total',
+	'AutoCreated'=>'Auto Created',
+	'Sent'=>'Sent',
+	'Credit Invoice'=>'Credit Invoice',
+	'Paid'=>'Paid',
 	
 	//Translation for product not found
-	'LBL_THIS' => 'Αυτό',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'διαγράφεται από το σύστημα. Παρακαλούμε να αφαιρέσετε ή να αντικαταστήσετε αυτό το στοιχείο',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο γραμμής έχει διαγραφεί από το σύστημα, παρακαλούμε να καταργήσετε αυτό στοιχεία γραμμής',
+	'LBL_THIS' => 'This',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'is deleted from the system.please remove or replace this item',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'This line item is deleted from the system,please remove this line items',
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Παρακαλώ αφαιρέστε το στοιχείο γραμμής που έχει διαγραφεί',
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Please remove line item that is deleted',
 );

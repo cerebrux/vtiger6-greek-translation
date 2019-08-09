@@ -6,79 +6,67 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Leads' => 'Προοπτικές',
-	'SINGLE_Leads' => 'Προοπτική',
-	'LBL_RECORDS_LIST' => 'Λίστα προοπτικών',
-	'LBL_ADD_RECORD' => 'Προσθήκη προοπτικής',
+	'Leads' => 'Leads',
+	'SINGLE_Leads' => 'Lead',
+	'LBL_RECORDS_LIST' => 'Leads List',
+	'LBL_ADD_RECORD' => 'Add Lead',
 
 	// Blocks
-	'LBL_LEAD_INFORMATION' => 'Πληροφορίες προοπτικής',
+	'LBL_LEAD_INFORMATION' => 'Lead Details',
 
 	//Field Labels
-	'Lead No' => 'Αριθμός προοπτικής',
-	'Company' => 'Εταιρία',
-	'Designation' => 'Ονομασία προέλευσης ',
-	'Website' => 'Ιστοσελίδα',
-	'Industry' => 'Βιομηχανία',
-	'Lead Status' => 'Κατάσταση σύστασης',
-	'No Of Employees' => 'Αριθμός υπαλλήλων',
-	'Phone' => 'Τηλέφωνο',
-	'Secondary Email' => 'Δευτερεύον Email',
-	'Email' => 'Πρωτεύον Email',
+	'Lead No' => 'Lead Number',
+	'Company' => 'Company',
+	'Designation' => 'Designation',
+	'Website' => 'Website',
+	'Industry' => 'Industry',
+	'Lead Status' => 'Lead Status',
+	'No Of Employees' => 'Number of Employees',
+	'Phone' => 'Primary Phone',
+	'Secondary Email' => 'Secondary Email',
+	'Email' => 'Primary Email',
 
 	//Added for Existing Picklist Entries
 
-	'--None--'=>'--Κενό--',
-	'Mr.'=>'κος.',
-	'Ms.'=>'δις.',
-	'Mrs.'=>'κα.',
-	'Dr.'=>'δρ.',
-	'Prof.'=>'καθ.',
+	'--None--'=>'--None--',
+	'Mr.'=>'Mr.',
+	'Ms.'=>'Ms.',
+	'Mrs.'=>'Mrs.',
+	'Dr.'=>'Dr.',
+	'Prof.'=>'Prof.',
 
 	//Lead Status Picklist values
-	'Attempted to Contact'=>'Προσπάθεια επικοινωνίας',
-	'Cold'=>'Κρύο',
-	'Contact in Future'=>'Επικοινωνία στο μέλλον',
-	'Contacted'=>'Έγινε επαφή',
-	'Hot'=>'Καυτό',
-	'Junk Lead'=>'Ανεπιθύμητη Προοπτική',
-	'Lost Lead'=>'Χαμένη Προοπτική',
-	'Not Contacted'=>'Δεν έγινε επαφή',
-	'Pre Qualified'=>'Προεπιλεγμένη',
-	'Qualified'=>'Πιστοποιημένη',
-	'Warm'=>'Ζεστή',
+	'Attempted to Contact'=>'Attempted to Contact',
+	'Cold'=>'Cold',
+	'Contact in Future'=>'Contact in Future',
+	'Contacted'=>'Contacted',
+	'Hot'=>'Hot',
+	'Junk Lead'=>'Junk Lead',
+	'Lost Lead'=>'Lost Lead',
+	'Not Contacted'=>'Not Contacted',
+	'Pre Qualified'=>'Pre Qualified',
+	'Qualified'=>'Qualified',
+	'Warm'=>'Warm',
 
 	// Mass Action
-	'LBL_CONVERT_LEAD' => 'Μετατροπή προοπτικής',
+	'LBL_CONVERT_LEAD' => 'Convert Lead',
 
 	//Convert Lead
-	'LBL_TRANSFER_RELATED_RECORD' => 'Μεταφορά σχετικών εγγραφών σε',
-	'LBL_CONVERT_LEAD_ERROR' => 'Πρέπει να ενεργοποιήσετε τους Οργανισμούς ή τις Επαφές για να μετατρέψετε την προοπτική',
-	'LBL_CONVERT_LEAD_ERROR_TITLE' => 'Οι ενότητες δεν είναι ενεργές',
-	'CANNOT_CONVERT' => 'Δεν μπορεί να γίνει η μετατροπή',
-	'LBL_FOLLOWING_ARE_POSSIBLE_REASONS' => 'Πιθανοί λόγοι:',
-	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Η αντιστοίχιση των πεδίων είναι ημιτελής (Ρυθμίσεις > Διαχειριστής ενοτήτων > Προοπτικές > Αντιστοίχιση πεδίων προοπτικών)',
-	'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Τα υποχρεωτικά πεδία είναι κενά',
-	'LBL_LEADS_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων προοπτικών',
+	'LBL_TRANSFER_RELATED_RECORD' => 'Transfer related record to',
+	'LBL_CONVERT_LEAD_ERROR' => 'You have to enable either Organization or Contact to convert the Lead',
+	'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Leads Field Mapping is incomplete(Settings > Module Manager > Leads > Leads Field Mapping)',
+	'LBL_LEADS_FIELD_MAPPING' => 'Leads Field Mapping',
 
 	//Leads Custom Field Mapping
-	'LBL_CUSTOM_FIELD_MAPPING'=> 'Τροποποίηση αντιστοίχισης πεδίων',
-	'LBL_WEBFORMS' => 'Ρύθμιση Δικτυακής Φόρμας',
+	'LBL_CUSTOM_FIELD_MAPPING'=> 'Lead Conversion Data Mapping',
+	'LBL_IMAGE_INFORMATION' => 'Profile Picture',
+	'Lead Image' => 'Lead Image',
 );
 $jsLanguageStrings = array(
-	'JS_SELECT_CONTACTS' => 'Επιλογή επαφών για συνέχιση',
-	'JS_SELECT_ORGANIZATION' => 'Επιλογή οργανισμών για συνέχιση',
-	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Η μετατροπή απαιτεί επιλογή Επαφής ή Οργανισμού'
+	'JS_SELECT_CONTACTS' => 'Select Contacts to proceed',
+	'JS_SELECT_ORGANIZATION' => 'Select Organization to proceed',
+	'JS_SELECT_ORGANIZATION_OR_CONTACT_TO_CONVERT_LEAD' => 'Conversion requires selection of Contact or Organization'
 );

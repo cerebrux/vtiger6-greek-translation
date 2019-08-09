@@ -6,29 +6,29 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Home Page Components
-	'ALVT' => 'Κορυφαίοι Οργανισμοί',
-	'PLVT' => 'Κορυφαίες Ευκαιρίες',
-	'QLTQ' => 'Κορυφαίες Προσφορές',
-	'CVLVT' => 'Βασικές Μετρικές',
-	'HLT' => 'Κορυφαίες Αναφορές Προβλημ.',
-	'GRT' => 'Κατανομή της Ομάδας μου',
-	'OLTSO' => 'Κορυφαίες Παραγγελίες',
-	'ILTI' => 'Κορυφαία Τιμολόγια',
-	'HDB' => 'Ταμπλό Αρχικής Σελίδας',
-	'OLTPO' => 'Κορυφαίες Εντολές Αγοράς',
-	'LTFAQ' => 'Πρόσφατα FAQs',
-	'UA' => 'Προσεχείς Δραστηριότητες',
-	'PA' => 'Εκκρεμής Δραστηριότητες',
+	'ALVT' => 'Top Organizations',
+	'PLVT' => 'Top Opportunities',
+	'QLTQ' => 'Top Quotes',
+	'CVLVT' => 'Key Metrics',
+	'HLT' => 'Top Support Tickets',
+	'GRT' => 'My Group Allocation',
+	'OLTSO' => 'Top Sales Orders',
+	'ILTI' => 'Top Invoices',
+	'HDB' => 'Home Page Dashboard',
+	'OLTPO' => 'Top Purchase Orders',
+	'LTFAQ' => 'My Recent FAQs',
+	'UA' => 'Upcoming Activities',
+	'PA' => 'Pending Activities',
+    'Home'=> 'Dashboard',
+	'LBL_SAVE_ORDER'=>'Save Order',
+	'LBL_ADD_NEW_DASHBOARD'=>'Add new dashboard',
+	'LBL_MAX_CHARACTERS_ALLOWED_DASHBOARD' => 'Maximum 30 characters are allowed for dashboard name.',
+);
+
+$jsLanguageStrings = array(
+	'JS_TAB_NAME_SHOULD_NOT_BE_EMPTY' => 'Dashboard name cannot not be empty',
+	'JS_NO_DATA_AVAILABLE' => 'No data available',
 );

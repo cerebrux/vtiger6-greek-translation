@@ -6,37 +6,33 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Προσθήκη εξάρτησης σε Λίστα Επιλογών',
-	'LBL_PICKLIST_DEPENDENCY' => 'Εξάρτηση Λίστας Επιλογών',
-	'LBL_SELECT_MODULE' => 'Άρθρωμα',
-	'LBL_SOURCE_FIELD' => 'Πεδίο Προέλευσης',
-	'LBL_TARGET_FIELD' => 'Πεδίο Προορισμού',
-	'LBL_SELECT_FIELD' => 'Πεδίο Επιλογής',
-	'LBL_CONFIGURE_DEPENDENCY_INFO' => 'Κάντε κλικ στο αντίστοιχο κελί για να αλλάξετε τη διάταξη για τις τιμές της λίστας επιλογών του πεδίου προορισμού',
-	'LBL_CONFIGURE_DEPENDENCY_HELP_1' => 'Μόνο τιμές της λίστας επιλογών του πεδίου προέλευσης που έχει γίνει διάταξη θα φαίνεται παρακάτω (εκτός από την πρώτη φορά)',
-	'LBL_CONFIGURE_DEPENDENCY_HELP_2' => "Αν θέλετε να δείτε ή να αλλάξετε τη διάταξη για τις άλλες τιμές της λίστας επιλογών πεδίου προέλευσης, <br/> μπορείτε να επιλέξετε τις τιμές κάνοντας κλικ στο <b>'Επιλέξτε τιμές Προέλευσης'</b> κουμπί στη δεξιά πλευρά",
-	'LBL_CONFIGURE_DEPENDENCY_HELP_3' => 'Επιλεγμένες τιμές των πεδίων προορισμού, επισημαίνονται ως',
-	'LBL_SELECT_SOURCE_VALUES' => 'Επιλέξτε τιμές Προέλευσης',
-	'LBL_SELECT_SOURCE_PICKLIST_VALUES' => 'Επιλέξτε τιμές λίστας επιλογών προέλευσης',
-	'LBL_ERR_CYCLIC_DEPENDENCY' => 'Αυτή η εγκατάσταση εξάρτησης δεν επιτρέπεται επειδή καταλήγει σε κυκλική ατέρμονη εξάρτηση',
+	'LBL_ADD_RECORD' => 'Add Picklist Dependency',
+    'PickListDependency' => 'PickList Dependency',
+	'LBL_PICKLIST_DEPENDENCY' => 'Picklist Dependency',
+	'LBL_SELECT_MODULE' => 'Module',
+	'LBL_SOURCE_FIELD' => 'Source Field',
+	'LBL_TARGET_FIELD' => 'Target Field',
+	'LBL_SELECT_FIELD' => 'Select field',
+	'LBL_CONFIGURE_DEPENDENCY_INFO' => 'Click on the respective cell to change the mapping for picklist values of target field',
+	'LBL_CONFIGURE_DEPENDENCY_HELP_1' => 'Only mapped picklist values of the Source field will be shown below (except for first time)',
+	'LBL_CONFIGURE_DEPENDENCY_HELP_2' => "If you want to see or change the mapping for the other picklist values of Source field, <br/>
+										then you can select the values by clicking on <b>'Select Source values'</b> button on the right side",
+	'LBL_CONFIGURE_DEPENDENCY_HELP_3' => 'Selected values of the Target field values, are highlighted as',
+	'LBL_SELECT_SOURCE_VALUES' => 'Select Source Values',
+	'LBL_SELECT_SOURCE_PICKLIST_VALUES' => 'Select Source Picklist Values',
+	'LBL_ERR_CYCLIC_DEPENDENCY' => 'This dependency setup is not allowed as it ends up in some cyclic dependency',
+	'LBL_SELECT_ALL_VALUES' => 'Select All',
+	'LBL_UNSELECT_ALL_VALUES' => 'Unselect All',
+    'LBL_CYCLIC_DEPENDENCY_ERROR' => 'This could end up in cyclic redundancy as %s field is already configured for %s field',
 );
 
 $jsLanguageStrings = array(
-	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την εξάρτηση λίστας επιλογών;',
-	'JS_DEPENDENCY_DELETED_SUEESSFULLY' => 'Η εξάρτηση διαγράφηκε με επιτυχία',
-	'JS_PICKLIST_DEPENDENCY_SAVED' => 'Η εξάρτηση λίστας επιλογών αποθηκεύτηκε',
-    'JS_DEPENDENCY_ATLEAST_ONE_VALUE' => 'Πρέπει να επιλέξετε τουλάχιστον μία τιμή για',
-	'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME' => 'Το πεδίο προέλευσης και προορισμού δεν πρέπει αν είναι ίδιο',
-	'JS_SELECT_SOME_VALUE' => 'Επιλέξτε κάποια τιμή',
+	'JS_LBL_ARE_YOU_SURE_YOU_WANT_TO_DELETE' => 'Are you sure you want to delete this picklist dependency?',
+	'JS_DEPENDENCY_DELETED_SUEESSFULLY' => 'Dependency deleted successfully',
+	'JS_PICKLIST_DEPENDENCY_SAVED' => 'Picklist Dependency Saved',
+    'JS_DEPENDENCY_ATLEAST_ONE_VALUE' => 'You need to select atleast one value for',
+	'JS_SOURCE_AND_TARGET_FIELDS_SHOULD_NOT_BE_SAME' => 'Source field and Target field should not be same',
+	'JS_SELECT_SOME_VALUE' => 'Select some value'
 );

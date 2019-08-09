@@ -6,41 +6,33 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Accounts' => 'Οργανσιμοί & Επαφές',
-	'LBL_ADD_CUSTOM_RULE' => 'Προσθήκη Προσαρμοσμένου Κανόνα',
-	'Read Only' => 'Ανάγνωση μόνο',
-	'Read Write' => 'Ανάγνωση/Εγγραφή',
-	'LBL_ADD_CUSTOM_RULE_TO' => 'Προσθήκη Προσαρμοσμένου Κανόνα σε',
-	'LBL_CAN_ACCESSED_BY' => 'Μπορεί να ανατεθεί από',
-	'LBL_PRIVILEGES' => 'Προνόμια',
-	'LBL_SHARING_RULE' =>  'Κανόνες Διαμοιρασμού',
-	'LBL_RULE_NO' => 'Αριθμός Κανόνα',
-	'LBL_MODULE' => 'Άρθρωμα',
-	'LBL_ADVANCED_SHARING_RULES' => 'Σύνθετες Κανόνες Διαμοιρασμού',
-	'LBL_WITH_PERMISSIONS' => 'Με Δικαιώματα',
-	'LBL_APPLY_NEW_SHARING_RULES' => 'Εφαρμογή των νέων κανόνων Διαμοιρασμού',
-	'LBL_READ' => 'Ανάγνωση',
-	'LBL_READ_WRITE' => 'Ανάγνωση και Εγγραφή',
-	'LBL_CUSTOM_ACCESS_MESG' => 'Κανένας προσαρμοσμένος κανόνας δεν έχει οριστεί',
-	'SINGLE_Groups' => 'Ομάδα',
-	'SINGLE_Roles' => 'Ρόλος',
+    'SharingAccess' => 'Sharing Rules',
+	'Accounts' => 'Organizations & Contacts',
+	'LBL_ADD_CUSTOM_RULE' => 'Add Custom Rule',
+	'Read Only' => 'Read Only',
+	'Read Write' => 'Read/Write',
+	'LBL_ADD_CUSTOM_RULE_TO' => 'Add Custom Rule to',
+	'LBL_CAN_ACCESSED_BY' => 'Can be accessed by',
+	'LBL_PRIVILEGES' => 'Privileges',
+	'LBL_SHARING_RULE' =>  'Sharing Rules',
+	'LBL_RULE_NO' => 'Rule Number',
+	'LBL_MODULE' => 'Module',
+	'LBL_ADVANCED_SHARING_RULES' => 'Advanced Sharing Rules',
+	'LBL_WITH_PERMISSIONS' => 'With Permissions',
+	'LBL_APPLY_NEW_SHARING_RULES' => 'Apply New Sharing Rules',
+	'LBL_READ' => 'Read',
+	'LBL_READ_WRITE' => 'Read and Write',
+	'LBL_CUSTOM_ACCESS_MESG' => 'No Custom Access Rules defined',
+	'SINGLE_Groups' => 'Group',
+	'SINGLE_Roles' => 'Role',
 	'SINGLE_RoleAndSubordinates' => 'RoleAndSubordinate',
 );
 
 $jsLanguageStrings = array(
-	'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY' => 'Προσαρμοσμένος κανόνας διαμοιρασμού αποθηκεύτηκε με επιτυχία',
-	'JS_SELECT_ANY_OTHER_ACCESSING_USER' => 'Επιλέξτε οποιαδήποτε άλλη πρόσβαση των χρηστών',
-	'JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY' => 'Νέοι κανόνες διαμοιρασμού αποθηκεύτηκαν με επιτυχία',
-	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Οι Πρόσβαση σε Ευκαιρίες, Αιτήματα, Προσφορές, Εντολές Πωλήσεων & Τιμολόγια πρέπει να τεθούν σε Ιδιωτικό όταν η Πρόσβαση Οργανισμών έχει τεθεί σε Ιδιωτικό',
+	'JS_CUSTOM_RULE_SAVED_SUCCESSFULLY' => 'Custom Sharing Rule Saved Successfully',
+	'JS_SELECT_ANY_OTHER_ACCESSING_USER' => 'Select any other accessing user',
+	'JS_NEW_SHARING_RULES_APPLIED_SUCCESSFULLY' => 'New Sharing Rules Applied Successfully',
+	'JS_DEPENDENT_PRIVILEGES_SHOULD_CHANGE' => 'Opportunities, Tickets, Quotes, SalesOrder & Invoice Access must be set to Private when the Organization Access is set to Private',
 );

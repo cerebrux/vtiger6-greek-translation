@@ -6,52 +6,48 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
+    
+    'Invoice'   =>  'Invoices',
 	//DetailView Actions
-	'SINGLE_Invoice' => 'Τιμολόγιο',
-	'LBL_EXPORT_TO_PDF' => 'Εξαγωγή σε PDF',
-    'LBL_SEND_MAIL_PDF' => 'Αποστολή Email με PDF',
+	'SINGLE_Invoice' => 'Invoice',
+	'LBL_EXPORT_TO_PDF' => 'Export to PDF',
+    'LBL_SEND_MAIL_PDF' => 'Send Email with PDF',
 
 	//Basic strings
-	'LBL_ADD_RECORD' => 'Προσθήκη Τιμολογίου',
-	'LBL_RECORDS_LIST' => 'Λίστα Τιμολογίων',
+	'LBL_ADD_RECORD' => 'Add Invoice',
+	'LBL_RECORDS_LIST' => 'Invoice List',
 
 	// Blocks
-	'LBL_INVOICE_INFORMATION' => 'Λεπτομέρειες Τιμολογίων',
+	'LBL_INVOICE_INFORMATION' => 'Invoice Details',
 
 	//Field labels
-	'Sales Order' => 'Πωλήσεις',
-	'Customer No' => 'Αρ. Πελάτη',
-	'Invoice Date' => 'Ημερομηνία Τιμολογίου',
-	'Purchase Order' => 'Εντολή Αγοράς',
-	'Sales Commission' => 'Προμήθεια Πωλήσεων',
-	'Invoice No' => 'Αρ. Τιμολογίου',
-	'LBL_RECEIVED' => 'Ελήφθη',
-	'LBL_BALANCE' => 'Υπόλοιπο',
+	'Sales Order' => 'Sales Order',
+	'Customer No' => 'Customer No',
+	'Invoice Date' => 'Invoice Date',
+	'Purchase Order' => 'Purchase Order',
+	'Sales Commission' => 'Sales Commission',
+	'Invoice No' => 'Invoice No',
+	'LBL_RECEIVED' => 'Received',
+	'LBL_BALANCE' => 'Balance',
 	//Added for existing Picklist Entries
 
-	'Sent'=>'Απεστάλλει',
-	'Credit Invoice'=>'Πιστωτικό Τιμολόγιο',
-	'Paid'=>'Πληρωμένο',
-	'AutoCreated'=>'αυτοδημιουργήθηκε',
-	'Cancel' => 'Ακύρωση',
+	'Sent'=>'Sent',
+	'Credit Invoice'=>'Credit Invoice',
+	'Paid'=>'Paid',
+	'AutoCreated'=>'AutoCreated',
+	'Cancel' => 'Cancel',
 	
 	//Translation for product not found
-	'LBL_THIS' => 'Αυτό',
-	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'διεγράφη από το σύστημα. παρακαλούμε να αφαιρέσετε ή να αντικαταστήσετε αυτό το στοιχείο',
-	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'Αυτό το στοιχείο γραμμής έχει διαγραφεί από το σύστημα, παρακαλούμε να καταργήσετε αυτό στοιχεία γραμμής',
+	'LBL_THIS' => 'This',
+	'LBL_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_OR_REPLACE_THIS_ITEM' => 'is deleted from the system.please remove or replace this item',
+	'LBL_THIS_LINE_ITEM_IS_DELETED_FROM_THE_SYSTEM_PLEASE_REMOVE_THIS_LINE_ITEM' => 'This line item is deleted from the system,please remove this line items',
+	'LBL_NOT_A_BUNDLE' => 'Not a Bundle',
+	'LBL_SUB_PRODUCTS'	=> 'Sub Products',
+	'LBL_ACTION'	=> 'Action',
 );
 
 $jsLanguageStrings = array(
-	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Παρακαλώ αφαιρέστε το στοιχείο γραμμής που έχει διαγραφεί',
+	'JS_PLEASE_REMOVE_LINE_ITEM_THAT_IS_DELETED' => 'Please remove line item that is deleted',
 );

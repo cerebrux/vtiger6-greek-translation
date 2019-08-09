@@ -6,66 +6,59 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Accounts' => 'Οργανισμοί',
-	'SINGLE_Accounts' => 'Οργανισμός',
-	'LBL_ADD_RECORD' => 'Προσθήκη Οργανισμού',
-	'LBL_RECORDS_LIST' => 'Λίστα Οργανισμών',
+	'Accounts' => 'Organizations',
+	'SINGLE_Accounts' => 'Organization',
+	'LBL_ADD_RECORD' => 'Add Organization',
+	'LBL_RECORDS_LIST' => 'Organization List',
 
 	// Blocks
-	'LBL_ACCOUNT_INFORMATION' => 'Λεπτομέρειες Οργανισμού',
+	'LBL_ACCOUNT_INFORMATION' => 'Organization Details',
 
 	// Mass Action
-	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Ιεραρχία Οργανισμού',
+	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Organization Hierarchy',
 
 	//Field Labels
-	'industry' => 'Βιομηχανία',
-	'Account Name' => 'Όνομα Οργανισμού',
-	'Account No' => 'Αριθμός Οργανισμού',
-	'Website' => 'Ιστοσελίδα',
-	'Ticker Symbol' => 'Σύμβολο Μετοχής',
-	'Member Of' => 'Μέλος...',
-	'Employees' => 'Εργαζόμενοι',
-	'Ownership' => 'Κυριότητα',
-	'SIC Code' => 'ΑΦΜ',
-	'Other Email' => 'Δευτερεύων Email',
-	'Other Phone' => 'Δευτερεύων Τηλ',
-	'Phone' => 'Τηλέφωνο',
-	'Email' => 'Email',
-	
+	'industry' => 'Industry',
+	'Account Name' => 'Organization Name',
+	'Account No' => 'Organization Number',
+	'Website' => 'Website',
+	'Ticker Symbol' => 'Ticker Symbol',
+	'Member Of' => 'Member Of',
+	'Employees' => 'Employees',
+	'Ownership' => 'Ownership',
+	'SIC Code' => 'SIC Code',
+	'Other Email' => 'Secondary Email',
+	'Other Phone' => 'Secondary Phone',
+	'Phone' => 'Primary Phone',
+	'Email' => 'Primary Email',
+	'Type' => 'Type',
+
 	//Added for existing picklist entries
-	
-	'Analyst'=>'Αναλυτής',
-	'Competitor'=>'Ανταγωνιστής',
-	'Customer'=>'Πελάτης',
-	'Integrator'=>'Ενοποιητής',
-	'Investor'=>'Επενδυτής',
-	'Press'=>'Τύπος',
-	'Prospect'=>'Προοπτική',
-	'Reseller'=>'Μεταπωλητής',
-	'LBL_START_DATE' => 'Ημερομηνία Έναρξης',
-	'LBL_END_DATE' => 'Ημερομηνία Λήξης',
-	
+	'Analyst'=>'Analyst',
+	'Competitor'=>'Competitor',
+	'Customer'=>'Customer',
+	'Integrator'=>'Integrator',
+	'Investor'=>'Investor',
+	'Press'=>'Press',
+	'Prospect'=>'Prospect',
+	'Reseller'=>'Reseller',
+	'LBL_START_DATE' => 'Start Date',
+	'LBL_END_DATE' => 'End Date',
+
 	//Duplication error message
-	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Οργάνωσης υπάρχει ήδη',
-	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης αποστολής',
-	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης χρέωσης',
+	'LBL_DUPLICATES_EXIST' => 'Organization Name already exists',
+	'LBL_COPY_SHIPPING_ADDRESS' => 'Copy Shipping Address',
+	'LBL_COPY_BILLING_ADDRESS' => 'Copy Billing Address',
+	'LBL_IMAGE_INFORMATION' => 'Profile Picture',
+	'Organization Image' => 'Organization Image',
 );
 
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε;',
-	'LBL_DELETE_CONFIRMATION' => 'Η διαγραφή αυτού του Οργανισμού θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε αυτόν τον Οργανισμό;',
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Διαγραφή αυτού του Οργανισμού(ων) θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε τα επιλεγμένα στοιχεία;',
-	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Το όνομα του Οργανισμού υπάρχει ήδη. Θέλετε να δημιουργήσετε μια διπλότυπη εγγραφή;',
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to delete?',
+	'LBL_DELETE_CONFIRMATION' => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?',
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting this Organization(s) will remove its related Opportunities & Quotes. Are you sure you want to delete the selected records?',
+	'JS_DUPLICATE_CREATION_CONFIRMATION' => 'Organization Name already Exists.Do you want to create a duplicate record?'
 );

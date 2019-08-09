@@ -6,103 +6,98 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 
 /* NOTE: Should be inline with Calendar language translation but few variations */
 
 $languageStrings = array(
-	'LBL_CREATE_FOLLOWUP_EVENT' => 'Δημιουργία συνέχειας Γεγονότος',
 	// Basic Strings
-	'Events' => 'Γεγονότα',
-	'SINGLE_Events' => 'Γεγονός',
-	'LBL_ADD_RECORD' => 'Προσθήκη Γεγονότος',
-	'LBL_RECORDS_LIST' => 'Προβολή Λίστα',
-	'LBL_EVENTS' => 'Γεγονότα',
-	'LBL_TODOS' => 'Προς Εκτέλεση',
-	'LBL_HOLD_FOLLOWUP_ON' => 'Παρακολούθηση συνέχειας στις',
+	'Events' => 'Events',
+	'SINGLE_Events' => 'Event',
+	'LBL_ADD_RECORD' => 'Add Event',
+	'LBL_RECORDS_LIST' => 'Events List',
+	'LBL_EVENTS' => 'Events',
+	'LBL_TODOS' => 'Task',
+	'LBL_HOLD_FOLLOWUP_ON' => 'Hold Followup on',
+    'LBL_CREATE_FOLLOWUP_EVENT' => 'Create Follow Up Event',
 	
 	// Blocks
-	'LBL_EVENT_INFORMATION' => 'Πληροφορίες Γεγονότων',
-	'LBL_RECURRENCE_INFORMATION' => 'Πληροφορίες Επανεμφάνισης',
-    'LBL_RELATED_TO' => 'Σχετίζετε με',
+	'LBL_EVENT_INFORMATION' => 'Event Details',
+	'LBL_RECURRENCE_INFORMATION' => 'Recurrence Details',
+    'LBL_RELATED_TO' => 'Related To',
 	
 	//Fields
-	'Start Date & Time'=>'Ημ.Έναρξης',
-	'Recurrence' => 'Επανάληψη',
-	'Send Notification' => 'Αποστολή Ειδοποίησης',
-	'Location'=>'Τοποθεσία',
-	'Send Reminder' => 'Αποστολή Email πριν από',
-	'End Date & Time' => 'Ημερομηνία Περαίωσης',
-	'Activity Type'=>'Τύπος Δραστηριότητας',
-	'Visibility' => 'Ορατότητα',
-	'Recurrence' => 'Επανάληψη',
-	
+	'Start Date & Time'=>'Start Date & Time',
+	'Recurrence' => 'Recurrence',
+	'Send Notification' => 'Send Notification',
+	'Location'=>'Location',
+	'Send Reminder' => 'Send Email Reminder Before',
+	'End Date & Time' => 'End Date & Time',
+	'End Date' => 'End Date & Time',
+    'Activity Type'=>'Activity Type',
+	'Visibility' => 'Visibility',
+	'Recurrence' => 'Repeat',
+    'Related To' => 'Related To',
+    
 	//Visibility picklist values
-	'Private' => 'Ιδιωτικό',
-	'Public' => 'Δημόσιο',
+	'Private' => 'Private',
+	'Public' => 'Public',
 	
 	//Activity Type picklist values
-	'Call' => 'Τηλεφώνημα',
-	'Meeting' => 'Ραντεβού',
+	'Call' => 'Call',
+	'Meeting' => 'Meeting',
 	
 	//Status picklist values
-	'Planned' => 'Προγραμματισμένο',
-	'Held' => 'Πραγματοποιήθηκε',
-	'Not Held' => 'Δεν πραγματοποιήθηκε',
+	'Planned' => 'Planned',
+	'Held' => 'Held',
+	'Not Held' => 'Not Held',
 	
 	//Reminder Labels
-	'LBL_DAYS' => 'Ημέρες',
-	'LBL_HOURS' => 'Ώρες',
+	'LBL_DAYS' => 'Days',
+	'LBL_HOURS' => 'Hours',
 	
 	//Repeat Labels
-	'LBL_DAYS_TYPE' => 'Ημέρα/ες',
-	'LBL_WEEKS_TYPE' => 'Εβδομάδα/ες',
-	'LBL_MONTHS_TYPE' => 'Μήνας/ες',
-	'LBL_YEAR_TYPE' => 'Έτος',
+	'LBL_DAYS_TYPE' => 'Day(s)',
+	'LBL_WEEKS_TYPE' => 'Week(s)',
+	'LBL_MONTHS_TYPE' => 'Month(s)',
+	'LBL_YEAR_TYPE' => 'Year',
 	
-	'LBL_FIRST' => 'Πρώτο',
-	'LBL_LAST' => 'Δεύτερο',
+	'LBL_FIRST' => 'First',
+	'LBL_LAST' => 'Last',
 	
-	'LBL_SM_SUN' => 'Κυρ',
-	'LBL_SM_MON' => 'Δευ',
-	'LBL_SM_TUE' => 'Τρι',
-	'LBL_SM_WED' => 'Τετ',
-	'LBL_SM_THU' => 'Πεμ',
-	'LBL_SM_FRI' => 'Παρ',
-	'LBL_SM_SAT' => 'Σαβ',
+	'LBL_SM_SUN' => 'Sun',
+	'LBL_SM_MON' => 'Mon',
+	'LBL_SM_TUE' => 'Tue',
+	'LBL_SM_WED' => 'Wed',
+	'LBL_SM_THU' => 'Thr',
+	'LBL_SM_FRI' => 'Fri',
+	'LBL_SM_SAT' => 'Sat',
 	
-	'LBL_DAY0' => 'Κυριακή',
-	'LBL_DAY1' => 'Δεύτερα',
-	'LBL_DAY2' => 'Τρίτη',
-	'LBL_DAY3' => 'Τετάρτη',
-	'LBL_DAY4' => 'Πέμπτη',
-	'LBL_DAY5' => 'Παρασκευή',
-	'LBL_DAY6' => 'Σάββατο',
+	'LBL_DAY0' => 'Sunday',
+	'LBL_DAY1' => 'Monday',
+	'LBL_DAY2' => 'Tuesday',
+	'LBL_DAY3' => 'Wednesday',
+	'LBL_DAY4' => 'Thursday',
+	'LBL_DAY5' => 'Friday',
+	'LBL_DAY6' => 'Saturday',
 	
-	'Daily'=>'Ημέρα/ες',
-	'Weekly'=>'Εβδομάδα/ες',
-	'Monthly'=>'Μήνας/ες',
-	'Yearly'=>'Έτος',
+	'Daily'=>'Day(s)',
+	'Weekly'=>'Week(s)',
+	'Monthly'=>'Month(s)',
+	'Yearly'=>'Year',
 	
-	'LBL_REPEATEVENT' => 'Επανάληψη κάθε',
-	'LBL_UNTIL' => 'Μέχρι',
-	'LBL_DAY_OF_THE_MONTH' => 'Ημέρα του Μήνα',
-	'LBL_ON' => 'στις',
+	'LBL_REPEATEVENT' => 'Once in every',
+	'LBL_UNTIL' => 'Until',
+	'LBL_DAY_OF_THE_MONTH' => 'day of the month',
+	'LBL_ON' => 'on',
 	
-	'LBL_RECORDS_LIST' => 'Προβολή Λίστα',
-	'LBL_CALENDAR_VIEW' => 'Ημερολόγιο',
+	'LBL_RECORDS_LIST' => 'List View',
+	'LBL_CALENDAR_VIEW' => 'Calendar View',
 
-    'LBL_INVITE_USER_BLOCK' => 'Πρόσκληση',
-    'LBL_INVITE_USERS' => 'Πρόσκληση Χρηστών',
-	'INVITATION'=>' Πρόσκληση ',
+    'LBL_INVITE_USER_BLOCK' => 'Invite',
+    'LBL_INVITE_USERS' => 'Invite Users',
+    'LBL_INVITE_PEOPLE' => 'Invite People',
+	'INVITATION'=>' Invitation ',
+	'Busy' => 'Busy',
 
 );
