@@ -9,56 +9,56 @@
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Accounts' => 'Organizations',
-	'SINGLE_Accounts' => 'Organization',
-	'LBL_ADD_RECORD' => 'Add Organization',
-	'LBL_RECORDS_LIST' => 'Organization List',
+	'Accounts' => 'Εταιρείες',
+	'SINGLE_Accounts' => 'Εταιρεία',
+	'LBL_ADD_RECORD' => 'Προσθήκη Εταιρείας',
+	'LBL_RECORDS_LIST' => 'Λίστα Εταιρειών',
 
 	// Blocks
-	'LBL_ACCOUNT_INFORMATION' => 'Organization Details',
+	'LBL_ACCOUNT_INFORMATION' => 'Λεπτομέρειες Εταιρείας',
 
 	// Mass Action
-	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Organization Hierarchy',
+	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Ιεραρχία Εταιρείας',
 
 	//Field Labels
-	'industry' => 'Industry',
-	'Account Name' => 'Organization Name',
-	'Account No' => 'Organization Number',
-	'Website' => 'Website',
-	'Ticker Symbol' => 'Ticker Symbol',
-	'Member Of' => 'Member Of',
-	'Employees' => 'Employees',
-	'Ownership' => 'Ownership',
-	'SIC Code' => 'SIC Code',
-	'Other Email' => 'Secondary Email',
-	'Other Phone' => 'Secondary Phone',
-	'Phone' => 'Primary Phone',
-	'Email' => 'Primary Email',
-	'Type' => 'Type',
+	'industry' => 'Βιομηχανία',
+	'Account Name' => 'Όνομα Εταιρείας',
+	'Account No' => 'Αριθμός Εταιρείας',
+	'Website' => 'Ιστοσελίδα',
+	'Ticker Symbol' => 'Σύμβολο Μετοχής',
+	'Member Of' => 'Μέλος...',
+	'Employees' => 'Εργαζόμενοι',
+	'Ownership' => 'Κυριότητα',
+	'SIC Code' => 'ΑΦΜ',
+	'Other Email' => 'Δευτερεύων Email',
+	'Other Phone' => 'Δευτερεύων Τηλ',
+	'Phone' => 'Τηλέφωνο',
+	'Email' => 'Email',
+	'Type' => 'Είδος',
 
 	//Added for existing picklist entries
-	'Analyst'=>'Analyst',
-	'Competitor'=>'Competitor',
-	'Customer'=>'Customer',
-	'Integrator'=>'Integrator',
-	'Investor'=>'Investor',
-	'Press'=>'Press',
-	'Prospect'=>'Prospect',
-	'Reseller'=>'Reseller',
-	'LBL_START_DATE' => 'Start Date',
-	'LBL_END_DATE' => 'End Date',
-
+	'Analyst'=>'Αναλυτής',
+	'Competitor'=>'Ανταγωνιστής',
+	'Customer'=>'Πελάτης',
+	'Integrator'=>'Ενοποιητής',
+	'Investor'=>'Επενδυτής',
+	'Press'=>'Τύπος',
+	'Prospect'=>'Προοπτική',
+	'Reseller'=>'Μεταπωλητής',
+	'LBL_START_DATE' => 'Ημερομηνία Έναρξης',
+	'LBL_END_DATE' => 'Ημερομηνία Λήξης',
+	
 	//Duplication error message
-	'LBL_DUPLICATES_EXIST' => 'Organization Name already exists',
-	'LBL_COPY_SHIPPING_ADDRESS' => 'Copy Shipping Address',
-	'LBL_COPY_BILLING_ADDRESS' => 'Copy Billing Address',
-	'LBL_IMAGE_INFORMATION' => 'Profile Picture',
-	'Organization Image' => 'Organization Image',
+	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Εταρείας υπάρχει ήδη',
+	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης αποστολής',
+	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης χρέωσης',
+	'LBL_IMAGE_INFORMATION' => 'Φωτογραφία Προφίλ',
+	'Organization Image' => 'Φωτογραφία Εταιρείας',
 );
 
 $jsLanguageStrings = array(
-	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Are you sure you want to delete?',
-	'LBL_DELETE_CONFIRMATION' => 'Deleting this Organization will remove its related Opportunities & Quotes. Are you sure you want to delete this Organization?',
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Deleting this Organization(s) will remove its related Opportunities & Quotes. Are you sure you want to delete the selected records?',
-	'JS_DUPLICATE_CREATION_CONFIRMATION' => 'Organization Name already Exists.Do you want to create a duplicate record?'
+	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε;',
+	'LBL_DELETE_CONFIRMATION' => 'Η διαγραφή της Εταιρείας θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την Εταιρεία;',
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Διαγραφή της(ών) Εταιρείας(ων) θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε τα επιλεγμένα στοιχεία;',
+	'JS_DUPLICATE_CREATION_CONFIRMATION' => 'Το όνομα της Εταιρείας υπάρχει ήδη. Θέλετε να δημιουργήσετε μια διπλότυπη εγγραφή;'
 );

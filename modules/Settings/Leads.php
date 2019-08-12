@@ -9,10 +9,10 @@
  *************************************************************************************/
 $languageStrings = array(
 	//Actions
-	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Convert Lead Mapping',
-	'LBL_ORGANIZATIONS' => 'Organizations',
-	'LBL_CONTACTS' => 'Contacts',
-	'LBL_OPPURTUNITIES' => 'Oppurtunities',
+	'LBL_CONVERT_LEAD_FIELD_MAPPING' => 'Μετατροπή Συσχέτισης Δυνητικού Πελάτη',
+	'LBL_ORGANIZATIONS' => 'Εταιρείες',
+	'LBL_CONTACTS' => 'Πελάτες',
+	'LBL_OPPURTUNITIES' => 'Ευκαιρίες',
 );
 $jsLanguageStrings = array(
 );
