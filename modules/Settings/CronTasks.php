@@ -6,31 +6,22 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'CronTasks' => 'Προγραμματισμένες εργασίες',
+	'CronTasks' => 'Scheduler',
 
 	//Basic Field Names
-	'Id' => 'Κωδ.',
-	'Cron Job' => 'Εργασία',
-	'Frequency' => 'Συχνότητα',
-	'Status' => 'Κατάσταση Πρ. Εργασίας',
-	'Last Start' => 'Τελευταία έναρξη',
-	'Last End' => 'Τελευταία λήξη',
-	'Sequence' => 'Σειρά',
+	'Id' => 'Id',
+	'Cron Job' => 'Cron Job',
+	'Frequency' => 'Frequency',
+	'Status' => 'Status',
+	'Last Start' => 'Last scan started',
+	'Last End' => 'Last scan ended',
+	'Sequence' => 'Sequence',
 
 	//Actions
-	'LBL_COMPLETED' => 'Ολοκληρώθηκε',
-	'LBL_RUNNING' => 'Εκτελείται',
-	'LBL_ACTIVE' => 'Ενεργή',
-	'LBL_INACTIVE' => 'Μη ενεργή',
+	'LBL_COMPLETED' => 'Completed',
+	'LBL_RUNNING' => 'Running',
+	'LBL_ACTIVE' => 'Active',
+	'LBL_INACTIVE' => 'In Active',
 );

@@ -6,73 +6,62 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Contacts' => 'Επαφές',
-	'SINGLE_Contacts' => 'Επαφή',
-	'LBL_ADD_RECORD' => 'Νέα Επαφή',
-	'LBL_RECORDS_LIST' => 'Λίστα Επαφών',
+	'Contacts' => 'Contacts',
+	'SINGLE_Contacts' => 'Contact',
+	'LBL_ADD_RECORD' => 'Add Contact',
+	'LBL_RECORDS_LIST' => 'Contacts List',
 
 	// Blocks
-	'LBL_CONTACT_INFORMATION' => 'Βασικές Πληροφορίες',
-	'LBL_CUSTOMER_PORTAL_INFORMATION' => 'Πληροφ. Δικτυακής Πύλης Πελάτη',
-	'LBL_IMAGE_INFORMATION' => 'Εικόνα του Προφίλ',
-	'LBL_COPY_OTHER_ADDRESS' => 'Αντιγραφή Άλλης Δ/νσης',
-	'LBL_COPY_MAILING_ADDRESS' => 'Αντιγραφή Δ/νσης Αλληλογραφίας',
+	'LBL_CONTACT_INFORMATION' => 'Basic Information',
+	'LBL_CUSTOMER_PORTAL_INFORMATION' => 'Customer Portal Details',
+	'LBL_IMAGE_INFORMATION' => 'Profile Picture',
+	'LBL_COPY_OTHER_ADDRESS' => 'Copy Other Address',
+	'LBL_COPY_MAILING_ADDRESS' => 'Copy Mailing Address',
 
 	//Field Labels
-	'Office Phone' => 'Τηλ. Γραφείου',
-	'Home Phone' => 'Τηλ. Οικίας',
-	'Title' => 'Τίτλος',
-	'Department' => 'Τμήμα',
-	'Birthdate' => 'Γενέθλια',
-	'Reports To' => 'Αναφέρεται Στον/Την',
-	'Assistant' => 'Βοηθός',
-	'Assistant Phone' => 'Τηλ. Βοηθού',
-	'Do Not Call' => 'Μην Καλέσετε',
-	'Reference' => 'Σύσταση',
-	'Portal User' => 'Χρήστης Δικτυακής Πύλης ',
-	'Mailing Street' => 'Οδός Αλληλογραφίας',
-	'Mailing City' => 'Πόλη Αλληλογραφίας',
-	'Mailing State' => 'Νομός Αλληλογραφίας',
-	'Mailing Zip' => 'Τ.Κ. Αλληλογραφίας',
-	'Mailing Country' => 'Χώρα Αλληλογραφίας',
-	'Mailing PO Box' => 'Mailing P.O. Box',
-	'Other Street' => 'Άλλη Οδός',
-	'Other City' => 'Άλλη Πόλη',
-	'Other State' => 'Άλλος Νομός',
-	'Other Zip' => 'Άλλος Τ.Κ.',
-	'Other Country' => 'Άλλη Χώρα',
-	'Other PO Box' => 'Other P.O. Box',
-	'Contact Image' => 'Φωτογραφία Επαφής',
-	'Other Phone' => 'Άλλο Τηλ.',
-	'Email' => 'Email',
-	'Secondary Email' => 'Άλλο Email',
-	'Contact Id' => 'Αρ. Επαφής',
+	'Office Phone' => 'Office Phone',
+	'Home Phone' => 'Home Phone',
+	'Title' => 'Title',
+	'Department' => 'Department',
+	'Birthdate' => 'Date of Birth',
+	'Reports To' => 'Reports To',
+	'Assistant' => 'Assistant',
+	'Assistant Phone' => 'Assistant Phone',
+	'Do Not Call' => 'Do Not Call',
+	'Reference' => 'Reference',
+	'Portal User' => 'Portal User',
+	'Mailing Street' => 'Mailing Street',
+	'Mailing City' => 'Mailing City',
+	'Mailing State' => 'Mailing State',
+	'Mailing Zip' => 'Mailing Zip',
+	'Mailing Country' => 'Mailing Country',
+	'Mailing Po Box' => 'Mailing P.O. Box',
+	'Other Street' => 'Other Street',
+	'Other City' => 'Other City',
+	'Other State' => 'Other State',
+	'Other Zip' => 'Other Zip',
+	'Other Country' => 'Other Country',
+	'Other Po Box' => 'Other P.O. Box',
+	'Contact Image' => 'Contact Image',
+	'Other Phone' => 'Secondary Phone',
+	'Email' => 'Primary Email',
+	'Secondary Email' => 'Secondary Email',
+	'Contact Id' => 'Contact Id',
+    'Support Start Date' => 'Support Start Date',
+    'Support End Date'   => 'Support End Date',
 	
 	//Added for Picklist Values
-	'Mr.'=>'κος.',
-	'Ms.'=>'δις.',
-	'Mrs.'=>'κα.',
-	'Dr.'=>'δρ.',
-	'Prof.'=>'καθ.',
+	'Mr.'=>'Mr.',
+	'Ms.'=>'Ms.',
+	'Mrs.'=>'Mrs.',
+	'Dr.'=>'Dr.',
+	'Prof.'=>'Prof.',
 	
-	'User List'=>'Λίστα χρηστών',
+	'User List'=>'User List',
 );
 
 $jsLanguageStrings = array(
-        'LBL_SYNC_BUTTON' => 'Συγχρόνισε Τώρα',
-        'LBL_SYNCRONIZING' => 'Συγχρονίζει....',
-        'LBL_NOT_SYNCRONIZED' => 'Δεν έχετε συγχρονίσει ακόμα',
-        'LBL_FIELD_MAPPING' => 'Αντιστοίχιση πεδίων'
  );

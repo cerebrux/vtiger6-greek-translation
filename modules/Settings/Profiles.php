@@ -6,54 +6,48 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Profiles' => 'Προφίλ χρηστών',
-	'SINGLE_Profiles' => 'Προφίλ',
-	'LBL_ADD_RECORD' => 'Προσθήκη προφίλ',
-	'LBL_CREATE_PROFILE' => 'Δημιουργία ',
-	'LBL_PROFILE_NAME' => 'Τίτλος προφίλ',
-	'LBL_DESCRIPTION' => 'Περιγραφή',
-	'LBL_EDIT_PRIVILIGES_FOR_THIS_PROFILE' => 'Τροποποίηση προνομίων για το προφίλ',
-	'LBL_MODULES' => 'Ενότητα',
-	'LBL_PROFILE_VIEW' => 'Προβολή προφίλ',
-	'LBL_FIELDS' => 'Πεδία',
-	'LBL_TOOLS' => 'Εργαλεία',
-	'LBL_FIELD_AND_TOOL_PRVILIGES' => 'Προνόμια πεδίων και εργαλείων',
-	'LBL_EDIT_RECORD' => 'Επεξεργασία',
-	'LBL_DUPLICATE_RECORD' => 'Αντιγραφή',
-	'LBL_DELETE_RECORD' => 'Διαγραφή',
-	
-	'LBL_VIEW_PRVILIGE' => 'Προβολή',
-	'LBL_EDIT_PRVILIGE' => 'Δημιουργία/Επεξεργασία',
-	'LBL_DELETE_PRVILIGE' => 'Διαγραφή',
-	'LBL_INIVISIBLE' => 'Μη ορατό',
-	'LBL_READ_ONLY' => 'Μόνο ανάγνωση',
-	'LBL_WRITE' => 'Εγγραφή',
-	
-	'LBL_DELETE_PROFILE' => 'Διαγραφή προφίλ',
-	'LBL_TRANSFER_ROLES_TO_PROFILE' => 'Μεταφορά ρόλων στο προφίλ',
-	'LBL_PROFILES' => 'Προφίλ',
-	'LBL_CHOOSE_PROFILES' => 'Επιλογή προφίλ',
-    
-    'LBL_VIEW_ALL' => 'Προβολή όλων',
-    'LBL_EDIT_ALL' => 'Επεξεργασία όλων',
-    'LBL_VIEW_ALL_DESC' => 'Προβολή όλων των ενοτήτων',
-    'LBL_EDIT_ALL_DESC' => 'Επεξεργασία όλων των ενοτήτων',
-	'LBL_DUPLICATES_EXIST' => 'Υπάρχει ήδη προφίλ με το όνομα αυτό',
-	
+	'Profiles' => 'Profiles',
+	'SINGLE_Profiles' => 'Profile',
+	'LBL_ADD_RECORD' => 'Add Profile',
+	'LBL_CREATE_PROFILE' => 'Create Profile',
+	'LBL_PROFILE_NAME' => 'Profile name',
+	'LBL_DESCRIPTION' => 'Description',
+	'LBL_EDIT_PRIVILEGES_OF_THIS_PROFILE' => 'Edit privileges of this profile',
+	'LBL_MODULES' => 'Modules',
+	'LBL_PROFILE_VIEW' => 'Profile view',
+	'LBL_FIELDS' => 'Fields',
+	'LBL_TOOLS' => 'Tools',
+	'LBL_FIELD_AND_TOOL_PRIVILEGES' => 'Field and Tool Privileges',
+	'LBL_EDIT_RECORD' => 'Edit',
+	'LBL_DUPLICATE_RECORD' => 'Duplicate',
+	'LBL_DELETE_RECORD' => 'Delete',
+
+	'LBL_VIEW_PRVILIGE' => 'View',
+	'LBL_EDIT_PRVILIGE' => 'Create/Edit',
+	'LBL_DELETE_PRVILIGE' => 'Delete',
+	'LBL_INIVISIBLE' => 'Invisible',
+	'LBL_READ_ONLY' => 'Read only',
+	'LBL_WRITE' => 'Write',
+
+	'LBL_DELETE_PROFILE' => 'Delete Profile',
+	'LBL_TRANSFER_ROLES_TO_PROFILE' => 'Transfer roles to profile',
+	'LBL_PROFILES' => 'Profiles',
+	'LBL_CHOOSE_PROFILES' => 'Choose Profiles',
+
+	'LBL_VIEW_ALL' => 'View All',
+	'LBL_EDIT_ALL' => 'Edit All',
+	'LBL_VIEW_ALL_DESC' => 'Can view all the modules information',
+	'LBL_EDIT_ALL_DESC' => 'Can edit all the modules information',
+	'LBL_DUPLICATES_EXIST' => 'Duplicate Profile Exists',
+
+	/*Vtiger7 Strings*/
+	'LBL_EDIT_PROFILE' => 'Edit Profile',
+	'LBL_GLOBAL_PERMISSION_WARNING' => 'Warning : Users associated with this profile can access all records in the CRM',
 );
 
 $jsLanguageStrings = array(
-	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Το προφίλ διεγράφη με επιτυχία',
+	'JS_RECORD_DELETED_SUCCESSFULLY' => 'Profile deleted successfully',
 );

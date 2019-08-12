@@ -6,37 +6,28 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'HTTP_ERROR' => 'Η ιστοσελίδα που προσπαθείτε να ανοίξετε δεν είναι ασφαλής και δεν μπορεί να ανοίξει. Εάν εξακολουθείτε να θέλετε να δείτε την ιστοσελίδα τοτε μπορείτε να κάνετε κλικ στον αποκλεισμό περιεχομένου στη γραμμή διευθύνσεων για να επιτρέψετε την προβολή.',
-	'LBL_ADD_BOOKMARK' => 'Προσθήκη σελιδοδείκτη',
-	'LBL_ADD_NEW_BOOKMARK' => 'Προσθήκη νέου σελιδοδείκτη',
-	'LBL_BOOKMARK' => 'Σελιδοδείκτης',
-	'LBL_BOOKMARK_NAME' => 'Όνομα Σελιδοδείκτη',
-	'LBL_BOOKMARK_SAVED_SUCCESSFULLY' => 'Ο Σελιδοδείκτη αποθηκεύτικε επιτυχώς',
-	'LBL_BOOKMARKS' => 'Σελιδοδείκτες',
-	'LBL_BOOKMARKS_DELETED_SUCCESSFULLY' => 'Οι Σελιδοδείκτες αποθηκεύτικαν επιτυχώς',
-	'LBL_BOOKMARKS_LIST' => 'Λίστα Σελιδοεικτών',
-	'LBL_BOOKMARK_URL' => 'Διεύθηνση Σελιδοδείκτη',
-	'LBL_CREATED_ON' => 'Δημιουργήθηκε στις',
-	'LBL_EDIT_BOOKMARK' => 'Επεξεργασία Σελιδοδείκτη',
-	'LBL_ENTER_BOOKMARK_NAME' => 'Προσθέστε το όνομα του σελιδοδείκτη',
-	'LBL_ENTER_URL' => 'Προσθέστε την διεύθηση (www.example.com)',
-	'LBL_OUR_SITES_LIST' => 'Λίστα με τις ιστοσελίδες μας',
-	'LBL_RECORD_DELETED_SUCCESSFULLY' => 'Η εγγραφή διαγράφηκε επιτυχώς',
-	'Portal' => 'Οι Ιστοσελίδες μας',
-	'SINGLE_Portal' => 'Η Ιστοσελίδα μας',
+	'Portal' => 'Our Sites',
+	'LBL_ADD_BOOKMARK' => 'Add Bookmark',
+	'LBL_BOOKMARK_NAME' => 'Bookmark Name',
+	'LBL_BOOKMARK_URL' => 'Bookmark Url',
+	'LBL_CREATED_ON' => 'Created On',
+	'SINGLE_Portal' => 'Our Site',
+	'LBL_EDIT_BOOKMARK' => 'Edit Bookmark',
+	'LBL_ENTER_BOOKMARK_NAME' => 'Enter Bookmark Name',
+	'LBL_ENTER_URL' => 'Enter Url (www.example.com)',
+	'LBL_ADD_NEW_BOOKMARK' => 'Add New Bookmark',
+	'LBL_BOOKMARK_SAVED_SUCCESSFULLY' => 'Bookmark saved successfully',
+	'LBL_RECORD_DELETED_SUCCESSFULLY' => 'Record deleted successfully',
+	'LBL_OUR_SITES_LIST' => 'Our Sites List',
+	'LBL_BOOKMARKS_LIST' => 'Bookmarks List',
+	'LBL_BOOKMARKS_DELETED_SUCCESSFULLY' => 'Bookmarks deleted successfully',
+	'LBL_BOOKMARK' => 'Bookmark',
+	'LBL_BOOKMARKS' => 'Bookmarks',
+	'HTTP_ERROR' => 'The website that you are trying to open is not secure and might not open. If you still wish to view the webpage then you can click on the content blocker in the address bar and enable it.',
 );
 
 $jsLanguageStrings = array(
-    
+	'JS_ENTER_MANDATORY_FIELDS' => 'Please enter all mandatory fields',
 );

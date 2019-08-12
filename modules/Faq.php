@@ -6,38 +6,29 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'Faq' => 'Συχνές Ερωτήσεις (FAQ)',
-	'SINGLE_Faq' => 'Συχνή Ερώτηση',
-	'LBL_RECORDS_LIST' => 'Λίστα FAQ ',
-	'LBL_ADD_RECORD' => 'Προσθήκη FAQ',
-	
+	'Faq' => 'FAQ',
+	'SINGLE_Faq' => 'FAQ',
+	'LBL_RECORDS_LIST' => 'FAQs List',
+	'LBL_ADD_RECORD' => 'Add FAQ',
+
 	//Blocks
-	'LBL_FAQ_INFORMATION' => 'Πληροφορίες FAQ',
-	'LBL_COMMENT_INFORMATION' =>  'Σχόλια',
-	
+	'LBL_FAQ_INFORMATION' => 'FAQ Information',
+	'LBL_COMMENT_INFORMATION' =>  'Comments',
+
 	//Fields
-	'Question'=>'Ερώτηση',
-	'Answer'=>'Απάντηση',
-	'Comments'=>'Σχόλια',
-	'Faq No' => 'Αρ. FAQ',
-	
+	'Question'=>'Question',
+	'Answer'=>'Answer',
+	'Comments'=>'Comments',
+	'Faq No' => 'Faq Number',
+
 	//Added for existing Picklist Entries
-	'General'=>'Γενικά',
-	'Draft'=>'Πρόχειρο',
-	'Published'=>'Δημοσιεύθηκε',
-	'Obsolete'=>'Παρωχημένο',
+	'General'=>'General',
+	'Draft'=>'Draft',
+	'Published'=>'Published',
+	'Obsolete'=>'Obsolete',
 
 	//EditView
-	'LBL_SOLUTION' => 'Λύση',
+	'LBL_SOLUTION' => 'Solution',
 );

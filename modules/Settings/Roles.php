@@ -6,46 +6,42 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Roles' => 'Ρόλοι',
-	'SINGLE_Roles' => 'Ρόλος',
-	'LBL_ADD_RECORD' => 'Προσθήκη Ρόλου',
-	'LBL_DELETE_ROLE' => 'Διαγραφή Ρόλου',
-	'LBL_TRANSFER_OWNERSHIP' => 'Μεταφορά Κυριότητας',
-	'LBL_TO_OTHER_ROLE' => 'σε άλλον Ρόλο',
-	'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE' => 'Κλικ για επεξεργασία και μετακίνηση',
-	'LBL_ASSIGN_ROLE' => 'Αρμοδιότητες Ρόλου',
-	'LBL_CHOOSE_PROFILES' => 'Επιλέξτε Προφίλ',
-	'LBL_COPY_PRIVILEGES_FROM' => 'Αντιγραφή Προνομίων από',
+	'Roles' => 'Roles',
+	'SINGLE_Roles' => 'Role',
+	'LBL_ADD_RECORD' => 'Add Role',
+	'LBL_DELETE_ROLE' => 'Delete Role',
+	'LBL_TRANSFER_OWNERSHIP' => 'Transfer Ownership',
+	'LBL_TO_OTHER_ROLE' => 'To other Role',
+	'LBL_CLICK_TO_EDIT_OR_DRAG_TO_MOVE' => 'Click to edit/Drag to move',
+	'LBL_ASSIGN_ROLE' => 'Assign Role',
+	'LBL_CHOOSE_PROFILES' => 'Choose profiles',
+	'LBL_COPY_PRIVILEGES_FROM' => 'Copy privileges from',
+    'LBL_TRANSFER_TO_OTHER_ROLE' =>'Transfer ownership to other role',
 	
 	//Edit View
-	'LBL_PROFILE' => 'Προφίλ',
-	'LBL_REPORTS_TO' => 'Αναφέρετε σε/στον',
-	'LBL_NAME' => 'Όνομα',
-	'LBL_ASSIGN_NEW_PRIVILEGES' => 'Ανάθεση Προνομίων κατευθείαν στον Ρόλο',
-	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'Ανάθεση Προνομίων από υπάρχων Προφίλ',
-	'LBL_PRIVILEGES' => 'Προνόμια',
-	'LBL_DUPLICATES_EXIST' => 'Διπλότυπο Υπάρχοντες Ρόλοι',
+	'LBL_PROFILE' => 'Profile',
+	'LBL_REPORTS_TO' => 'Reports To',
+	'LBL_NAME' => 'Name',
+	'LBL_ASSIGN_NEW_PRIVILEGES' => 'Assign privileges directly to Role',
+	'LBL_ASSIGN_EXISTING_PRIVILEGES' => 'Assign priviliges from existing profiles',
+	'LBL_PRIVILEGES' => 'Privileges',
+	'LBL_DUPLICATES_EXIST' => 'Duplicate Role Exists',
 	
 	//Assign Records to
-	'LBL_CAN_ASSIGN_RECORDS_TO' => 'Μπορούν να ανατεθούν καταγραφές σε/στον',
-	'LBL_ALL_USERS' => 'Όλοι οι Χρήστες',
-	'LBL_USERS_WITH_LOWER_LEVEL' => 'Χρήστες με Υφιστάμενο Ρόλου',
-	'LBL_USERS_WITH_SAME_OR_LOWER_LEVEL' => 'Χρήστες με ίδιο η υφιστάμενο Ρόλο',
+	'LBL_CAN_ASSIGN_RECORDS_TO' => 'Can Assign Records To',
+	'LBL_ALL_USERS' => 'All Users',
+	'LBL_USERS_WITH_LOWER_LEVEL' => 'Users having Subordinate Role',
+	'LBL_USERS_WITH_SAME_OR_LOWER_LEVEL' => 'Users having Same Role or Subordinate Role',
+    
+    /*Vtiger7 String*/
+    'LBL_EDIT_ROLE' => 'Edit Role',
+	'LBL_CREATE_ROLE' => 'Create Role',
 );
 
 $jsLanguageStrings = array(
-	'JS_PERMISSION_DENIED' => 'Άρνηση Δικαιωμάτων',
-	'JS_NO_PERMISSIONS_TO_MOVE' => 'Κανένα δικαίωμα για Μετακίνηση',
+	'JS_PERMISSION_DENIED' => 'Permissions Denied',
+	'JS_NO_PERMISSIONS_TO_MOVE' => 'No Permissions to Move',
 );

@@ -6,28 +6,22 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'PriceBooks' => 'Τιμοκατάλογοι',
-	'SINGLE_PriceBooks' => 'Τιμοκατάλογος',
-	'LBL_ADD_RECORD' => 'Προσθήκη Τιμοκαταλόγου',
-	'LBL_RECORDS_LIST' => 'Λίστα Τιμοκαταλόγων',
+	'PriceBooks' => 'Price Books',
+	'SINGLE_PriceBooks' => 'Price Book',
+	'LBL_ADD_RECORD' => 'Add Price Book',
+	'LBL_RECORDS_LIST' => 'Price Books List',
 
 	// Blocks
-	'LBL_PRICEBOOK_INFORMATION' => 'Πληροφορίες Τιμοκαταλόγου',
-	'LBL_EDIT_LIST_PRICE' => 'Επεξεργασία Τιμοκαταλόγου',
+	'LBL_PRICEBOOK_INFORMATION' => 'Price Book Details',
+	'LBL_EDIT_LIST_PRICE' => 'Edit List Price',
 
 	//Field Labels
-	'Price Book Name' => 'Όνομα Τιμοκαταλόγου',
-	'PriceBook No' => 'Αρ. Τιμοκαταλόγου',
+	'Price Book Name' => 'Price Book Name',
+	'PriceBook No' => 'Price Book Number',
+
+	'LBL_UNIT_PRICE' => 'Unit Price',
+	'LBL_ADD_TO' => 'Add to',
 );

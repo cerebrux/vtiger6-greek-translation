@@ -6,34 +6,26 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  ************************************************************************************/
 
-$languageStrings = array(
-    'LBL_ADD_FEED_SOURCE' => 'Προσθέστε ροές',
-    'LBL_ENTER_FEED_SOURCE' => 'Προσθέστε πηγή ροών',
-    'LBL_FEEDS_LIST_FROM' => 'Λίστα από ροή',
-    'LBL_FEED_SOURCE' => 'Πηγή ροής',
-	'LBL_RSS_FEED_SOURCES' => 'Πηγές ροής',
-    'LBL_SENDER' => 'Αποστολέας',
-    'LBL_SET_AS_DEFAULT' => 'Ορισμός ως Προεπιλογή',
-    'SINGLE_Rss' => 'Ροή',
+$languageStrings = Array(
+    'Rss'=>'Rss',
+    'LBL_RSS_FEED_SOURCES' => 'Rss Feed Sources',
+    'LBL_ADD_FEED_SOURCE' => 'Add Feed Source',
+    'LBL_FEEDS_LIST_FROM' => 'Feeds List From',
+    'LBL_SET_AS_DEFAULT' => 'Set As Default',
+    'LBL_SENDER' => 'Sender',
+    'LBL_FEED_SOURCE' => 'Feed Source',
+    'LBL_ENTER_FEED_SOURCE' => 'Enter Feed Source',
+    'SINGLE_Rss' => 'Rss Feed',
 );
 
 $jsLanguageStrings = array(
-    'JS_INVALID_RSS_URL' => 'Άκυρη Ροή Διεύθυνσης',
-    'JS_RSS_MADE_AS_DEFAULT' => 'Η ροή είναι ως προεπιλογή',
-	'JS_RSS_SUCCESSFULLY_SAVED' => 'Η ροή αποθηκεύτηκε επιτυχώς',
+	'JS_RSS_SUCCESSFULLY_SAVED' => 'Rss Successfully saved',
+    'JS_INVALID_RSS_URL' => 'Invalid Rss Url',
+    'JS_RSS_MADE_AS_DEFAULT' => 'Rss Made as Default',
+    'JS_NO_RECORDS' => 'No Records',
 
 );
-
 
 ?>

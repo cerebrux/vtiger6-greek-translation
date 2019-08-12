@@ -6,33 +6,24 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Accounts' => 'Οργανισμοί',
-	'SINGLE_Accounts' => 'Οργανισμός',
-	'LBL_ADD_RECORD' => 'Προσθήκη Οργανισμού',
-	'LBL_RECORDS_LIST' => 'Λίστα Οργανισμών',
+	'Accounts' => 'Εταιρείες',
+	'SINGLE_Accounts' => 'Εταιρεία',
+	'LBL_ADD_RECORD' => 'Προσθήκη Εταιρείας',
+	'LBL_RECORDS_LIST' => 'Λίστα Εταιρειών',
 
 	// Blocks
-	'LBL_ACCOUNT_INFORMATION' => 'Λεπτομέρειες Οργανισμού',
+	'LBL_ACCOUNT_INFORMATION' => 'Λεπτομέρειες Εταιρείας',
 
 	// Mass Action
-	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Ιεραρχία Οργανισμού',
+	'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Ιεραρχία Εταιρείας',
 
 	//Field Labels
 	'industry' => 'Βιομηχανία',
-	'Account Name' => 'Όνομα Οργανισμού',
-	'Account No' => 'Αριθμός Οργανισμού',
+	'Account Name' => 'Όνομα Εταιρείας',
+	'Account No' => 'Αριθμός Εταιρείας',
 	'Website' => 'Ιστοσελίδα',
 	'Ticker Symbol' => 'Σύμβολο Μετοχής',
 	'Member Of' => 'Μέλος...',
@@ -43,9 +34,9 @@ $languageStrings = array(
 	'Other Phone' => 'Δευτερεύων Τηλ',
 	'Phone' => 'Τηλέφωνο',
 	'Email' => 'Email',
-	
+	'Type' => 'Είδος',
+
 	//Added for existing picklist entries
-	
 	'Analyst'=>'Αναλυτής',
 	'Competitor'=>'Ανταγωνιστής',
 	'Customer'=>'Πελάτης',
@@ -58,14 +49,16 @@ $languageStrings = array(
 	'LBL_END_DATE' => 'Ημερομηνία Λήξης',
 	
 	//Duplication error message
-	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Οργάνωσης υπάρχει ήδη',
+	'LBL_DUPLICATES_EXIST' => 'Το Όνομα Εταρείας υπάρχει ήδη',
 	'LBL_COPY_SHIPPING_ADDRESS' => 'Αντιγραφή Διεύθυνσης αποστολής',
 	'LBL_COPY_BILLING_ADDRESS' => 'Αντιγραφή Διεύθυνσης χρέωσης',
+	'LBL_IMAGE_INFORMATION' => 'Φωτογραφία Προφίλ',
+	'Organization Image' => 'Φωτογραφία Εταιρείας',
 );
 
 $jsLanguageStrings = array(
 	'LBL_RELATED_RECORD_DELETE_CONFIRMATION' => 'Είστε σίγουροι ότι θέλετε να διαγράψετε;',
-	'LBL_DELETE_CONFIRMATION' => 'Η διαγραφή αυτού του Οργανισμού θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε αυτόν τον Οργανισμό;',
-	'LBL_MASS_DELETE_CONFIRMATION' => 'Διαγραφή αυτού του Οργανισμού(ων) θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε τα επιλεγμένα στοιχεία;',
-	'JS_DUPLICTAE_CREATION_CONFIRMATION' => 'Το όνομα του Οργανισμού υπάρχει ήδη. Θέλετε να δημιουργήσετε μια διπλότυπη εγγραφή;',
+	'LBL_DELETE_CONFIRMATION' => 'Η διαγραφή της Εταιρείας θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε αυτή την Εταιρεία;',
+	'LBL_MASS_DELETE_CONFIRMATION' => 'Διαγραφή της(ών) Εταιρείας(ων) θα αφαιρέσει σχετικές Ευκαιρίες και Προσφορές. Είστε σίγουροι ότι θέλετε να διαγράψετε τα επιλεγμένα στοιχεία;',
+	'JS_DUPLICATE_CREATION_CONFIRMATION' => 'Το όνομα της Εταιρείας υπάρχει ήδη. Θέλετε να δημιουργήσετε μια διπλότυπη εγγραφή;'
 );

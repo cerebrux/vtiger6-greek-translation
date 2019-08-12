@@ -6,71 +6,66 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
 	// Basic Strings
-	'Campaigns' => 'Εκστρατείες',
-	'SINGLE_Campaigns' => 'Εκστρατεία',
-	'LBL_ADD_RECORD' => 'Προσθήκη Εκστρατείας',
-	'LBL_RECORDS_LIST' => 'Λίστα Εκστρατειών',
+	'Campaigns' => 'Campaigns',
+	'SINGLE_Campaigns' => 'Campaign',
+	'LBL_ADD_RECORD' => 'Add Campaign',
+	'LBL_RECORDS_LIST' => 'Campaigns List',
 
 	// Blocks
-	'LBL_CAMPAIGN_INFORMATION' => 'Λεπτομέρειες Εκστρατειών',
-	'LBL_EXPECTATIONS_AND_ACTUALS' => 'Προσδοκώμενα & Πραγματικά Στοιχεία',
-	
+	'LBL_CAMPAIGN_INFORMATION' => 'Campaign Details',
+	'LBL_EXPECTATIONS_AND_ACTUALS' => 'Expectations & Actuals',
+
 	//Field Labels
-	'Campaign Name' => 'Όνομα Εκστρατείας',
-	'Campaign No' => 'Αρ. Εκστρατείας', 
-	'Campaign Type' => 'Είδος Εκστρατείας', 
-	'Product' => 'Προϊόν',
-	'Campaign Status' => 'Κατάσταση Εκστρατείας',
-	'Num Sent' => 'Αρ. Απεσταλμένων',
-	'Sponsor' => 'Χορηγός',
-	'Target Audience' => 'Στοχευμένοι Αποδέκτες',
-	'TargetSize' => 'Μέγεθος Αποδεκτών',
-	'Expected Response' => 'Αναμενόμενη Ανταπόκριση',
-	'Expected Revenue' => 'Αναμενόμενο Κέρδος',
-	'Budget Cost' => 'Προϋπολογιζόμενο Κόστος',
-	'Actual Cost' => 'Πραγματικό Κόστος',
-	'Expected Response Count' => 'Αναμενόμενος Αριθμός Ανταποκρίσεων',
-	'Expected Sales Count' => 'Αναμενόμενος Αριθμός Πωλήσεων',
-	'Expected ROI' => 'Αναμενόμενο Ποσοστό Κέρδους',
-	'Actual Response Count' => 'Πραγματικός Αριθμός Ανταποκρίσεων',
-	'Actual Sales Count' => 'Πραγματικός Αριθμός Πωλήσεων',
-	'Actual ROI' => 'Πραγματικό Ποσοστό Κέρδους',
-	
+	'Campaign Name' => 'Campaign Name',
+	'Campaign No' => 'Campaign No', 
+	'Campaign Type' => 'Campaign Type', 
+	'Product' => 'Product',
+	'Campaign Status' => 'Campaign Status',
+	'Num Sent' => 'Num Sent',
+	'Sponsor' => 'Sponsor',
+	'Target Audience' => 'Target Audience',
+	'TargetSize' => 'TargetSize',
+	'Expected Response' => 'Expected Response',
+	'Expected Revenue' => 'Expected Revenue',
+	'Budget Cost' => 'Budget Cost',
+	'Actual Cost' => 'Actual Cost',
+	'Expected Response Count' => 'Expected Response Count',
+	'Expected Sales Count' => 'Expected Sales Count',
+	'Expected ROI' => 'Expected ROI',
+	'Actual Response Count' => 'Actual Response Count',
+	'Actual Sales Count' => 'Actual Sales Count',
+	'Actual ROI' => 'Actual ROI',
+
 	//Added for existing Picklist Entries
 
-	'Webinar'=>'Διαδικτυακό Σεμινάριο',
-	'Referral Program'=>'Δικτυακό Μάρκετινγκ',
-	'Advertisement'=>'Διαφήμιση',
-	'Banner Ads'=>'Διαφήμιση με Banner',
-	'Direct Mail'=>'Αλληλογραφία',
-	'Telemarketing'=>'Τηλεμάρκετινγκ',
-	'Others'=>'Άλλα',
+	'Webinar'=>'Webinar',
+	'Referral Program'=>'Referral Program',
+	'Advertisement'=>'Advertisement',
+	'Banner Ads'=>'Banner Ads',
+	'Direct Mail'=>'Direct Mail',
+	'Telemarketing'=>'Telemarketing',
+	'Others'=>'Others',
 
-	'Planning'=>'Σχεδιασμός',						      	    
-	'Inactive'=>'Ενεργό',
-	'Complete'=>'Ολοκληρώθηκε',
-	'Cancelled'=>'Ακυρώθηκε',							      
+	'Planning'=>'Planning',						      	    
+	'Inactive'=>'Inactive',
+	'Complete'=>'Complete',
+	'Cancelled'=>'Cancelled',							      
 
-	'Excellent'=>'Άριστο',
-	'Good'=>'Καλό',
-	'Average'=>'Μέτριο',
-	'Poor'=>'Κακό',
-	
+	'Excellent'=>'Excellent',
+	'Good'=>'Good',
+	'Average'=>'Average',
+	'Poor'=>'Poor',
+
 	// status fields 
-	'--None--'=>'--Κανένα--',
-	'Contacted - Successful' => 'Έγινε Επικοινωνία - Επιτυχημένη',
-	'Contacted - Unsuccessful' => 'Έγινε Επικοινωνία - Ανεπιτυχής',
-	'Contacted - Never Contact Again' => 'Έγινε Επικοινωνία - Ποτέ Ξανά Επικοινωνία',
+	'--None--'=>'--None--',
+	'Contacted - Successful' => 'Contacted - Successful',
+	'Contacted - Unsuccessful' => 'Contacted - Unsuccessful',
+	'Contacted - Never Contact Again' => 'Contacted - Never Contact Again',
+);
+
+$jsLanguageStrings = array(
+	'JS_APPENDED_TO_EXISTING_LIST' => '%s from the selected list will be appended with the existing list.',
 );

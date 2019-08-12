@@ -6,29 +6,20 @@
  * The Initial Developer of the Original Code is vtiger.
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
- * 
- * Greek Translation Project initiated : 13 February 2014
- * Repository : https://github.com/cerebrux/vtiger6-greek-translation
- * Author(s):
- *  -- Salih Emin (http://www.linkedin.com/in/salihemin)
- *  -- Mathias Stavrou (http://mstavrou.com/)
- *  -- Konstantinos Paraskeuopoulos (https://www.linkedin.com/in/kparaskevopoulos)
- *  -- Dimitris Anagnostou
- *  -- More: https://github.com/cerebrux/vtiger6-greek-translation/graphs/contributors
  *************************************************************************************/
 $languageStrings = array(
-	'LBL_ADD_RECORD' => 'Προσθήκη ισοτιμίας',
-	'LBL_EDIT_CURRENCY' => 'Τροποποίηση ισοτιμίας',
-	'LBL_ADD_NEW_CURRENCY' => 'Προσθήκη νέας ισοτιμίας',
-	'LBL_CURRENCY_NAME' => 'Τίτλος ισοτιμίας',
-	'LBL_CURRENCY_CODE' => 'Κωδ. ισοτιμίας',
-	'LBL_CURRENCY_SYMBOL' => 'Σύμβολο',
-	'LBL_CONVERSION_RATE' => 'Ρυθμός μετατροπής',
-	'LBL_ENTER_CONVERSION_RATE' => 'Εισαγωγή ρυθμού μετατροπής',
-	'LBL_CURRENCY_STATUS_DESC' => 'Ενεργοποίηση ισοτιμίας',
-	'LBL_TRANSFER_CURRENCY' => 'Μεταφορά ισοτιμίας',
-	'LBL_CURRENT_CURRENCY' => 'Ισοτιμία',
-	
+	'LBL_ADD_RECORD' => 'Add Currency',
+	'LBL_EDIT_CURRENCY' => 'Edit Currency',
+	'LBL_ADD_NEW_CURRENCY' => 'Add New Currency',
+	'LBL_CURRENCY_NAME' => 'Currency Name',
+	'LBL_CURRENCY_CODE' => 'Currency Code',
+	'LBL_CURRENCY_SYMBOL' => 'Symbol',
+	'LBL_CONVERSION_RATE' => 'Conversion Rate',
+	'LBL_ENTER_CONVERSION_RATE' => 'Enter Conversion Rate',
+	'LBL_CURRENCY_STATUS_DESC' => 'Enable checkbox to make currency Active',
+	'LBL_TRANSFER_CURRENCY' => 'Transfer Currency',
+	'LBL_CURRENT_CURRENCY' => 'Current Currency',
+
 	//currency names
 	'Albania, Leke' 		=> 'Albania, Leke',
 	'Argentina, Pesos' 		=> 'Argentina, Pesos',
@@ -164,6 +155,6 @@ $languageStrings = array(
 );
 
 $jsLanguageStrings = array(
-	'JS_CURRENCY_DETAILS_SAVED' => 'Τα στοιχεία τις ισοτιμίας αποθηκεύτηκαν',
-	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Η ισοτιμία διεγράφη με επιτυχία',
+	'JS_CURRENCY_DETAILS_SAVED' => 'Currency Details Saved',
+	'JS_CURRENCY_DELETED_SUEESSFULLY' => 'Currency Deleted Successfully',
 );
